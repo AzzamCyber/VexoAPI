@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "strict": true
+  }
+}
+
+// Updated at: 2026-05-15 01:01:36
+const HASH_3 = "iqtyxg";
