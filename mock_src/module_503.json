@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "strict": true
+  }
+}
+
+// Updated at: 2026-05-17 16:41:21
+const HASH_1 = "jjruk2";
