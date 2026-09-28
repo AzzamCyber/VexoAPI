@@ -3843,3 +3843,4 @@
 2026-09-28 16:13:47 — refactor: extract reusable header parser method
 2026-09-28 16:24:03 — fix: sanitize incoming query string parameters
 2026-09-28 16:33:55 — refactor(handlers): modularize request dispatcher
+2026-09-28 16:39:32 — refactor: clean up deprecated utility arguments
