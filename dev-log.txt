@@ -3984,3 +3984,4 @@
 2026-09-28 23:00:50 — perf: improve response latency for cached lookups
 2026-09-28 23:08:59 — docs(readme): polish quick-start guide and examples
 2026-09-28 23:13:38 — fix: sanitize incoming query string parameters
+2026-09-28 23:18:18 — chore: verify environment configuration defaults
