@@ -3986,3 +3986,4 @@
 2026-09-28 23:13:38 — fix: sanitize incoming query string parameters
 2026-09-28 23:18:18 — chore: verify environment configuration defaults
 2026-09-28 23:30:39 — 🧹 Clean up kode komentar lama dan format styling
+2026-09-28 23:38:31 — docs: document internal helper functions and return values
