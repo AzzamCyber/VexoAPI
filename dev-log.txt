@@ -3974,3 +3974,4 @@
 2026-09-28 21:28:25 — perf: reduce redundant object allocations in loop
 2026-09-28 21:34:41 — docs: add request payload examples for webhook receiver
 2026-09-28 21:45:14 — fix(telemetry): suppress transient network warning in dev mode
+2026-09-28 21:55:51 — docs: update parameter types and response schema
