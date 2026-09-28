@@ -3815,3 +3815,4 @@
 2026-09-28 11:26:35 — chore: verify environment configuration defaults
 2026-09-28 11:40:23 — refactor(utils): optimize string sanitizer helpers
 2026-09-28 11:52:49 — docs: document internal helper functions and return values
+2026-09-28 12:07:38 — refactor(routes): simplify validation logic in controller
