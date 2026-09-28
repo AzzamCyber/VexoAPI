@@ -3959,3 +3959,4 @@
 2026-09-28 18:52:49 — style: format JSON schemas and configuration comments
 2026-09-28 18:58:21 — style: reorganize import statements alphabetically
 2026-09-28 19:09:03 — fix(validation): handle edge-case null values in params
+2026-09-28 19:17:46 — refactor: extract reusable header parser method
