@@ -3951,3 +3951,4 @@
 2026-09-28 17:22:22 — docs: update API telemetry and endpoint references
 2026-09-28 17:36:52 — chore(deps): audit dependencies and check for updates
 2026-09-28 17:49:44 — fix(types): update type annotations for payload handler
+2026-09-28 18:05:03 — refactor(routes): simplify validation logic in controller
