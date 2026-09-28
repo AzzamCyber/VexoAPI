@@ -3754,3 +3754,4 @@
 2026-09-28 11:56:58 — ✨ Optimasi logic handler dan routing internal
 2026-09-28 12:12:42 — refactor(routes): simplify validation logic in controller
 2026-09-28 12:25:17 — style: normalize trailing whitespace across modules
+2026-09-28 12:36:54 — style: format JSON schemas and configuration comments
