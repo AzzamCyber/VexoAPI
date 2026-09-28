@@ -3855,3 +3855,4 @@
 2026-09-28 18:11:36 — docs: update parameter types and response schema
 2026-09-28 18:16:17 — chore: update internal build metadata and telemetry
 2026-09-28 18:26:24 — perf: optimize lookup table execution speed
+2026-09-28 18:29:37 — fix: correct status code return on missing authorization
