@@ -3767,3 +3767,4 @@
 2026-09-28 15:43:16 — fix: correct status code return on missing authorization
 2026-09-28 15:59:32 — fix(cors): normalize default allowed origin headers
 2026-09-28 16:20:53 — perf: optimize memory footprint on payload parser
+2026-09-28 16:34:27 — perf: reduce redundant object allocations in loop
