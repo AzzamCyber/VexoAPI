@@ -3890,3 +3890,4 @@
 2026-09-28 23:16:59 — style: normalize trailing whitespace across modules
 2026-09-28 23:25:46 — fix(cors): normalize default allowed origin headers
 2026-09-28 23:39:06 — refactor(utils): optimize string sanitizer helpers
+2026-09-28 23:48:53 — docs: update API telemetry and endpoint references
