@@ -3765,3 +3765,4 @@
 2026-09-28 15:07:18 — perf: optimize lookup table execution speed
 2026-09-28 15:29:56 — docs: update API telemetry and endpoint references
 2026-09-28 15:43:16 — fix: correct status code return on missing authorization
+2026-09-28 15:59:32 — fix(cors): normalize default allowed origin headers
