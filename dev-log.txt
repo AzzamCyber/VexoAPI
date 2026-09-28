@@ -3811,3 +3811,4 @@
 2026-09-28 10:56:33 — docs: update API telemetry and endpoint references
 2026-09-28 11:00:43 — refactor: extract reusable header parser method
 2026-09-28 11:05:35 — fix: guard against undefined property access in mapper
+2026-09-28 11:13:53 — chore: synchronize project version constants
