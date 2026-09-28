@@ -3872,3 +3872,4 @@
 2026-09-28 20:39:34 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-09-28 20:42:50 — style: format JSON schemas and configuration comments
 2026-09-28 20:58:04 — style: align formatting with project linter standards
+2026-09-28 21:09:53 — fix(cors): normalize default allowed origin headers
