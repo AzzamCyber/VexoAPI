@@ -3979,3 +3979,4 @@
 2026-09-28 22:19:20 — refactor(utils): optimize string sanitizer helpers
 2026-09-28 22:27:01 — refactor: organize constant definitions and status codes
 2026-09-28 22:37:11 — 🐛 Perbaikan minor pengecekan response status code
+2026-09-28 22:40:25 — fix: guard against undefined property access in mapper
