@@ -3814,3 +3814,4 @@
 2026-09-28 11:13:53 — chore: synchronize project version constants
 2026-09-28 11:26:35 — chore: verify environment configuration defaults
 2026-09-28 11:40:23 — refactor(utils): optimize string sanitizer helpers
+2026-09-28 11:52:49 — docs: document internal helper functions and return values
