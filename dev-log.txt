@@ -3801,3 +3801,4 @@
 2026-09-28 09:21:00 — perf: reduce redundant object allocations in loop
 2026-09-28 09:24:37 — style: align formatting with project linter standards
 2026-09-28 09:37:18 — docs: clarify rate-limit error responses in documentation
+2026-09-28 09:47:24 — docs: update parameter types and response schema
