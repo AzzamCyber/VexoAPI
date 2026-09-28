@@ -3946,3 +3946,4 @@
 2026-09-28 16:33:37 — docs: add changelog notes for recent updates
 2026-09-28 16:43:49 — style: normalize trailing whitespace across modules
 2026-09-28 16:47:43 — refactor(core): streamline internal request pipeline
+2026-09-28 16:56:28 — perf: fine-tune buffer size for streaming responses
