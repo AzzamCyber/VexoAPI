@@ -3796,3 +3796,4 @@
 2026-09-28 08:44:42 — refactor(core): streamline internal request pipeline
 2026-09-28 08:56:51 — style: reorganize import statements alphabetically
 2026-09-28 09:04:07 — docs: add changelog notes for recent updates
+2026-09-28 09:11:43 — perf: optimize memory footprint on payload parser
