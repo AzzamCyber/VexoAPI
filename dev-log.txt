@@ -3831,3 +3831,4 @@
 2026-09-28 14:11:06 — chore: update internal build metadata and telemetry
 2026-09-28 14:21:20 — refactor: clean up deprecated utility arguments
 2026-09-28 14:33:46 — ⚙️ Penyesuaian konfigurasi default environment
+2026-09-28 14:38:59 — fix: correct status code return on missing authorization
