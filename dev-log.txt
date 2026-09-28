@@ -3934,3 +3934,4 @@
 2026-09-28 14:39:44 — perf: improve response latency for cached lookups
 2026-09-28 14:43:09 — perf: fine-tune buffer size for streaming responses
 2026-09-28 14:56:56 — perf: optimize lookup table execution speed
+2026-09-28 15:05:18 — docs(readme): polish quick-start guide and examples
