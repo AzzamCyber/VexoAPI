@@ -3757,3 +3757,4 @@
 2026-09-28 12:36:54 — style: format JSON schemas and configuration comments
 2026-09-28 12:58:12 — fix(types): update type annotations for payload handler
 2026-09-28 13:10:34 — refactor: organize constant definitions and status codes
+2026-09-28 13:32:08 — docs: document internal helper functions and return values
