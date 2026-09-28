@@ -3813,3 +3813,4 @@
 2026-09-28 11:05:35 — fix: guard against undefined property access in mapper
 2026-09-28 11:13:53 — chore: synchronize project version constants
 2026-09-28 11:26:35 — chore: verify environment configuration defaults
+2026-09-28 11:40:23 — refactor(utils): optimize string sanitizer helpers
