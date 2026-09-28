@@ -3937,3 +3937,4 @@
 2026-09-28 15:05:18 — docs(readme): polish quick-start guide and examples
 2026-09-28 15:10:43 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-09-28 15:18:22 — 📝 Update dokumentasi endpoint dan response schema
+2026-09-28 15:29:54 — docs: update parameter types and response schema
