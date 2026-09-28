@@ -3904,3 +3904,4 @@
 2026-09-28 09:56:21 — 📚 Pembaruan panduan integrasi pada README
 2026-09-28 10:10:49 — style: format JSON schemas and configuration comments
 2026-09-28 10:23:43 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-09-28 10:39:24 — docs: document internal helper functions and return values
