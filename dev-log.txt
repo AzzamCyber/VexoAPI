@@ -3857,3 +3857,4 @@
 2026-09-28 18:26:24 — perf: optimize lookup table execution speed
 2026-09-28 18:29:37 — fix: correct status code return on missing authorization
 2026-09-28 18:43:00 — refactor(core): streamline internal request pipeline
+2026-09-28 18:51:11 — docs: document internal helper functions and return values
