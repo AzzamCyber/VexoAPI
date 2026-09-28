@@ -3809,3 +3809,4 @@
 2026-09-28 10:34:17 — style: normalize trailing whitespace across modules
 2026-09-28 10:47:01 — style: format JSON schemas and configuration comments
 2026-09-28 10:56:33 — docs: update API telemetry and endpoint references
+2026-09-28 11:00:43 — refactor: extract reusable header parser method
