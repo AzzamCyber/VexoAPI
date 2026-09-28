@@ -3891,3 +3891,4 @@
 2026-09-28 23:25:46 — fix(cors): normalize default allowed origin headers
 2026-09-28 23:39:06 — refactor(utils): optimize string sanitizer helpers
 2026-09-28 23:48:53 — docs: update API telemetry and endpoint references
+2026-09-28 08:25:48 — fix: sanitize incoming query string parameters
