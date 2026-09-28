@@ -3769,3 +3769,4 @@
 2026-09-28 16:20:53 — perf: optimize memory footprint on payload parser
 2026-09-28 16:34:27 — perf: reduce redundant object allocations in loop
 2026-09-28 16:48:43 — docs(readme): polish quick-start guide and examples
+2026-09-28 17:03:27 — refactor(utils): optimize string sanitizer helpers
