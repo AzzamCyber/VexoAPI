@@ -3879,3 +3879,4 @@
 2026-09-28 21:47:55 — docs: update API telemetry and endpoint references
 2026-09-28 22:03:12 — fix(telemetry): suppress transient network warning in dev mode
 2026-09-28 22:13:36 — perf: optimize memory footprint on payload parser
+2026-09-28 22:24:25 — perf: fine-tune buffer size for streaming responses
