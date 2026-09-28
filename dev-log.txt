@@ -3921,3 +3921,4 @@
 2026-09-28 12:43:17 — perf: reduce redundant object allocations in loop
 2026-09-28 12:50:10 — docs: add changelog notes for recent updates
 2026-09-28 13:03:29 — chore(deps): audit dependencies and check for updates
+2026-09-28 13:06:50 — docs: fix typo in authentication header instructions
