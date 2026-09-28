@@ -3825,3 +3825,4 @@
 2026-09-28 13:17:20 — refactor(handlers): modularize request dispatcher
 2026-09-28 13:32:00 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-09-28 13:42:12 — docs(readme): polish quick-start guide and examples
+2026-09-28 13:46:35 — docs: add request payload examples for webhook receiver
