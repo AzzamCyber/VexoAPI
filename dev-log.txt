@@ -3909,3 +3909,4 @@
 2026-09-28 10:50:20 — fix: correct status code return on missing authorization
 2026-09-28 11:00:03 — docs: clarify rate-limit error responses in documentation
 2026-09-28 11:14:14 — refactor(handlers): modularize request dispatcher
+2026-09-28 11:29:57 — chore: synchronize project version constants
