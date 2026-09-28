@@ -3771,3 +3771,4 @@
 2026-09-28 16:48:43 — docs(readme): polish quick-start guide and examples
 2026-09-28 17:03:27 — refactor(utils): optimize string sanitizer helpers
 2026-09-28 17:18:11 — fix(validation): handle edge-case null values in params
+2026-09-28 17:37:33 — chore: synchronize project version constants
