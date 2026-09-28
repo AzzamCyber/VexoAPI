@@ -3865,3 +3865,4 @@
 2026-09-28 19:40:37 — 📝 Update dokumentasi endpoint dan response schema
 2026-09-28 19:52:47 — perf: improve response latency for cached lookups
 2026-09-28 19:59:33 — style: reorganize import statements alphabetically
+2026-09-28 20:09:03 — fix: guard against undefined property access in mapper
