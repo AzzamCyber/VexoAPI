@@ -3800,3 +3800,4 @@
 2026-09-28 09:15:54 — chore(deps): audit dependencies and check for updates
 2026-09-28 09:21:00 — perf: reduce redundant object allocations in loop
 2026-09-28 09:24:37 — style: align formatting with project linter standards
+2026-09-28 09:37:18 — docs: clarify rate-limit error responses in documentation
