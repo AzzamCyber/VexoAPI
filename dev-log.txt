@@ -3877,3 +3877,4 @@
 2026-09-28 21:26:38 — refactor: organize constant definitions and status codes
 2026-09-28 21:32:07 — 📚 Pembaruan panduan integrasi pada README
 2026-09-28 21:47:55 — docs: update API telemetry and endpoint references
+2026-09-28 22:03:12 — fix(telemetry): suppress transient network warning in dev mode
