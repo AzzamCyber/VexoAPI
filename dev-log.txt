@@ -3782,3 +3782,4 @@
 2026-09-28 19:54:42 — docs: clarify rate-limit error responses in documentation
 2026-09-28 20:08:08 — fix(telemetry): suppress transient network warning in dev mode
 2026-09-28 20:27:51 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-09-28 20:49:32 — refactor: clean up deprecated utility arguments
