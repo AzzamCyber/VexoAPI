@@ -3924,3 +3924,4 @@
 2026-09-28 13:06:50 — docs: fix typo in authentication header instructions
 2026-09-28 13:22:25 — refactor(core): streamline internal request pipeline
 2026-09-28 13:25:36 — ⚙️ Penyesuaian konfigurasi default environment
+2026-09-28 13:38:21 — fix(validation): handle edge-case null values in params
