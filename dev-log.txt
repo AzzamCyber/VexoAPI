@@ -3887,3 +3887,4 @@
 2026-09-28 22:56:27 — refactor: reduce nesting in error propagation flow
 2026-09-28 23:04:12 — docs: fix typo in authentication header instructions
 2026-09-28 23:11:44 — style: standardize indentation in response templates
+2026-09-28 23:16:59 — style: normalize trailing whitespace across modules
