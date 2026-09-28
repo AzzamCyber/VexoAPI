@@ -3897,3 +3897,4 @@
 2026-09-28 08:58:04 — chore: update internal build metadata and telemetry
 2026-09-28 09:07:51 — fix(cors): normalize default allowed origin headers
 2026-09-28 09:21:00 — perf: optimize memory footprint on payload parser
+2026-09-28 09:28:37 — refactor(routes): simplify validation logic in controller
