@@ -3780,3 +3780,4 @@
 2026-09-28 19:28:05 — 📚 Pembaruan panduan integrasi pada README
 2026-09-28 19:39:49 — style: reorganize import statements alphabetically
 2026-09-28 19:54:42 — docs: clarify rate-limit error responses in documentation
+2026-09-28 20:08:08 — fix(telemetry): suppress transient network warning in dev mode
