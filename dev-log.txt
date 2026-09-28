@@ -3912,3 +3912,4 @@
 2026-09-28 11:29:57 — chore: synchronize project version constants
 2026-09-28 11:33:33 — style: align formatting with project linter standards
 2026-09-28 11:48:06 — fix: guard against undefined property access in mapper
+2026-09-28 11:53:44 — fix(telemetry): suppress transient network warning in dev mode
