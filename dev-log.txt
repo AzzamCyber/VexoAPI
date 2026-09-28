@@ -3860,3 +3860,4 @@
 2026-09-28 18:51:11 — docs: document internal helper functions and return values
 2026-09-28 18:59:43 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-09-28 19:08:06 — chore: synchronize project version constants
+2026-09-28 19:17:51 — refactor(routes): simplify validation logic in controller
