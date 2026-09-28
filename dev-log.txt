@@ -3969,3 +3969,4 @@
 2026-09-28 20:31:26 — style: align formatting with project linter standards
 2026-09-28 20:47:00 — ✨ Optimasi logic handler dan routing internal
 2026-09-28 20:59:11 — fix: correct status code return on missing authorization
+2026-09-28 21:10:51 — refactor(handlers): modularize request dispatcher
