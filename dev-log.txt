@@ -3893,3 +3893,4 @@
 2026-09-28 23:48:53 — docs: update API telemetry and endpoint references
 2026-09-28 08:25:48 — fix: sanitize incoming query string parameters
 2026-09-28 08:40:03 — refactor: extract reusable header parser method
+2026-09-28 08:47:48 — fix(types): update type annotations for payload handler
