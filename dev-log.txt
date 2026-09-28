@@ -3763,3 +3763,4 @@
 2026-09-28 14:24:30 — refactor: reduce nesting in error propagation flow
 2026-09-28 14:43:57 — 🐛 Perbaikan minor pengecekan response status code
 2026-09-28 15:07:18 — perf: optimize lookup table execution speed
+2026-09-28 15:29:56 — docs: update API telemetry and endpoint references
