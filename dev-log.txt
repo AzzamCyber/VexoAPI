@@ -4012,3 +4012,4 @@
 2026-09-29 11:15:51 — refactor: clean up deprecated utility arguments
 2026-09-29 11:22:00 — chore(ci): adjust workflow step timeout tolerance
 2026-09-29 11:31:53 — docs: add request payload examples for webhook receiver
+2026-09-29 11:42:34 — docs: document internal helper functions and return values
