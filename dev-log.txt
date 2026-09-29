@@ -4085,3 +4085,4 @@
 2026-09-29 23:25:47 — 🧹 Clean up kode komentar lama dan format styling
 2026-09-29 23:40:27 — refactor: reduce nesting in error propagation flow
 2026-09-29 23:54:33 — style: format JSON schemas and configuration comments
+2026-09-30 00:06:24 — fix(validation): handle edge-case null values in params
