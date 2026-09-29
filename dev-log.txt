@@ -4021,3 +4021,4 @@
 2026-09-29 12:57:44 — docs(readme): polish quick-start guide and examples
 2026-09-29 13:12:58 — ⚙️ Penyesuaian konfigurasi default environment
 2026-09-29 13:22:18 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-09-29 13:34:05 — fix(telemetry): suppress transient network warning in dev mode
