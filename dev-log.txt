@@ -3993,3 +3993,4 @@
 2026-09-29 00:17:04 — fix(cors): normalize default allowed origin headers
 2026-09-29 08:23:37 — perf: fine-tune buffer size for streaming responses
 2026-09-29 08:29:42 — refactor: reduce nesting in error propagation flow
+2026-09-29 08:43:33 — style: normalize trailing whitespace across modules
