@@ -4034,3 +4034,4 @@
 2026-09-29 15:10:23 — fix(cors): normalize default allowed origin headers
 2026-09-29 15:19:50 — refactor(handlers): modularize request dispatcher
 2026-09-29 15:32:24 — perf: reduce redundant object allocations in loop
+2026-09-29 15:39:58 — docs: clarify rate-limit error responses in documentation
