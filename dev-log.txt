@@ -4043,3 +4043,4 @@
 2026-09-29 16:43:25 — docs: document internal helper functions and return values
 2026-09-29 16:58:44 — perf: improve response latency for cached lookups
 2026-09-29 17:03:01 — docs: update API telemetry and endpoint references
+2026-09-29 17:18:51 — refactor(core): streamline internal request pipeline
