@@ -4061,3 +4061,4 @@
 2026-09-29 19:36:01 — docs: fix typo in authentication header instructions
 2026-09-29 19:47:39 — docs: update parameter types and response schema
 2026-09-29 19:55:32 — style: normalize trailing whitespace across modules
+2026-09-29 20:07:21 — docs(readme): polish quick-start guide and examples
