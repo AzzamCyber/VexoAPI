@@ -4090,3 +4090,4 @@
 2026-09-30 00:21:38 — 🧹 Clean up kode komentar lama dan format styling
 2026-09-30 00:34:59 — refactor(handlers): modularize request dispatcher
 2026-09-30 00:42:16 — refactor: extract reusable header parser method
+2026-09-30 00:54:00 — fix: sanitize incoming query string parameters
