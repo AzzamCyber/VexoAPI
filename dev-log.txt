@@ -4006,3 +4006,4 @@
 2026-09-29 10:18:03 — style: align formatting with project linter standards
 2026-09-29 10:27:57 — 🧹 Clean up kode komentar lama dan format styling
 2026-09-29 10:38:06 — fix: correct status code return on missing authorization
+2026-09-29 10:52:20 — refactor: organize constant definitions and status codes
