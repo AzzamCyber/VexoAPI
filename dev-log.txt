@@ -3991,3 +3991,4 @@
 2026-09-29 00:00:27 — refactor: reduce nesting in error propagation flow
 2026-09-29 00:06:45 — refactor: clean up deprecated utility arguments
 2026-09-29 00:17:04 — fix(cors): normalize default allowed origin headers
+2026-09-29 08:23:37 — perf: fine-tune buffer size for streaming responses
