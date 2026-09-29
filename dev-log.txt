@@ -4019,3 +4019,4 @@
 2026-09-29 12:36:50 — docs: fix typo in authentication header instructions
 2026-09-29 12:47:32 — fix: sanitize incoming query string parameters
 2026-09-29 12:57:44 — docs(readme): polish quick-start guide and examples
+2026-09-29 13:12:58 — ⚙️ Penyesuaian konfigurasi default environment
