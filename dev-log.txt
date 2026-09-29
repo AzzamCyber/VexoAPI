@@ -4070,3 +4070,4 @@
 2026-09-29 20:56:21 — chore: update internal build metadata and telemetry
 2026-09-29 21:10:46 — chore(ci): adjust workflow step timeout tolerance
 2026-09-29 21:21:39 — fix: correct status code return on missing authorization
+2026-09-29 21:27:01 — perf: fine-tune buffer size for streaming responses
