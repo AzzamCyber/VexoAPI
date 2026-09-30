@@ -4179,3 +4179,4 @@
 2026-09-30 23:30:43 — docs: fix typo in authentication header instructions
 2026-09-30 23:44:49 — perf: fine-tune buffer size for streaming responses
 2026-09-30 23:48:36 — refactor: reduce nesting in error propagation flow
+2026-09-30 23:55:52 — docs: add request payload examples for webhook receiver
