@@ -4122,3 +4122,4 @@
 2026-09-30 14:16:43 — style: standardize indentation in response templates
 2026-09-30 14:25:33 — chore: synchronize project version constants
 2026-09-30 14:38:45 — 🧹 Clean up kode komentar lama dan format styling
+2026-09-30 14:50:16 — fix: correct status code return on missing authorization
