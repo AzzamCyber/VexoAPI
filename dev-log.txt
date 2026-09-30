@@ -4157,3 +4157,4 @@
 2026-09-30 20:11:29 — docs: add changelog notes for recent updates
 2026-09-30 20:16:46 — ✨ Optimasi logic handler dan routing internal
 2026-09-30 20:29:38 — style: align formatting with project linter standards
+2026-09-30 20:40:05 — fix: sanitize incoming query string parameters
