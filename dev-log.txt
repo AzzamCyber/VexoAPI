@@ -4101,3 +4101,4 @@
 2026-09-30 10:57:30 — docs: document internal helper functions and return values
 2026-09-30 11:10:37 — refactor(handlers): modularize request dispatcher
 2026-09-30 11:15:15 — perf: improve response latency for cached lookups
+2026-09-30 11:24:56 — fix(cors): normalize default allowed origin headers
