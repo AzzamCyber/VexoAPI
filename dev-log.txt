@@ -4116,3 +4116,4 @@
 2026-09-30 13:16:28 — fix(validation): handle edge-case null values in params
 2026-09-30 13:27:43 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-09-30 13:41:37 — fix(types): update type annotations for payload handler
+2026-09-30 13:44:48 — docs: update parameter types and response schema
