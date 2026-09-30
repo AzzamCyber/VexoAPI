@@ -4104,3 +4104,4 @@
 2026-09-30 11:24:56 — fix(cors): normalize default allowed origin headers
 2026-09-30 11:30:51 — 🐛 Perbaikan minor pengecekan response status code
 2026-09-30 11:38:59 — style: align formatting with project linter standards
+2026-09-30 11:42:10 — refactor: clean up deprecated utility arguments
