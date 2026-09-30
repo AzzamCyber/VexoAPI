@@ -4131,3 +4131,4 @@
 2026-09-30 15:51:41 — 📝 Update dokumentasi endpoint dan response schema
 2026-09-30 15:55:36 — perf: fine-tune buffer size for streaming responses
 2026-09-30 16:03:47 — perf: optimize memory footprint on payload parser
+2026-09-30 16:12:01 — refactor(core): streamline internal request pipeline
