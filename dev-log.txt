@@ -4123,3 +4123,4 @@
 2026-09-30 14:25:33 — chore: synchronize project version constants
 2026-09-30 14:38:45 — 🧹 Clean up kode komentar lama dan format styling
 2026-09-30 14:50:16 — fix: correct status code return on missing authorization
+2026-09-30 15:04:00 — docs: add request payload examples for webhook receiver
