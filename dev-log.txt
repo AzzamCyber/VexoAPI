@@ -4108,3 +4108,4 @@
 2026-09-30 11:52:30 — docs: clarify rate-limit error responses in documentation
 2026-09-30 12:04:13 — refactor: organize constant definitions and status codes
 2026-09-30 12:12:29 — docs: fix typo in authentication header instructions
+2026-09-30 12:26:56 — docs: update API telemetry and endpoint references
