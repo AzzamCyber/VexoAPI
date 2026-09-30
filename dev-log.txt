@@ -4160,3 +4160,4 @@
 2026-09-30 20:40:05 — fix: sanitize incoming query string parameters
 2026-09-30 20:50:29 — fix(cors): normalize default allowed origin headers
 2026-09-30 20:58:37 — refactor(routes): simplify validation logic in controller
+2026-09-30 21:06:44 — 🔍 Pengecekan sanitasi input dan validasi request
