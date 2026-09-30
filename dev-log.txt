@@ -4163,3 +4163,4 @@
 2026-09-30 21:06:44 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-09-30 21:16:37 — fix(telemetry): suppress transient network warning in dev mode
 2026-09-30 21:20:29 — 📝 Update dokumentasi endpoint dan response schema
+2026-09-30 21:35:12 — docs: update API telemetry and endpoint references
