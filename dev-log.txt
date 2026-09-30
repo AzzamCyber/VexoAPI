@@ -4144,3 +4144,4 @@
 2026-09-30 18:11:10 — 🧹 Clean up kode komentar lama dan format styling
 2026-09-30 18:21:53 — docs: clarify rate-limit error responses in documentation
 2026-09-30 18:35:46 — fix(types): update type annotations for payload handler
+2026-09-30 18:41:53 — 📚 Pembaruan panduan integrasi pada README
