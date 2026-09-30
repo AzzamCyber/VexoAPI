@@ -4107,3 +4107,4 @@
 2026-09-30 11:42:10 — refactor: clean up deprecated utility arguments
 2026-09-30 11:52:30 — docs: clarify rate-limit error responses in documentation
 2026-09-30 12:04:13 — refactor: organize constant definitions and status codes
+2026-09-30 12:12:29 — docs: fix typo in authentication header instructions
