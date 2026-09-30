@@ -4139,3 +4139,4 @@
 2026-09-30 17:08:21 — docs(readme): polish quick-start guide and examples
 2026-09-30 17:16:00 — refactor(routes): simplify validation logic in controller
 2026-09-30 17:30:23 — fix: sanitize incoming query string parameters
+2026-09-30 17:43:45 — refactor(handlers): modularize request dispatcher
