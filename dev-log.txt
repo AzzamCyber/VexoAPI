@@ -4275,3 +4275,4 @@
 2026-10-01 22:48:42 — docs: document internal helper functions and return values
 2026-10-01 23:04:02 — fix(validation): handle edge-case null values in params
 2026-10-01 23:11:30 — fix(cors): normalize default allowed origin headers
+2026-10-01 23:22:22 — docs: add request payload examples for webhook receiver
