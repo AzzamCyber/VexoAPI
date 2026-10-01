@@ -4257,3 +4257,4 @@
 2026-10-01 19:36:37 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-01 19:47:01 — docs(readme): polish quick-start guide and examples
 2026-10-01 20:02:51 — style: normalize trailing whitespace across modules
+2026-10-01 20:18:02 — 📚 Pembaruan panduan integrasi pada README
