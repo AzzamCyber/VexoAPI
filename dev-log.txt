@@ -4272,3 +4272,4 @@
 2026-10-01 22:15:45 — refactor: reduce nesting in error propagation flow
 2026-10-01 22:28:57 — fix: correct status code return on missing authorization
 2026-10-01 22:33:22 — docs: update parameter types and response schema
+2026-10-01 22:48:42 — docs: document internal helper functions and return values
