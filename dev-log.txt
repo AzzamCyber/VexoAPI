@@ -4203,3 +4203,4 @@
 2026-10-01 10:54:09 — perf: reduce redundant object allocations in loop
 2026-10-01 11:06:49 — fix: sanitize incoming query string parameters
 2026-10-01 11:21:27 — refactor: extract reusable header parser method
+2026-10-01 11:28:09 — fix(cors): normalize default allowed origin headers
