@@ -4273,3 +4273,4 @@
 2026-10-01 22:28:57 — fix: correct status code return on missing authorization
 2026-10-01 22:33:22 — docs: update parameter types and response schema
 2026-10-01 22:48:42 — docs: document internal helper functions and return values
+2026-10-01 23:04:02 — fix(validation): handle edge-case null values in params
