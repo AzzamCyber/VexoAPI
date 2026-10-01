@@ -4229,3 +4229,4 @@
 2026-10-01 15:39:25 — fix(types): update type annotations for payload handler
 2026-10-01 15:53:39 — perf: improve response latency for cached lookups
 2026-10-01 16:04:02 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-01 16:07:16 — 📚 Pembaruan panduan integrasi pada README
