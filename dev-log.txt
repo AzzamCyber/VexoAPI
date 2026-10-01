@@ -4255,3 +4255,4 @@
 2026-10-01 19:16:16 — chore: update internal build metadata and telemetry
 2026-10-01 19:31:01 — refactor: organize constant definitions and status codes
 2026-10-01 19:36:37 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-01 19:47:01 — docs(readme): polish quick-start guide and examples
