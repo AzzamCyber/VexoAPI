@@ -4204,3 +4204,4 @@
 2026-10-01 11:06:49 — fix: sanitize incoming query string parameters
 2026-10-01 11:21:27 — refactor: extract reusable header parser method
 2026-10-01 11:28:09 — fix(cors): normalize default allowed origin headers
+2026-10-01 11:32:26 — refactor(handlers): modularize request dispatcher
