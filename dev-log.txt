@@ -4259,3 +4259,4 @@
 2026-10-01 20:02:51 — style: normalize trailing whitespace across modules
 2026-10-01 20:18:02 — 📚 Pembaruan panduan integrasi pada README
 2026-10-01 20:27:24 — style: format JSON schemas and configuration comments
+2026-10-01 20:33:29 — refactor(routes): simplify validation logic in controller
