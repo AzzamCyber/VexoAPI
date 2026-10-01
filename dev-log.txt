@@ -4263,3 +4263,4 @@
 2026-10-01 20:48:02 — perf: improve response latency for cached lookups
 2026-10-01 20:59:10 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-01 21:09:31 — ⚡ Optimasi struktur data untuk pemrosesan payload
+2026-10-01 21:24:26 — perf: fine-tune buffer size for streaming responses
