@@ -4225,3 +4225,4 @@
 2026-10-01 14:53:10 — refactor(routes): simplify validation logic in controller
 2026-10-01 15:07:55 — fix(validation): handle edge-case null values in params
 2026-10-01 15:19:23 — docs: document internal helper functions and return values
+2026-10-01 15:34:46 — 🔧 Refactor fungsi helper pada utilitas umum
