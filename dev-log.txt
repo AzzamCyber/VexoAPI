@@ -4200,3 +4200,4 @@
 2026-10-01 10:17:59 — perf: optimize memory footprint on payload parser
 2026-10-01 10:29:17 — docs: update API telemetry and endpoint references
 2026-10-01 10:42:28 — docs(readme): polish quick-start guide and examples
+2026-10-01 10:54:09 — perf: reduce redundant object allocations in loop
