@@ -4266,3 +4266,4 @@
 2026-10-01 21:24:26 — perf: fine-tune buffer size for streaming responses
 2026-10-01 21:30:59 — chore: synchronize project version constants
 2026-10-01 21:41:21 — fix: sanitize incoming query string parameters
+2026-10-01 21:47:27 — docs: fix typo in authentication header instructions
