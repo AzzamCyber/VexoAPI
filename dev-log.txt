@@ -4210,3 +4210,4 @@
 2026-10-01 12:05:35 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-01 12:17:09 — refactor(utils): optimize string sanitizer helpers
 2026-10-01 12:32:42 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-01 12:47:56 — docs: add request payload examples for webhook receiver
