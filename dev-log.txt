@@ -4217,3 +4217,4 @@
 2026-10-01 13:27:49 — refactor(core): streamline internal request pipeline
 2026-10-01 13:42:08 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-10-01 13:50:29 — ✨ Optimasi logic handler dan routing internal
+2026-10-01 14:05:52 — fix: correct status code return on missing authorization
