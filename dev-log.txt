@@ -4312,3 +4312,4 @@
 2026-10-02 12:45:27 — docs: update API telemetry and endpoint references
 2026-10-02 12:56:39 — refactor: extract reusable header parser method
 2026-10-02 13:11:06 — docs(readme): polish quick-start guide and examples
+2026-10-02 13:15:55 — ⚙️ Penyesuaian konfigurasi default environment
