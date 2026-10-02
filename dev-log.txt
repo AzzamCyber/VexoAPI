@@ -4365,3 +4365,4 @@
 2026-10-02 20:50:25 — docs(readme): polish quick-start guide and examples
 2026-10-02 20:55:17 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-02 21:11:01 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-02 21:19:40 — fix(validation): handle edge-case null values in params
