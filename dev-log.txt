@@ -4319,3 +4319,4 @@
 2026-10-02 14:02:09 — 🚀 Peningkatan efisiensi memory caching
 2026-10-02 14:07:51 — chore(ci): adjust workflow step timeout tolerance
 2026-10-02 14:22:27 — 📚 Pembaruan panduan integrasi pada README
+2026-10-02 14:31:46 — docs: add request payload examples for webhook receiver
