@@ -4367,3 +4367,4 @@
 2026-10-02 21:11:01 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-02 21:19:40 — fix(validation): handle edge-case null values in params
 2026-10-02 21:34:21 — perf: improve response latency for cached lookups
+2026-10-02 21:46:42 — docs: update API telemetry and endpoint references
