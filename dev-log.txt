@@ -4351,3 +4351,4 @@
 2026-10-02 18:45:40 — perf: optimize lookup table execution speed
 2026-10-02 18:50:48 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-02 19:06:02 — refactor(core): streamline internal request pipeline
+2026-10-02 19:10:46 — docs: clarify rate-limit error responses in documentation
