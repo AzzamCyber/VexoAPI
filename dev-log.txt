@@ -4314,3 +4314,4 @@
 2026-10-02 13:11:06 — docs(readme): polish quick-start guide and examples
 2026-10-02 13:15:55 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-02 13:29:22 — refactor(routes): simplify validation logic in controller
+2026-10-02 13:45:02 — docs: clarify rate-limit error responses in documentation
