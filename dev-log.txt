@@ -4370,3 +4370,4 @@
 2026-10-02 21:46:42 — docs: update API telemetry and endpoint references
 2026-10-02 22:00:58 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-02 22:15:22 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-02 22:24:47 — 📚 Pembaruan panduan integrasi pada README
