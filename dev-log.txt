@@ -4309,3 +4309,4 @@
 2026-10-02 12:19:26 — ✨ Optimasi logic handler dan routing internal
 2026-10-02 12:28:07 — docs: add changelog notes for recent updates
 2026-10-02 12:33:02 — refactor(handlers): modularize request dispatcher
+2026-10-02 12:45:27 — docs: update API telemetry and endpoint references
