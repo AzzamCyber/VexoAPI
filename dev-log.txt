@@ -4353,3 +4353,4 @@
 2026-10-02 19:06:02 — refactor(core): streamline internal request pipeline
 2026-10-02 19:10:46 — docs: clarify rate-limit error responses in documentation
 2026-10-02 19:20:12 — docs: document internal helper functions and return values
+2026-10-02 19:25:17 — refactor(utils): optimize string sanitizer helpers
