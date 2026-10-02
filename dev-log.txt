@@ -4327,3 +4327,4 @@
 2026-10-02 15:28:52 — refactor: organize constant definitions and status codes
 2026-10-02 15:34:15 — fix(cors): normalize default allowed origin headers
 2026-10-02 15:38:38 — docs: fix typo in authentication header instructions
+2026-10-02 15:51:03 — fix: sanitize incoming query string parameters
