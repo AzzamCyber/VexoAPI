@@ -4382,3 +4382,4 @@
 2026-10-03 00:08:23 — chore: synchronize project version constants
 2026-10-03 00:24:09 — perf: fine-tune buffer size for streaming responses
 2026-10-03 00:30:37 — fix(cors): normalize default allowed origin headers
+2026-10-03 00:36:01 — docs: update parameter types and response schema
