@@ -4325,3 +4325,4 @@
 2026-10-02 15:06:31 — refactor(core): streamline internal request pipeline
 2026-10-02 15:13:07 — style: format JSON schemas and configuration comments
 2026-10-02 15:28:52 — refactor: organize constant definitions and status codes
+2026-10-02 15:34:15 — fix(cors): normalize default allowed origin headers
