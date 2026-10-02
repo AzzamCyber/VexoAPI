@@ -4333,3 +4333,4 @@
 2026-10-02 16:15:49 — style: normalize trailing whitespace across modules
 2026-10-02 16:26:12 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-02 16:41:43 — perf: improve response latency for cached lookups
+2026-10-02 16:53:37 — fix: correct status code return on missing authorization
