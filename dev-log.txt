@@ -4362,3 +4362,4 @@
 2026-10-02 20:11:44 — style: format JSON schemas and configuration comments
 2026-10-02 20:25:10 — chore(ci): adjust workflow step timeout tolerance
 2026-10-02 20:40:30 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-02 20:50:25 — docs(readme): polish quick-start guide and examples
