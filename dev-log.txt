@@ -4294,3 +4294,4 @@
 2026-10-02 09:23:33 — fix(validation): handle edge-case null values in params
 2026-10-02 09:37:09 — chore: synchronize project version constants
 2026-10-02 09:41:24 — fix(types): update type annotations for payload handler
+2026-10-02 09:57:19 — docs: update parameter types and response schema
