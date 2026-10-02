@@ -4345,3 +4345,4 @@
 2026-10-02 18:06:33 — chore: update internal build metadata and telemetry
 2026-10-02 18:11:40 — ✨ Optimasi logic handler dan routing internal
 2026-10-02 18:21:11 — docs: fix typo in authentication header instructions
+2026-10-02 18:31:24 — refactor: clean up deprecated utility arguments
