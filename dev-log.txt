@@ -4310,3 +4310,4 @@
 2026-10-02 12:28:07 — docs: add changelog notes for recent updates
 2026-10-02 12:33:02 — refactor(handlers): modularize request dispatcher
 2026-10-02 12:45:27 — docs: update API telemetry and endpoint references
+2026-10-02 12:56:39 — refactor: extract reusable header parser method
