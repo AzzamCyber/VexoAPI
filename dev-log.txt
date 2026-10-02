@@ -4301,3 +4301,4 @@
 2026-10-02 10:45:27 — docs: document internal helper functions and return values
 2026-10-02 11:01:13 — perf: optimize memory footprint on payload parser
 2026-10-02 11:15:23 — style: align formatting with project linter standards
+2026-10-02 11:20:52 — 🔧 Refactor fungsi helper pada utilitas umum
