@@ -4330,3 +4330,4 @@
 2026-10-02 15:51:03 — fix: sanitize incoming query string parameters
 2026-10-02 16:03:36 — refactor(utils): optimize string sanitizer helpers
 2026-10-02 16:10:18 — refactor: reduce nesting in error propagation flow
+2026-10-02 16:15:49 — style: normalize trailing whitespace across modules
