@@ -4445,3 +4445,4 @@
 2026-10-03 17:50:23 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-03 18:02:06 — docs: document internal helper functions and return values
 2026-10-03 18:11:44 — refactor(handlers): modularize request dispatcher
+2026-10-03 18:23:13 — refactor(core): streamline internal request pipeline
