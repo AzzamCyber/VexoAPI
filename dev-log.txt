@@ -4456,3 +4456,4 @@
 2026-10-03 19:37:01 — docs: add changelog notes for recent updates
 2026-10-03 19:47:51 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-03 19:59:11 — chore: verify environment configuration defaults
+2026-10-03 20:10:05 — docs: clarify rate-limit error responses in documentation
