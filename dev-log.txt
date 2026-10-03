@@ -4397,3 +4397,4 @@
 2026-10-03 10:08:11 — refactor: clean up deprecated utility arguments
 2026-10-03 10:17:16 — perf: fine-tune buffer size for streaming responses
 2026-10-03 10:30:03 — style: normalize trailing whitespace across modules
+2026-10-03 10:38:30 — refactor(routes): simplify validation logic in controller
