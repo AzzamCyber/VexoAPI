@@ -4442,3 +4442,4 @@
 2026-10-03 17:12:28 — style: align formatting with project linter standards
 2026-10-03 17:21:54 — refactor: clean up deprecated utility arguments
 2026-10-03 17:36:35 — refactor: organize constant definitions and status codes
+2026-10-03 17:50:23 — fix(telemetry): suppress transient network warning in dev mode
