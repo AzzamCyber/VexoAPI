@@ -4432,3 +4432,4 @@
 2026-10-03 15:54:26 — docs: document internal helper functions and return values
 2026-10-03 16:05:46 — style: reorganize import statements alphabetically
 2026-10-03 16:17:38 — chore: update internal build metadata and telemetry
+2026-10-03 16:21:44 — fix(telemetry): suppress transient network warning in dev mode
