@@ -4411,3 +4411,4 @@
 2026-10-03 12:29:04 — style: format JSON schemas and configuration comments
 2026-10-03 12:40:37 — refactor: organize constant definitions and status codes
 2026-10-03 12:50:05 — fix: correct status code return on missing authorization
+2026-10-03 12:58:39 — refactor: extract reusable header parser method
