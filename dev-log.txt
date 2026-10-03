@@ -4451,3 +4451,4 @@
 2026-10-03 18:55:52 — docs: update parameter types and response schema
 2026-10-03 19:01:25 — perf: reduce redundant object allocations in loop
 2026-10-03 19:12:08 — fix(cors): normalize default allowed origin headers
+2026-10-03 19:26:28 — fix: correct status code return on missing authorization
