@@ -4478,3 +4478,4 @@
 2026-10-03 23:29:29 — fix(validation): handle edge-case null values in params
 2026-10-03 23:37:51 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-03 23:43:41 — docs: add request payload examples for webhook receiver
+2026-10-03 23:56:52 — refactor: extract reusable header parser method
