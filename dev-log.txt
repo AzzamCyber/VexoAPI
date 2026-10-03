@@ -4415,3 +4415,4 @@
 2026-10-03 13:03:29 — chore: verify environment configuration defaults
 2026-10-03 13:11:20 — ✨ Optimasi logic handler dan routing internal
 2026-10-03 13:21:54 — docs: update API telemetry and endpoint references
+2026-10-03 13:37:29 — docs: add request payload examples for webhook receiver
