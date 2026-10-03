@@ -4486,3 +4486,4 @@
 2026-10-04 00:48:39 — fix: sanitize incoming query string parameters
 2026-10-04 01:01:34 — chore(deps): audit dependencies and check for updates
 2026-10-04 01:12:07 — docs(readme): polish quick-start guide and examples
+2026-10-04 01:27:59 — refactor(routes): simplify validation logic in controller
