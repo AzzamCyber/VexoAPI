@@ -4420,3 +4420,4 @@
 2026-10-03 13:59:37 — docs: add changelog notes for recent updates
 2026-10-03 14:04:23 — fix(validation): handle edge-case null values in params
 2026-10-03 14:14:37 — style: standardize indentation in response templates
+2026-10-03 14:27:45 — docs: clarify rate-limit error responses in documentation
