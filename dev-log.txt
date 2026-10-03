@@ -4475,3 +4475,4 @@
 2026-10-03 22:52:24 — docs: update API telemetry and endpoint references
 2026-10-03 23:05:37 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-03 23:18:46 — refactor: reduce nesting in error propagation flow
+2026-10-03 23:29:29 — fix(validation): handle edge-case null values in params
