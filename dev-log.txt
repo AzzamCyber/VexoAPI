@@ -4410,3 +4410,4 @@
 2026-10-03 12:18:52 — fix: guard against undefined property access in mapper
 2026-10-03 12:29:04 — style: format JSON schemas and configuration comments
 2026-10-03 12:40:37 — refactor: organize constant definitions and status codes
+2026-10-03 12:50:05 — fix: correct status code return on missing authorization
