@@ -4425,3 +4425,4 @@
 2026-10-03 14:53:39 — fix(types): update type annotations for payload handler
 2026-10-03 14:58:31 — chore(ci): adjust workflow step timeout tolerance
 2026-10-03 15:14:01 — perf: optimize memory footprint on payload parser
+2026-10-03 15:19:13 — docs: update parameter types and response schema
