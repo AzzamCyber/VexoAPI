@@ -4528,3 +4528,4 @@
 2026-10-04 13:52:33 — refactor(core): streamline internal request pipeline
 2026-10-04 14:03:57 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-04 14:17:25 — refactor: reduce nesting in error propagation flow
+2026-10-04 14:30:43 — style: format JSON schemas and configuration comments
