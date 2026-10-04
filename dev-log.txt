@@ -4566,3 +4566,4 @@
 2026-10-04 20:14:14 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-04 20:25:03 — docs: update parameter types and response schema
 2026-10-04 20:32:50 — style: align formatting with project linter standards
+2026-10-04 20:44:31 — refactor(handlers): modularize request dispatcher
