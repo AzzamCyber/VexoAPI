@@ -4496,3 +4496,4 @@
 2026-10-04 08:59:20 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-04 09:10:01 — docs: clarify rate-limit error responses in documentation
 2026-10-04 09:19:14 — docs: add changelog notes for recent updates
+2026-10-04 09:27:53 — perf: reduce redundant object allocations in loop
