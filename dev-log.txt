@@ -4509,3 +4509,4 @@
 2026-10-04 10:53:56 — fix: guard against undefined property access in mapper
 2026-10-04 11:04:15 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-04 11:17:04 — fix(cors): normalize default allowed origin headers
+2026-10-04 11:20:21 — docs: document internal helper functions and return values
