@@ -4515,3 +4515,4 @@
 2026-10-04 11:44:14 — chore: synchronize project version constants
 2026-10-04 11:58:20 — refactor(utils): optimize string sanitizer helpers
 2026-10-04 12:05:01 — ⚡ Optimasi struktur data untuk pemrosesan payload
+2026-10-04 12:12:51 — 📚 Pembaruan panduan integrasi pada README
