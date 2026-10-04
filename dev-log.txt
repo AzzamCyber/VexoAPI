@@ -4502,3 +4502,4 @@
 2026-10-04 09:50:38 — fix: correct status code return on missing authorization
 2026-10-04 09:54:08 — perf: improve response latency for cached lookups
 2026-10-04 09:59:02 — refactor(handlers): modularize request dispatcher
+2026-10-04 10:08:31 — chore(ci): adjust workflow step timeout tolerance
