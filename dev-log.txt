@@ -4491,3 +4491,4 @@
 2026-10-04 01:49:52 — fix(validation): handle edge-case null values in params
 2026-10-04 02:04:16 — refactor(routes): simplify validation logic in controller
 2026-10-04 02:17:36 — style: align formatting with project linter standards
+2026-10-04 08:33:59 — refactor: clean up deprecated utility arguments
