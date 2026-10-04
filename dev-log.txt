@@ -4582,3 +4582,4 @@
 2026-10-04 22:40:12 — docs: add request payload examples for webhook receiver
 2026-10-04 22:50:53 — perf: optimize lookup table execution speed
 2026-10-04 22:56:25 — fix: guard against undefined property access in mapper
+2026-10-04 23:10:48 — docs(readme): polish quick-start guide and examples
