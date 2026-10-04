@@ -4584,3 +4584,4 @@
 2026-10-04 22:56:25 — fix: guard against undefined property access in mapper
 2026-10-04 23:10:48 — docs(readme): polish quick-start guide and examples
 2026-10-04 23:16:18 — docs: clarify rate-limit error responses in documentation
+2026-10-04 23:21:39 — docs: document internal helper functions and return values
