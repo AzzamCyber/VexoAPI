@@ -4588,3 +4588,4 @@
 2026-10-04 23:37:07 — docs: fix typo in authentication header instructions
 2026-10-04 23:47:12 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-04 23:58:52 — perf: fine-tune buffer size for streaming responses
+2026-10-05 00:11:13 — docs: add request payload examples for webhook receiver
