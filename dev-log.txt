@@ -4544,3 +4544,4 @@
 2026-10-04 16:33:00 — style: reorganize import statements alphabetically
 2026-10-04 16:40:23 — refactor(utils): optimize string sanitizer helpers
 2026-10-04 16:52:34 — fix(types): update type annotations for payload handler
+2026-10-04 17:04:24 — 🔧 Refactor fungsi helper pada utilitas umum
