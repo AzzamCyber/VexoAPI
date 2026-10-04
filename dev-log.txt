@@ -4572,3 +4572,4 @@
 2026-10-04 21:07:33 — chore: synchronize project version constants
 2026-10-04 21:21:57 — refactor: reduce nesting in error propagation flow
 2026-10-04 21:30:23 — perf: fine-tune buffer size for streaming responses
+2026-10-04 21:38:57 — style: normalize trailing whitespace across modules
