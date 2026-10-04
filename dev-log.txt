@@ -4579,3 +4579,4 @@
 2026-10-04 22:10:54 — style: format JSON schemas and configuration comments
 2026-10-04 22:22:29 — refactor: extract reusable header parser method
 2026-10-04 22:32:44 — fix(validation): handle edge-case null values in params
+2026-10-04 22:40:12 — docs: add request payload examples for webhook receiver
