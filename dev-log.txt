@@ -4525,3 +4525,4 @@
 2026-10-04 13:25:17 — refactor(routes): simplify validation logic in controller
 2026-10-04 13:29:40 — chore(deps): audit dependencies and check for updates
 2026-10-04 13:41:17 — docs(readme): polish quick-start guide and examples
+2026-10-04 13:52:33 — refactor(core): streamline internal request pipeline
