@@ -4495,3 +4495,4 @@
 2026-10-04 08:47:49 — refactor: extract reusable header parser method
 2026-10-04 08:59:20 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-04 09:10:01 — docs: clarify rate-limit error responses in documentation
+2026-10-04 09:19:14 — docs: add changelog notes for recent updates
