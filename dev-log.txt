@@ -4564,3 +4564,4 @@
 2026-10-04 19:50:17 — style: standardize indentation in response templates
 2026-10-04 20:04:52 — fix: sanitize incoming query string parameters
 2026-10-04 20:14:14 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-04 20:25:03 — docs: update parameter types and response schema
