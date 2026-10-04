@@ -4543,3 +4543,4 @@
 2026-10-04 16:19:09 — docs: add changelog notes for recent updates
 2026-10-04 16:33:00 — style: reorganize import statements alphabetically
 2026-10-04 16:40:23 — refactor(utils): optimize string sanitizer helpers
+2026-10-04 16:52:34 — fix(types): update type annotations for payload handler
