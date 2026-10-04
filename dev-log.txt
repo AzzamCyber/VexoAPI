@@ -4557,3 +4557,4 @@
 2026-10-04 18:41:42 — perf: reduce redundant object allocations in loop
 2026-10-04 18:53:16 — refactor(routes): simplify validation logic in controller
 2026-10-04 19:01:56 — chore(ci): adjust workflow step timeout tolerance
+2026-10-04 19:10:44 — fix: correct status code return on missing authorization
