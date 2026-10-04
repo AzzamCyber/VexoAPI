@@ -4497,3 +4497,4 @@
 2026-10-04 09:10:01 — docs: clarify rate-limit error responses in documentation
 2026-10-04 09:19:14 — docs: add changelog notes for recent updates
 2026-10-04 09:27:53 — perf: reduce redundant object allocations in loop
+2026-10-04 09:31:44 — docs: update parameter types and response schema
