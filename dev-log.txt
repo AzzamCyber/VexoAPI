@@ -4492,3 +4492,4 @@
 2026-10-04 02:04:16 — refactor(routes): simplify validation logic in controller
 2026-10-04 02:17:36 — style: align formatting with project linter standards
 2026-10-04 08:33:59 — refactor: clean up deprecated utility arguments
+2026-10-04 08:47:49 — refactor: extract reusable header parser method
