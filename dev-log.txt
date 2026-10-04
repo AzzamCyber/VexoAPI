@@ -4539,3 +4539,4 @@
 2026-10-04 15:38:36 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-04 15:45:57 — docs: update API telemetry and endpoint references
 2026-10-04 15:53:20 — ✨ Optimasi logic handler dan routing internal
+2026-10-04 16:07:37 — refactor: clean up deprecated utility arguments
