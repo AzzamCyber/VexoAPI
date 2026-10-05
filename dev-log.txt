@@ -4665,3 +4665,4 @@
 2026-10-05 21:04:55 — style: standardize indentation in response templates
 2026-10-05 21:15:00 — style: normalize trailing whitespace across modules
 2026-10-05 21:21:12 — fix(validation): handle edge-case null values in params
+2026-10-05 21:32:30 — docs: document internal helper functions and return values
