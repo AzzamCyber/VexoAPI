@@ -4598,3 +4598,4 @@
 2026-10-05 10:17:12 — docs: clarify rate-limit error responses in documentation
 2026-10-05 10:32:35 — style: normalize trailing whitespace across modules
 2026-10-05 10:44:00 — docs: document internal helper functions and return values
+2026-10-05 10:57:12 — chore: synchronize project version constants
