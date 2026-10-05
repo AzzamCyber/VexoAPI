@@ -4679,3 +4679,4 @@
 2026-10-05 23:09:40 — chore(ci): adjust workflow step timeout tolerance
 2026-10-05 23:14:35 — 📚 Pembaruan panduan integrasi pada README
 2026-10-05 23:22:09 — fix: guard against undefined property access in mapper
+2026-10-05 23:30:31 — docs: fix typo in authentication header instructions
