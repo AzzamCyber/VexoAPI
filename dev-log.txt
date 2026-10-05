@@ -4628,3 +4628,4 @@
 2026-10-05 15:02:41 — fix: correct status code return on missing authorization
 2026-10-05 15:17:20 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-05 15:30:08 — docs: add request payload examples for webhook receiver
+2026-10-05 15:38:51 — refactor: extract reusable header parser method
