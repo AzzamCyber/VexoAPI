@@ -4677,3 +4677,4 @@
 2026-10-05 22:41:18 — style: align formatting with project linter standards
 2026-10-05 22:55:50 — fix(types): update type annotations for payload handler
 2026-10-05 23:09:40 — chore(ci): adjust workflow step timeout tolerance
+2026-10-05 23:14:35 — 📚 Pembaruan panduan integrasi pada README
