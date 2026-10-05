@@ -4651,3 +4651,4 @@
 2026-10-05 18:57:58 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-05 19:02:29 — docs: update API telemetry and endpoint references
 2026-10-05 19:07:54 — docs: update parameter types and response schema
+2026-10-05 19:19:35 — fix: sanitize incoming query string parameters
