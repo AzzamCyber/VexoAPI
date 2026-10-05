@@ -4595,3 +4595,4 @@
 2026-10-05 09:44:05 — fix: sanitize incoming query string parameters
 2026-10-05 09:53:55 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-05 10:01:35 — docs(readme): polish quick-start guide and examples
+2026-10-05 10:17:12 — docs: clarify rate-limit error responses in documentation
