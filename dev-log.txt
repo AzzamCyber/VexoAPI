@@ -4621,3 +4621,4 @@
 2026-10-05 14:09:13 — refactor(handlers): modularize request dispatcher
 2026-10-05 14:20:02 — style: standardize indentation in response templates
 2026-10-05 14:28:38 — fix(cors): normalize default allowed origin headers
+2026-10-05 14:33:02 — refactor(core): streamline internal request pipeline
