@@ -4620,3 +4620,4 @@
 2026-10-05 13:56:50 — refactor: reduce nesting in error propagation flow
 2026-10-05 14:09:13 — refactor(handlers): modularize request dispatcher
 2026-10-05 14:20:02 — style: standardize indentation in response templates
+2026-10-05 14:28:38 — fix(cors): normalize default allowed origin headers
