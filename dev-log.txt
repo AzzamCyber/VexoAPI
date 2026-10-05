@@ -4627,3 +4627,4 @@
 2026-10-05 14:54:53 — docs: update API telemetry and endpoint references
 2026-10-05 15:02:41 — fix: correct status code return on missing authorization
 2026-10-05 15:17:20 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-05 15:30:08 — docs: add request payload examples for webhook receiver
