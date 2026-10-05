@@ -4623,3 +4623,4 @@
 2026-10-05 14:28:38 — fix(cors): normalize default allowed origin headers
 2026-10-05 14:33:02 — refactor(core): streamline internal request pipeline
 2026-10-05 14:36:46 — style: format JSON schemas and configuration comments
+2026-10-05 14:47:34 — 🐛 Perbaikan minor pengecekan response status code
