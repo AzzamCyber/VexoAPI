@@ -4653,3 +4653,4 @@
 2026-10-05 19:07:54 — docs: update parameter types and response schema
 2026-10-05 19:19:35 — fix: sanitize incoming query string parameters
 2026-10-05 19:33:50 — docs: add request payload examples for webhook receiver
+2026-10-05 19:45:34 — refactor(utils): optimize string sanitizer helpers
