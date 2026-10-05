@@ -4687,3 +4687,4 @@
 2026-10-06 00:32:00 — fix: correct status code return on missing authorization
 2026-10-06 00:43:45 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-06 00:47:58 — docs: clarify rate-limit error responses in documentation
+2026-10-06 00:52:46 — refactor(core): streamline internal request pipeline
