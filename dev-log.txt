@@ -4716,3 +4716,4 @@
 2026-10-06 13:32:57 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-06 13:40:36 — fix: correct status code return on missing authorization
 2026-10-06 13:49:21 — docs: add changelog notes for recent updates
+2026-10-06 14:01:53 — refactor: reduce nesting in error propagation flow
