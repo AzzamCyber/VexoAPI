@@ -4764,3 +4764,4 @@
 2026-10-06 20:51:09 — perf: reduce redundant object allocations in loop
 2026-10-06 21:01:59 — refactor: reduce nesting in error propagation flow
 2026-10-06 21:06:54 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-06 21:20:08 — refactor: clean up deprecated utility arguments
