@@ -4776,3 +4776,4 @@
 2026-10-06 22:34:28 — docs: add changelog notes for recent updates
 2026-10-06 22:48:45 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-06 23:01:51 — perf: optimize lookup table execution speed
+2026-10-06 23:11:30 — fix(validation): handle edge-case null values in params
