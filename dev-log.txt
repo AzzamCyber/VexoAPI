@@ -4755,3 +4755,4 @@
 2026-10-06 19:22:20 — refactor(core): streamline internal request pipeline
 2026-10-06 19:32:58 — fix: correct status code return on missing authorization
 2026-10-06 19:44:41 — 📚 Pembaruan panduan integrasi pada README
+2026-10-06 19:50:18 — fix: sanitize incoming query string parameters
