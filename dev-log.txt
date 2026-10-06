@@ -4711,3 +4711,4 @@
 2026-10-06 12:31:52 — docs(readme): polish quick-start guide and examples
 2026-10-06 12:42:43 — 🚀 Peningkatan efisiensi memory caching
 2026-10-06 12:50:24 — fix(validation): handle edge-case null values in params
+2026-10-06 13:05:58 — perf: reduce redundant object allocations in loop
