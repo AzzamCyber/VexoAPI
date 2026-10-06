@@ -4740,3 +4740,4 @@
 2026-10-06 17:09:51 — 📚 Pembaruan panduan integrasi pada README
 2026-10-06 17:21:12 — style: align formatting with project linter standards
 2026-10-06 17:36:54 — refactor(utils): optimize string sanitizer helpers
+2026-10-06 17:50:42 — fix(cors): normalize default allowed origin headers
