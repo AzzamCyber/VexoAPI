@@ -4742,3 +4742,4 @@
 2026-10-06 17:36:54 — refactor(utils): optimize string sanitizer helpers
 2026-10-06 17:50:42 — fix(cors): normalize default allowed origin headers
 2026-10-06 17:54:55 — style: format JSON schemas and configuration comments
+2026-10-06 18:08:42 — refactor: extract reusable header parser method
