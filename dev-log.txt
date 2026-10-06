@@ -4720,3 +4720,4 @@
 2026-10-06 14:17:26 — perf: optimize memory footprint on payload parser
 2026-10-06 14:25:57 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-06 14:32:49 — ⚡ Optimasi struktur data untuk pemrosesan payload
+2026-10-06 14:40:01 — fix(cors): normalize default allowed origin headers
