@@ -4723,3 +4723,4 @@
 2026-10-06 14:40:01 — fix(cors): normalize default allowed origin headers
 2026-10-06 14:43:16 — docs: fix typo in authentication header instructions
 2026-10-06 14:50:35 — docs: update parameter types and response schema
+2026-10-06 14:57:52 — docs: add request payload examples for webhook receiver
