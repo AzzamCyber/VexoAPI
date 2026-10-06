@@ -4710,3 +4710,4 @@
 2026-10-06 12:27:45 — docs: document internal helper functions and return values
 2026-10-06 12:31:52 — docs(readme): polish quick-start guide and examples
 2026-10-06 12:42:43 — 🚀 Peningkatan efisiensi memory caching
+2026-10-06 12:50:24 — fix(validation): handle edge-case null values in params
