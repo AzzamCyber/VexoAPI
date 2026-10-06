@@ -4729,3 +4729,4 @@
 2026-10-06 15:22:35 — refactor(routes): simplify validation logic in controller
 2026-10-06 15:30:01 — perf: improve response latency for cached lookups
 2026-10-06 15:44:37 — refactor(handlers): modularize request dispatcher
+2026-10-06 15:55:23 — fix: sanitize incoming query string parameters
