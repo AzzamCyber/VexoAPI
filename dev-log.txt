@@ -4697,3 +4697,4 @@
 2026-10-06 10:10:50 — fix: guard against undefined property access in mapper
 2026-10-06 10:16:09 — style: reorganize import statements alphabetically
 2026-10-06 10:31:45 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-06 10:44:35 — 🧹 Clean up kode komentar lama dan format styling
