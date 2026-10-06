@@ -4726,3 +4726,4 @@
 2026-10-06 14:57:52 — docs: add request payload examples for webhook receiver
 2026-10-06 15:04:14 — chore: update internal build metadata and telemetry
 2026-10-06 15:17:03 — style: standardize indentation in response templates
+2026-10-06 15:22:35 — refactor(routes): simplify validation logic in controller
