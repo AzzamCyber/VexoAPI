@@ -4801,3 +4801,4 @@
 2026-10-07 10:48:19 — style: normalize trailing whitespace across modules
 2026-10-07 11:01:46 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-07 11:07:18 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-07 11:15:42 — fix: correct status code return on missing authorization
