@@ -4812,3 +4812,4 @@
 2026-10-07 12:19:07 — refactor: clean up deprecated utility arguments
 2026-10-07 12:23:58 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-07 12:34:22 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-07 12:41:53 — docs: document internal helper functions and return values
