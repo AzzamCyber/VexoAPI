@@ -4821,3 +4821,4 @@
 2026-10-07 13:36:49 — refactor: extract reusable header parser method
 2026-10-07 13:41:31 — docs: add changelog notes for recent updates
 2026-10-07 13:46:52 — fix(types): update type annotations for payload handler
+2026-10-07 13:58:43 — style: align formatting with project linter standards
