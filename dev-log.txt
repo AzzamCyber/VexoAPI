@@ -4815,3 +4815,4 @@
 2026-10-07 12:41:53 — docs: document internal helper functions and return values
 2026-10-07 12:57:43 — perf: improve response latency for cached lookups
 2026-10-07 13:01:49 — docs: clarify rate-limit error responses in documentation
+2026-10-07 13:04:57 — refactor(routes): simplify validation logic in controller
