@@ -4882,3 +4882,4 @@
 2026-10-08 00:11:00 — chore: verify environment configuration defaults
 2026-10-08 00:16:12 — chore: synchronize project version constants
 2026-10-08 00:30:58 — docs: update API telemetry and endpoint references
+2026-10-08 00:34:21 — fix(cors): normalize default allowed origin headers
