@@ -4870,3 +4870,4 @@
 2026-10-07 22:00:33 — perf: reduce redundant object allocations in loop
 2026-10-07 22:14:19 — perf: optimize memory footprint on payload parser
 2026-10-07 22:26:32 — docs: clarify rate-limit error responses in documentation
+2026-10-07 22:33:02 — refactor: clean up deprecated utility arguments
