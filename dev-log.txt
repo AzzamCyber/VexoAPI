@@ -4873,3 +4873,4 @@
 2026-10-07 22:33:02 — refactor: clean up deprecated utility arguments
 2026-10-07 22:42:54 — docs: add changelog notes for recent updates
 2026-10-07 22:56:14 — fix: guard against undefined property access in mapper
+2026-10-07 23:07:42 — style: format JSON schemas and configuration comments
