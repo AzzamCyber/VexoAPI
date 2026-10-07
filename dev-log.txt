@@ -4808,3 +4808,4 @@
 2026-10-07 11:39:41 — style: format JSON schemas and configuration comments
 2026-10-07 11:48:09 — fix: sanitize incoming query string parameters
 2026-10-07 11:55:47 — docs: update API telemetry and endpoint references
+2026-10-07 12:08:40 — 📚 Pembaruan panduan integrasi pada README
