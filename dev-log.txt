@@ -4871,3 +4871,4 @@
 2026-10-07 22:14:19 — perf: optimize memory footprint on payload parser
 2026-10-07 22:26:32 — docs: clarify rate-limit error responses in documentation
 2026-10-07 22:33:02 — refactor: clean up deprecated utility arguments
+2026-10-07 22:42:54 — docs: add changelog notes for recent updates
