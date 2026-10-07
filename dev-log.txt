@@ -4829,3 +4829,4 @@
 2026-10-07 14:49:29 — chore: synchronize project version constants
 2026-10-07 15:02:50 — refactor(handlers): modularize request dispatcher
 2026-10-07 15:10:58 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-07 15:17:27 — refactor: reduce nesting in error propagation flow
