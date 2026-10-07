@@ -4839,3 +4839,4 @@
 2026-10-07 16:35:33 — style: reorganize import statements alphabetically
 2026-10-07 16:46:07 — perf: optimize lookup table execution speed
 2026-10-07 16:55:56 — fix: guard against undefined property access in mapper
+2026-10-07 17:10:06 — docs: add request payload examples for webhook receiver
