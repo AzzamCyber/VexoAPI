@@ -4844,3 +4844,4 @@
 2026-10-07 17:23:24 — perf: optimize lookup table execution speed
 2026-10-07 17:37:42 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-07 17:52:13 — fix(types): update type annotations for payload handler
+2026-10-07 18:00:36 — refactor(routes): simplify validation logic in controller
