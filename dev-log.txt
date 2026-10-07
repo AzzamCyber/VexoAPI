@@ -4888,3 +4888,4 @@
 2026-10-08 00:54:21 — docs: fix typo in authentication header instructions
 2026-10-08 00:59:03 — fix: correct status code return on missing authorization
 2026-10-08 01:12:15 — refactor: extract reusable header parser method
+2026-10-08 01:26:42 — docs: update API telemetry and endpoint references
