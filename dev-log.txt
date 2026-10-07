@@ -4823,3 +4823,4 @@
 2026-10-07 13:46:52 — fix(types): update type annotations for payload handler
 2026-10-07 13:58:43 — style: align formatting with project linter standards
 2026-10-07 14:14:15 — perf: reduce redundant object allocations in loop
+2026-10-07 14:28:46 — refactor(utils): optimize string sanitizer helpers
