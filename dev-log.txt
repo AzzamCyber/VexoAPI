@@ -4792,3 +4792,4 @@
 2026-10-07 01:15:14 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-07 01:25:06 — refactor(handlers): modularize request dispatcher
 2026-10-07 09:19:12 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-07 09:31:24 — docs(readme): polish quick-start guide and examples
