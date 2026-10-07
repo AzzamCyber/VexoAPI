@@ -4886,3 +4886,4 @@
 2026-10-08 00:41:40 — chore(ci): adjust workflow step timeout tolerance
 2026-10-08 00:47:07 — style: align formatting with project linter standards
 2026-10-08 00:54:21 — docs: fix typo in authentication header instructions
+2026-10-08 00:59:03 — fix: correct status code return on missing authorization
