@@ -5007,3 +5007,4 @@
 2026-10-08 11:55:05 — fix: sanitize incoming query string parameters
 2026-10-08 12:02:55 — chore(ci): adjust workflow step timeout tolerance
 2026-10-08 12:12:43 — fix(validation): handle edge-case null values in params
+2026-10-08 12:26:34 — refactor: clean up deprecated utility arguments
