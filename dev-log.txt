@@ -5016,3 +5016,4 @@
 2026-10-08 13:30:29 — docs(readme): polish quick-start guide and examples
 2026-10-08 13:40:09 — fix: guard against undefined property access in mapper
 2026-10-08 13:43:55 — style: format JSON schemas and configuration comments
+2026-10-08 13:55:43 — refactor: extract reusable header parser method
