@@ -4980,3 +4980,4 @@
 2026-10-08 23:21:26 — style: normalize trailing whitespace across modules
 2026-10-08 23:26:43 — style: standardize indentation in response templates
 2026-10-08 23:41:32 — fix(cors): normalize default allowed origin headers
+2026-10-08 23:50:50 — fix: sanitize incoming query string parameters
