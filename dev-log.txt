@@ -5015,3 +5015,4 @@
 2026-10-08 13:21:09 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-08 13:30:29 — docs(readme): polish quick-start guide and examples
 2026-10-08 13:40:09 — fix: guard against undefined property access in mapper
+2026-10-08 13:43:55 — style: format JSON schemas and configuration comments
