@@ -5029,3 +5029,4 @@
 2026-10-08 15:28:41 — refactor(core): streamline internal request pipeline
 2026-10-08 15:36:12 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-10-08 15:40:36 — style: reorganize import statements alphabetically
+2026-10-08 15:50:24 — docs: add request payload examples for webhook receiver
