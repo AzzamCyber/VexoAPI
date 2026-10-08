@@ -4989,3 +4989,4 @@
 2026-10-09 00:41:51 — docs: document internal helper functions and return values
 2026-10-09 00:47:14 — perf: fine-tune buffer size for streaming responses
 2026-10-09 00:56:30 — refactor(routes): simplify validation logic in controller
+2026-10-09 01:05:18 — refactor(utils): optimize string sanitizer helpers
