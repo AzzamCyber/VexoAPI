@@ -4967,3 +4967,4 @@
 2026-10-08 21:12:00 — docs: fix typo in authentication header instructions
 2026-10-08 21:23:32 — docs: clarify rate-limit error responses in documentation
 2026-10-08 21:29:42 — fix(validation): handle edge-case null values in params
+2026-10-08 21:44:48 — docs: add changelog notes for recent updates
