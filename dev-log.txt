@@ -5059,3 +5059,4 @@
 2026-10-08 20:15:47 — docs: add changelog notes for recent updates
 2026-10-08 20:23:56 — 📚 Pembaruan panduan integrasi pada README
 2026-10-08 20:37:26 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-08 20:45:10 — perf: fine-tune buffer size for streaming responses
