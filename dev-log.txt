@@ -4963,3 +4963,4 @@
 2026-10-08 20:41:04 — 📚 Pembaruan panduan integrasi pada README
 2026-10-08 20:48:38 — fix: guard against undefined property access in mapper
 2026-10-08 20:59:03 — refactor: extract reusable header parser method
+2026-10-08 21:03:13 — chore: synchronize project version constants
