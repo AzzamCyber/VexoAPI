@@ -4917,3 +4917,4 @@
 2026-10-08 12:40:31 — style: align formatting with project linter standards
 2026-10-08 12:43:59 — fix: guard against undefined property access in mapper
 2026-10-08 12:54:36 — fix: sanitize incoming query string parameters
+2026-10-08 13:06:56 — fix(telemetry): suppress transient network warning in dev mode
