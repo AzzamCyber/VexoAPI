@@ -4904,3 +4904,4 @@
 2026-10-08 10:29:07 — docs: fix typo in authentication header instructions
 2026-10-08 10:43:49 — perf: reduce redundant object allocations in loop
 2026-10-08 10:51:15 — 📚 Pembaruan panduan integrasi pada README
+2026-10-08 11:07:10 — fix(types): update type annotations for payload handler
