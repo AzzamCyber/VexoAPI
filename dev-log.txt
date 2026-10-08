@@ -5040,3 +5040,4 @@
 2026-10-08 17:09:47 — chore: synchronize project version constants
 2026-10-08 17:15:33 — fix(types): update type annotations for payload handler
 2026-10-08 17:26:42 — refactor(utils): optimize string sanitizer helpers
+2026-10-08 17:37:28 — style: format JSON schemas and configuration comments
