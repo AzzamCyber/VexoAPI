@@ -4995,3 +4995,4 @@
 2026-10-08 10:05:07 — docs: add changelog notes for recent updates
 2026-10-08 10:16:16 — docs: document internal helper functions and return values
 2026-10-08 10:19:31 — perf: optimize lookup table execution speed
+2026-10-08 10:25:51 — docs: clarify rate-limit error responses in documentation
