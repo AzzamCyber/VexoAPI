@@ -5079,3 +5079,4 @@
 2026-10-08 23:46:18 — style: reorganize import statements alphabetically
 2026-10-08 23:50:39 — docs(readme): polish quick-start guide and examples
 2026-10-09 00:04:24 — style: align formatting with project linter standards
+2026-10-09 00:08:32 — docs: add request payload examples for webhook receiver
