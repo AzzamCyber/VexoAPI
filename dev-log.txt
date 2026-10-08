@@ -5072,3 +5072,4 @@
 2026-10-08 22:47:58 — docs: clarify rate-limit error responses in documentation
 2026-10-08 23:01:34 — perf: reduce redundant object allocations in loop
 2026-10-08 23:06:12 — style: normalize trailing whitespace across modules
+2026-10-08 23:12:20 — style: standardize indentation in response templates
