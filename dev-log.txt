@@ -4965,3 +4965,4 @@
 2026-10-08 20:59:03 — refactor: extract reusable header parser method
 2026-10-08 21:03:13 — chore: synchronize project version constants
 2026-10-08 21:12:00 — docs: fix typo in authentication header instructions
+2026-10-08 21:23:32 — docs: clarify rate-limit error responses in documentation
