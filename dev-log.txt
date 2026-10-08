@@ -5083,3 +5083,4 @@
 2026-10-09 00:15:19 — refactor: organize constant definitions and status codes
 2026-10-09 00:27:48 — chore(ci): adjust workflow step timeout tolerance
 2026-10-09 00:34:14 — docs: fix typo in authentication header instructions
+2026-10-09 00:48:01 — fix: correct status code return on missing authorization
