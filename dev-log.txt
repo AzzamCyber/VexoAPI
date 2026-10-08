@@ -5000,3 +5000,4 @@
 2026-10-08 10:44:53 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-08 10:58:03 — docs: fix typo in authentication header instructions
 2026-10-08 11:06:44 — style: normalize trailing whitespace across modules
+2026-10-08 11:20:06 — 📝 Update dokumentasi endpoint dan response schema
