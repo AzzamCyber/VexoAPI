@@ -4969,3 +4969,4 @@
 2026-10-08 21:29:42 — fix(validation): handle edge-case null values in params
 2026-10-08 21:44:48 — docs: add changelog notes for recent updates
 2026-10-08 21:51:37 — docs(readme): polish quick-start guide and examples
+2026-10-08 21:59:25 — perf: optimize lookup table execution speed
