@@ -4896,3 +4896,4 @@
 2026-10-08 09:24:07 — fix(cors): normalize default allowed origin headers
 2026-10-08 09:36:19 — style: normalize trailing whitespace across modules
 2026-10-08 09:42:45 — refactor: reduce nesting in error propagation flow
+2026-10-08 09:57:26 — docs: update API telemetry and endpoint references
