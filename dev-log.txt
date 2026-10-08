@@ -5002,3 +5002,4 @@
 2026-10-08 11:06:44 — style: normalize trailing whitespace across modules
 2026-10-08 11:20:06 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-08 11:28:47 — refactor(routes): simplify validation logic in controller
+2026-10-08 11:36:28 — docs: update parameter types and response schema
