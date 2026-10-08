@@ -4916,3 +4916,4 @@
 2026-10-08 12:33:09 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-08 12:40:31 — style: align formatting with project linter standards
 2026-10-08 12:43:59 — fix: guard against undefined property access in mapper
+2026-10-08 12:54:36 — fix: sanitize incoming query string parameters
