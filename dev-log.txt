@@ -5047,3 +5047,4 @@
 2026-10-08 18:26:40 — chore: update internal build metadata and telemetry
 2026-10-08 18:41:01 — fix(cors): normalize default allowed origin headers
 2026-10-08 18:47:18 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-08 18:55:24 — docs: update parameter types and response schema
