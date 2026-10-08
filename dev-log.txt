@@ -4938,3 +4938,4 @@
 2026-10-08 16:13:31 — chore: synchronize project version constants
 2026-10-08 16:26:39 — refactor(utils): optimize string sanitizer helpers
 2026-10-08 16:41:30 — refactor: clean up deprecated utility arguments
+2026-10-08 16:48:53 — docs(readme): polish quick-start guide and examples
