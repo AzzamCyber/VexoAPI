@@ -5077,3 +5077,4 @@
 2026-10-08 23:27:49 — refactor(core): streamline internal request pipeline
 2026-10-08 23:36:00 — chore: verify environment configuration defaults
 2026-10-08 23:46:18 — style: reorganize import statements alphabetically
+2026-10-08 23:50:39 — docs(readme): polish quick-start guide and examples
