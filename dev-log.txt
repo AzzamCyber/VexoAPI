@@ -5038,3 +5038,4 @@
 2026-10-08 16:50:03 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-08 17:05:36 — 📚 Pembaruan panduan integrasi pada README
 2026-10-08 17:09:47 — chore: synchronize project version constants
+2026-10-08 17:15:33 — fix(types): update type annotations for payload handler
