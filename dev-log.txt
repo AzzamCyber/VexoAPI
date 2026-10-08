@@ -5035,3 +5035,4 @@
 2026-10-08 16:17:40 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-08 16:32:18 — refactor(utils): optimize string sanitizer helpers
 2026-10-08 16:37:39 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-08 16:50:03 — fix(telemetry): suppress transient network warning in dev mode
