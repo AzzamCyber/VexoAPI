@@ -5023,3 +5023,4 @@
 2026-10-08 14:37:25 — perf: optimize memory footprint on payload parser
 2026-10-08 14:44:48 — perf: fine-tune buffer size for streaming responses
 2026-10-08 14:57:05 — fix: correct status code return on missing authorization
+2026-10-08 15:10:53 — fix(cors): normalize default allowed origin headers
