@@ -4902,3 +4902,4 @@
 2026-10-08 10:18:27 — fix: correct status code return on missing authorization
 2026-10-08 10:21:49 — docs: update parameter types and response schema
 2026-10-08 10:29:07 — docs: fix typo in authentication header instructions
+2026-10-08 10:43:49 — perf: reduce redundant object allocations in loop
