@@ -5067,3 +5067,4 @@
 2026-10-08 21:47:09 — ✨ Optimasi logic handler dan routing internal
 2026-10-08 22:03:01 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-08 22:11:41 — chore(deps): audit dependencies and check for updates
+2026-10-08 22:24:33 — refactor(routes): simplify validation logic in controller
