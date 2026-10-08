@@ -5021,3 +5021,4 @@
 2026-10-08 14:18:48 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-08 14:27:30 — docs: update API telemetry and endpoint references
 2026-10-08 14:37:25 — perf: optimize memory footprint on payload parser
+2026-10-08 14:44:48 — perf: fine-tune buffer size for streaming responses
