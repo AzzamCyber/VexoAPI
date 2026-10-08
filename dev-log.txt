@@ -5050,3 +5050,4 @@
 2026-10-08 18:55:24 — docs: update parameter types and response schema
 2026-10-08 19:02:34 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-08 19:13:55 — refactor(handlers): modularize request dispatcher
+2026-10-08 19:22:37 — docs: update API telemetry and endpoint references
