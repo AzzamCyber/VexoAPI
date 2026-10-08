@@ -5057,3 +5057,4 @@
 2026-10-08 19:56:36 — fix(validation): handle edge-case null values in params
 2026-10-08 20:00:15 — docs: document internal helper functions and return values
 2026-10-08 20:15:47 — docs: add changelog notes for recent updates
+2026-10-08 20:23:56 — 📚 Pembaruan panduan integrasi pada README
