@@ -5004,3 +5004,4 @@
 2026-10-08 11:28:47 — refactor(routes): simplify validation logic in controller
 2026-10-08 11:36:28 — docs: update parameter types and response schema
 2026-10-08 11:49:54 — refactor(handlers): modularize request dispatcher
+2026-10-08 11:55:05 — fix: sanitize incoming query string parameters
