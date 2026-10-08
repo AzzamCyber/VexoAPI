@@ -5033,3 +5033,4 @@
 2026-10-08 15:56:05 — perf: reduce redundant object allocations in loop
 2026-10-08 16:09:32 — style: align formatting with project linter standards
 2026-10-08 16:17:40 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-08 16:32:18 — refactor(utils): optimize string sanitizer helpers
