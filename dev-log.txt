@@ -5069,3 +5069,4 @@
 2026-10-08 22:11:41 — chore(deps): audit dependencies and check for updates
 2026-10-08 22:24:33 — refactor(routes): simplify validation logic in controller
 2026-10-08 22:32:17 — refactor: clean up deprecated utility arguments
+2026-10-08 22:47:58 — docs: clarify rate-limit error responses in documentation
