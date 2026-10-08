@@ -5025,3 +5025,4 @@
 2026-10-08 14:57:05 — fix: correct status code return on missing authorization
 2026-10-08 15:10:53 — fix(cors): normalize default allowed origin headers
 2026-10-08 15:15:10 — ✨ Optimasi logic handler dan routing internal
+2026-10-08 15:18:19 — refactor: reduce nesting in error propagation flow
