@@ -4923,3 +4923,4 @@
 2026-10-08 13:29:40 — chore(deps): audit dependencies and check for updates
 2026-10-08 13:36:59 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-08 13:51:28 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-08 13:55:47 — fix(validation): handle edge-case null values in params
