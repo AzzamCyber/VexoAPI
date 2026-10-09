@@ -5130,3 +5130,4 @@
 2026-10-09 13:31:37 — perf: fine-tune buffer size for streaming responses
 2026-10-09 13:42:43 — fix(validation): handle edge-case null values in params
 2026-10-09 13:51:01 — 📚 Pembaruan panduan integrasi pada README
+2026-10-09 14:02:33 — fix: correct status code return on missing authorization
