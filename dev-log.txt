@@ -5177,3 +5177,4 @@
 2026-10-09 21:13:20 — docs: update parameter types and response schema
 2026-10-09 21:29:07 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-09 21:36:22 — style: align formatting with project linter standards
+2026-10-09 21:47:51 — docs(readme): polish quick-start guide and examples
