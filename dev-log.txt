@@ -5179,3 +5179,4 @@
 2026-10-09 21:36:22 — style: align formatting with project linter standards
 2026-10-09 21:47:51 — docs(readme): polish quick-start guide and examples
 2026-10-09 21:55:22 — fix(validation): handle edge-case null values in params
+2026-10-09 22:04:58 — refactor(handlers): modularize request dispatcher
