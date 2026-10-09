@@ -5125,3 +5125,4 @@
 2026-10-09 12:41:29 — docs(readme): polish quick-start guide and examples
 2026-10-09 12:52:00 — docs: add changelog notes for recent updates
 2026-10-09 13:01:52 — perf: optimize memory footprint on payload parser
+2026-10-09 13:09:42 — fix: sanitize incoming query string parameters
