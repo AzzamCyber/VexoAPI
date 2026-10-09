@@ -5172,3 +5172,4 @@
 2026-10-09 20:25:37 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-09 20:33:08 — refactor: clean up deprecated utility arguments
 2026-10-09 20:48:22 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-09 20:58:09 — 📝 Update dokumentasi endpoint dan response schema
