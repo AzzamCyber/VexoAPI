@@ -5160,3 +5160,4 @@
 2026-10-09 18:26:53 — perf: optimize memory footprint on payload parser
 2026-10-09 18:38:13 — docs: add changelog notes for recent updates
 2026-10-09 18:44:48 — perf: fine-tune buffer size for streaming responses
+2026-10-09 18:55:03 — fix(cors): normalize default allowed origin headers
