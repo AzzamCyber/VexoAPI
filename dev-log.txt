@@ -5190,3 +5190,4 @@
 2026-10-09 23:13:19 — refactor(utils): optimize string sanitizer helpers
 2026-10-09 23:21:56 — fix(validation): handle edge-case null values in params
 2026-10-09 23:35:44 — style: standardize indentation in response templates
+2026-10-09 23:48:37 — docs(readme): polish quick-start guide and examples
