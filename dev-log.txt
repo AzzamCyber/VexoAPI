@@ -5185,3 +5185,4 @@
 2026-10-09 22:25:22 — refactor: organize constant definitions and status codes
 2026-10-09 22:34:54 — docs: fix typo in authentication header instructions
 2026-10-09 22:39:02 — perf: improve response latency for cached lookups
+2026-10-09 22:42:13 — docs: update API telemetry and endpoint references
