@@ -5119,3 +5119,4 @@
 2026-10-09 11:46:59 — docs: clarify rate-limit error responses in documentation
 2026-10-09 12:01:30 — perf: optimize lookup table execution speed
 2026-10-09 12:08:14 — style: normalize trailing whitespace across modules
+2026-10-09 12:17:23 — docs: fix typo in authentication header instructions
