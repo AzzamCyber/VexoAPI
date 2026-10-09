@@ -5188,3 +5188,4 @@
 2026-10-09 22:42:13 — docs: update API telemetry and endpoint references
 2026-10-09 22:57:50 — style: format JSON schemas and configuration comments
 2026-10-09 23:13:19 — refactor(utils): optimize string sanitizer helpers
+2026-10-09 23:21:56 — fix(validation): handle edge-case null values in params
