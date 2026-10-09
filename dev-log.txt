@@ -5161,3 +5161,4 @@
 2026-10-09 18:38:13 — docs: add changelog notes for recent updates
 2026-10-09 18:44:48 — perf: fine-tune buffer size for streaming responses
 2026-10-09 18:55:03 — fix(cors): normalize default allowed origin headers
+2026-10-09 19:10:57 — fix: guard against undefined property access in mapper
