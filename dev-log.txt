@@ -5109,3 +5109,4 @@
 2026-10-09 10:18:40 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-09 10:25:07 — docs: update API telemetry and endpoint references
 2026-10-09 10:33:45 — docs: add request payload examples for webhook receiver
+2026-10-09 10:45:21 — refactor(core): streamline internal request pipeline
