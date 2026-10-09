@@ -5101,3 +5101,4 @@
 2026-10-09 09:13:08 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-09 09:25:35 — refactor: reduce nesting in error propagation flow
 2026-10-09 09:35:13 — style: standardize indentation in response templates
+2026-10-09 09:48:24 — refactor: extract reusable header parser method
