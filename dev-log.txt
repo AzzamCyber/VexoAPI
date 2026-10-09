@@ -5142,3 +5142,4 @@
 2026-10-09 15:24:05 — 🚀 Peningkatan efisiensi memory caching
 2026-10-09 15:34:53 — perf: optimize lookup table execution speed
 2026-10-09 15:50:38 — docs: document internal helper functions and return values
+2026-10-09 16:04:27 — fix: correct status code return on missing authorization
