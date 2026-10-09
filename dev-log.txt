@@ -5146,3 +5146,4 @@
 2026-10-09 16:12:21 — refactor(routes): simplify validation logic in controller
 2026-10-09 16:23:49 — chore(deps): audit dependencies and check for updates
 2026-10-09 16:29:42 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-09 16:37:47 — refactor: reduce nesting in error propagation flow
