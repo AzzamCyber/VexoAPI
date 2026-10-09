@@ -5128,3 +5128,4 @@
 2026-10-09 13:09:42 — fix: sanitize incoming query string parameters
 2026-10-09 13:22:56 — style: format JSON schemas and configuration comments
 2026-10-09 13:31:37 — perf: fine-tune buffer size for streaming responses
+2026-10-09 13:42:43 — fix(validation): handle edge-case null values in params
