@@ -5170,3 +5170,4 @@
 2026-10-09 20:13:26 — style: standardize indentation in response templates
 2026-10-09 20:18:13 — docs: clarify rate-limit error responses in documentation
 2026-10-09 20:25:37 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-09 20:33:08 — refactor: clean up deprecated utility arguments
