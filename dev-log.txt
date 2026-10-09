@@ -5154,3 +5154,4 @@
 2026-10-09 17:33:20 — refactor(core): streamline internal request pipeline
 2026-10-09 17:44:49 — chore: synchronize project version constants
 2026-10-09 17:48:34 — docs: add request payload examples for webhook receiver
+2026-10-09 18:04:24 — ⚙️ Penyesuaian konfigurasi default environment
