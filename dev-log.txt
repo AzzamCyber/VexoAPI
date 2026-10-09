@@ -5181,3 +5181,4 @@
 2026-10-09 21:55:22 — fix(validation): handle edge-case null values in params
 2026-10-09 22:04:58 — refactor(handlers): modularize request dispatcher
 2026-10-09 22:16:27 — refactor: extract reusable header parser method
+2026-10-09 22:20:09 — fix: sanitize incoming query string parameters
