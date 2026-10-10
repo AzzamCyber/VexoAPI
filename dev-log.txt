@@ -5246,3 +5246,4 @@
 2026-10-10 18:09:12 — refactor: clean up deprecated utility arguments
 2026-10-10 18:22:17 — fix: correct status code return on missing authorization
 2026-10-10 18:27:49 — docs: fix typo in authentication header instructions
+2026-10-10 18:41:37 — fix(telemetry): suppress transient network warning in dev mode
