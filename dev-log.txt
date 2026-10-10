@@ -5204,3 +5204,4 @@
 2026-10-10 11:18:41 — chore(ci): adjust workflow step timeout tolerance
 2026-10-10 11:23:04 — fix: correct status code return on missing authorization
 2026-10-10 11:34:47 — chore: synchronize project version constants
+2026-10-10 11:40:27 — docs: fix typo in authentication header instructions
