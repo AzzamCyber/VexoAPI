@@ -5262,3 +5262,4 @@
 2026-10-10 20:38:40 — style: normalize trailing whitespace across modules
 2026-10-10 20:51:15 — refactor: reduce nesting in error propagation flow
 2026-10-10 20:59:21 — ✨ Optimasi logic handler dan routing internal
+2026-10-10 21:12:26 — docs: document internal helper functions and return values
