@@ -5229,3 +5229,4 @@
 2026-10-10 15:25:03 — refactor(utils): optimize string sanitizer helpers
 2026-10-10 15:32:26 — 📚 Pembaruan panduan integrasi pada README
 2026-10-10 15:47:38 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-10 15:56:13 — docs: document internal helper functions and return values
