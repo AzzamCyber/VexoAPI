@@ -5271,3 +5271,4 @@
 2026-10-10 22:03:27 — fix(validation): handle edge-case null values in params
 2026-10-10 22:17:22 — refactor: organize constant definitions and status codes
 2026-10-10 22:29:28 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-10 22:45:18 — refactor: extract reusable header parser method
