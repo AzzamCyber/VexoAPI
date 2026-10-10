@@ -5210,3 +5210,4 @@
 2026-10-10 12:09:35 — perf: optimize memory footprint on payload parser
 2026-10-10 12:23:19 — docs: clarify rate-limit error responses in documentation
 2026-10-10 12:33:34 — chore(deps): audit dependencies and check for updates
+2026-10-10 12:39:17 — docs: add changelog notes for recent updates
