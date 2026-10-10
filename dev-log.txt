@@ -5194,3 +5194,4 @@
 2026-10-10 09:43:40 — docs: update parameter types and response schema
 2026-10-10 09:57:55 — ✨ Optimasi logic handler dan routing internal
 2026-10-10 10:08:26 — refactor(handlers): modularize request dispatcher
+2026-10-10 10:21:21 — perf: fine-tune buffer size for streaming responses
