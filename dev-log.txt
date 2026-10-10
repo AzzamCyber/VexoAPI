@@ -5280,3 +5280,4 @@
 2026-10-10 23:50:10 — perf: improve response latency for cached lookups
 2026-10-10 23:55:02 — style: format JSON schemas and configuration comments
 2026-10-11 00:07:15 — refactor(routes): simplify validation logic in controller
+2026-10-11 00:10:48 — docs: clarify rate-limit error responses in documentation
