@@ -5214,3 +5214,4 @@
 2026-10-10 12:54:12 — docs(readme): polish quick-start guide and examples
 2026-10-10 13:00:07 — docs: add request payload examples for webhook receiver
 2026-10-10 13:04:14 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-10 13:09:34 — chore: verify environment configuration defaults
