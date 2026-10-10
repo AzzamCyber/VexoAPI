@@ -5236,3 +5236,4 @@
 2026-10-10 16:42:51 — fix(cors): normalize default allowed origin headers
 2026-10-10 16:48:27 — refactor(core): streamline internal request pipeline
 2026-10-10 16:55:01 — fix(types): update type annotations for payload handler
+2026-10-10 17:08:29 — fix(telemetry): suppress transient network warning in dev mode
