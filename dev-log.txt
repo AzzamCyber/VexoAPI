@@ -5208,3 +5208,4 @@
 2026-10-10 11:51:06 — style: standardize indentation in response templates
 2026-10-10 11:56:44 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-10 12:09:35 — perf: optimize memory footprint on payload parser
+2026-10-10 12:23:19 — docs: clarify rate-limit error responses in documentation
