@@ -5274,3 +5274,4 @@
 2026-10-10 22:45:18 — refactor: extract reusable header parser method
 2026-10-10 22:57:54 — docs(readme): polish quick-start guide and examples
 2026-10-10 23:05:05 — docs: add changelog notes for recent updates
+2026-10-10 23:20:10 — perf: optimize lookup table execution speed
