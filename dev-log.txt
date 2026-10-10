@@ -5202,3 +5202,4 @@
 2026-10-10 10:58:39 — fix: guard against undefined property access in mapper
 2026-10-10 11:12:04 — refactor(routes): simplify validation logic in controller
 2026-10-10 11:18:41 — chore(ci): adjust workflow step timeout tolerance
+2026-10-10 11:23:04 — fix: correct status code return on missing authorization
