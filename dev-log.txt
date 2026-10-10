@@ -5197,3 +5197,4 @@
 2026-10-10 10:21:21 — perf: fine-tune buffer size for streaming responses
 2026-10-10 10:29:10 — refactor: clean up deprecated utility arguments
 2026-10-10 10:32:55 — refactor: reduce nesting in error propagation flow
+2026-10-10 10:37:30 — docs: update API telemetry and endpoint references
