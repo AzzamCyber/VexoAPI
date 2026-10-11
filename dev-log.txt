@@ -5438,3 +5438,4 @@
 2026-10-11 11:37:29 — fix: correct status code return on missing authorization
 2026-10-11 11:52:48 — refactor: extract reusable header parser method
 2026-10-11 11:59:35 — fix(validation): handle edge-case null values in params
+2026-10-11 12:12:25 — style: format JSON schemas and configuration comments
