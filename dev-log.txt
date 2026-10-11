@@ -5375,3 +5375,4 @@
 2026-10-11 19:26:36 — docs: update parameter types and response schema
 2026-10-11 19:38:23 — refactor: organize constant definitions and status codes
 2026-10-11 19:49:30 — refactor: clean up deprecated utility arguments
+2026-10-11 20:05:56 — fix(types): update type annotations for payload handler
