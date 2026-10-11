@@ -5374,3 +5374,4 @@
 2026-10-11 19:10:12 — docs(readme): polish quick-start guide and examples
 2026-10-11 19:26:36 — docs: update parameter types and response schema
 2026-10-11 19:38:23 — refactor: organize constant definitions and status codes
+2026-10-11 19:49:30 — refactor: clean up deprecated utility arguments
