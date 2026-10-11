@@ -5447,3 +5447,4 @@
 2026-10-11 12:58:50 — docs(readme): polish quick-start guide and examples
 2026-10-11 13:03:13 — perf: reduce redundant object allocations in loop
 2026-10-11 13:12:07 — chore: verify environment configuration defaults
+2026-10-11 13:20:33 — fix(types): update type annotations for payload handler
