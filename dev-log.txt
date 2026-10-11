@@ -5368,3 +5368,4 @@
 2026-10-11 17:33:55 — fix: correct status code return on missing authorization
 2026-10-11 17:48:12 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-10-11 18:07:42 — style: normalize trailing whitespace across modules
+2026-10-11 18:22:57 — docs: add request payload examples for webhook receiver
