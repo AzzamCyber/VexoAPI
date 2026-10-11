@@ -5309,3 +5309,4 @@
 2026-10-11 13:08:15 — 📚 Pembaruan panduan integrasi pada README
 2026-10-11 13:29:27 — perf: improve response latency for cached lookups
 2026-10-11 13:43:47 — refactor(utils): optimize string sanitizer helpers
+2026-10-11 13:59:01 — refactor: clean up deprecated utility arguments
