@@ -5477,3 +5477,4 @@
 2026-10-11 18:01:25 — docs: add request payload examples for webhook receiver
 2026-10-11 18:14:11 — refactor: reduce nesting in error propagation flow
 2026-10-11 18:27:02 — refactor: extract reusable header parser method
+2026-10-11 18:40:13 — docs: clarify rate-limit error responses in documentation
