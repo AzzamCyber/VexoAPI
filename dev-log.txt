@@ -5467,3 +5467,4 @@
 2026-10-11 16:31:14 — chore: update internal build metadata and telemetry
 2026-10-11 16:34:40 — fix: sanitize incoming query string parameters
 2026-10-11 16:45:10 — fix(cors): normalize default allowed origin headers
+2026-10-11 16:50:49 — refactor(utils): optimize string sanitizer helpers
