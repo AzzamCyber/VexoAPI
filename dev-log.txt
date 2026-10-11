@@ -5411,3 +5411,4 @@
 2026-10-11 19:34:50 — docs: update API telemetry and endpoint references
 2026-10-11 20:09:16 — chore: verify environment configuration defaults
 2026-10-11 20:47:10 — fix: guard against undefined property access in mapper
+2026-10-11 21:24:56 — refactor(utils): optimize string sanitizer helpers
