@@ -5347,3 +5347,4 @@
 2026-10-11 10:53:39 — fix: sanitize incoming query string parameters
 2026-10-11 11:13:30 — style: reorganize import statements alphabetically
 2026-10-11 11:36:47 — chore: synchronize project version constants
+2026-10-11 11:59:57 — fix(cors): normalize default allowed origin headers
