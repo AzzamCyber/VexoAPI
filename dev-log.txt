@@ -5494,3 +5494,4 @@
 2026-10-11 20:40:46 — style: reorganize import statements alphabetically
 2026-10-11 20:43:56 — docs: update API telemetry and endpoint references
 2026-10-11 20:57:41 — style: normalize trailing whitespace across modules
+2026-10-11 21:13:14 — refactor: clean up deprecated utility arguments
