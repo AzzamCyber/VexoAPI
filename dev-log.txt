@@ -5457,3 +5457,4 @@
 2026-10-11 14:36:27 — docs: clarify rate-limit error responses in documentation
 2026-10-11 14:48:55 — chore(deps): audit dependencies and check for updates
 2026-10-11 14:55:12 — fix(cors): normalize default allowed origin headers
+2026-10-11 15:08:22 — style: standardize indentation in response templates
