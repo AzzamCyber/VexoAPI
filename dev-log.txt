@@ -5331,3 +5331,4 @@
 2026-10-11 19:31:53 — refactor: reduce nesting in error propagation flow
 2026-10-11 19:46:17 — fix(validation): handle edge-case null values in params
 2026-10-11 20:09:26 — docs(readme): polish quick-start guide and examples
+2026-10-11 20:22:54 — docs: update API telemetry and endpoint references
