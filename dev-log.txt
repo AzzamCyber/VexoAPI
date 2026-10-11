@@ -5440,3 +5440,4 @@
 2026-10-11 11:59:35 — fix(validation): handle edge-case null values in params
 2026-10-11 12:12:25 — style: format JSON schemas and configuration comments
 2026-10-11 12:17:41 — docs: update API telemetry and endpoint references
+2026-10-11 12:28:20 — docs: add request payload examples for webhook receiver
