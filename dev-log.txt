@@ -5365,3 +5365,4 @@
 2026-10-11 16:33:35 — refactor: reduce nesting in error propagation flow
 2026-10-11 16:57:29 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-11 17:10:11 — docs: clarify rate-limit error responses in documentation
+2026-10-11 17:33:55 — fix: correct status code return on missing authorization
