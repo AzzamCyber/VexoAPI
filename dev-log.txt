@@ -5439,3 +5439,4 @@
 2026-10-11 11:52:48 — refactor: extract reusable header parser method
 2026-10-11 11:59:35 — fix(validation): handle edge-case null values in params
 2026-10-11 12:12:25 — style: format JSON schemas and configuration comments
+2026-10-11 12:17:41 — docs: update API telemetry and endpoint references
