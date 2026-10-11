@@ -5334,3 +5334,4 @@
 2026-10-11 20:22:54 — docs: update API telemetry and endpoint references
 2026-10-11 20:35:14 — docs: document internal helper functions and return values
 2026-10-11 20:53:32 — refactor: extract reusable header parser method
+2026-10-11 21:07:12 — 🔧 Refactor fungsi helper pada utilitas umum
