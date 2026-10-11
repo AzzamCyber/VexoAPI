@@ -5308,3 +5308,4 @@
 2026-10-11 12:51:40 — fix: correct status code return on missing authorization
 2026-10-11 13:08:15 — 📚 Pembaruan panduan integrasi pada README
 2026-10-11 13:29:27 — perf: improve response latency for cached lookups
+2026-10-11 13:43:47 — refactor(utils): optimize string sanitizer helpers
