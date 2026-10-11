@@ -5348,3 +5348,4 @@
 2026-10-11 11:13:30 — style: reorganize import statements alphabetically
 2026-10-11 11:36:47 — chore: synchronize project version constants
 2026-10-11 11:59:57 — fix(cors): normalize default allowed origin headers
+2026-10-11 12:12:51 — 🔧 Refactor fungsi helper pada utilitas umum
