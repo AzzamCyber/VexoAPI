@@ -5422,3 +5422,4 @@
 2026-10-11 08:58:02 — style: align formatting with project linter standards
 2026-10-11 09:03:14 — refactor(core): streamline internal request pipeline
 2026-10-11 09:10:36 — chore: synchronize project version constants
+2026-10-11 09:25:14 — chore(ci): adjust workflow step timeout tolerance
