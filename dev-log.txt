@@ -5325,3 +5325,4 @@
 2026-10-11 17:34:45 — fix: sanitize incoming query string parameters
 2026-10-11 17:52:51 — style: normalize trailing whitespace across modules
 2026-10-11 18:11:33 — docs: fix typo in authentication header instructions
+2026-10-11 18:34:44 — docs: add request payload examples for webhook receiver
