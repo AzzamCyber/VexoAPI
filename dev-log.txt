@@ -5318,3 +5318,4 @@
 2026-10-11 15:31:36 — chore(deps): audit dependencies and check for updates
 2026-10-11 15:46:51 — fix(cors): normalize default allowed origin headers
 2026-10-11 16:02:24 — style: standardize indentation in response templates
+2026-10-11 16:26:16 — fix(types): update type annotations for payload handler
