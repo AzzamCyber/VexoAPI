@@ -5484,3 +5484,4 @@
 2026-10-11 19:01:24 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-11 19:08:01 — style: standardize indentation in response templates
 2026-10-11 19:21:41 — fix(types): update type annotations for payload handler
+2026-10-11 19:30:31 — refactor(handlers): modularize request dispatcher
