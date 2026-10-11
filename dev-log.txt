@@ -5395,3 +5395,4 @@
 2026-10-11 10:13:18 — perf: optimize memory footprint on payload parser
 2026-10-11 10:52:34 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-11 11:28:02 — refactor(core): streamline internal request pipeline
+2026-10-11 12:00:23 — fix: correct status code return on missing authorization
