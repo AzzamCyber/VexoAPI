@@ -5316,3 +5316,4 @@
 2026-10-11 15:00:25 — chore(ci): adjust workflow step timeout tolerance
 2026-10-11 15:13:03 — docs: update parameter types and response schema
 2026-10-11 15:31:36 — chore(deps): audit dependencies and check for updates
+2026-10-11 15:46:51 — fix(cors): normalize default allowed origin headers
