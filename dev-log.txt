@@ -5436,3 +5436,4 @@
 2026-10-11 11:15:24 — style: reorganize import statements alphabetically
 2026-10-11 11:22:49 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-11 11:37:29 — fix: correct status code return on missing authorization
+2026-10-11 11:52:48 — refactor: extract reusable header parser method
