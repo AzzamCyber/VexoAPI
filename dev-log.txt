@@ -5303,3 +5303,4 @@
 2026-10-11 11:26:49 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-11 11:41:30 — refactor(handlers): modularize request dispatcher
 2026-10-11 11:54:47 — docs: add changelog notes for recent updates
+2026-10-11 12:11:06 — fix(telemetry): suppress transient network warning in dev mode
