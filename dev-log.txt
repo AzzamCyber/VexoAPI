@@ -5377,3 +5377,4 @@
 2026-10-11 19:49:30 — refactor: clean up deprecated utility arguments
 2026-10-11 20:05:56 — fix(types): update type annotations for payload handler
 2026-10-11 20:25:06 — perf: optimize memory footprint on payload parser
+2026-10-11 20:48:16 — docs: document internal helper functions and return values
