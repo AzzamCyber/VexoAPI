@@ -5371,3 +5371,4 @@
 2026-10-11 18:22:57 — docs: add request payload examples for webhook receiver
 2026-10-11 18:37:22 — refactor(utils): optimize string sanitizer helpers
 2026-10-11 18:55:52 — perf: improve response latency for cached lookups
+2026-10-11 19:10:12 — docs(readme): polish quick-start guide and examples
