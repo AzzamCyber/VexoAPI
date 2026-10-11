@@ -5478,3 +5478,4 @@
 2026-10-11 18:14:11 — refactor: reduce nesting in error propagation flow
 2026-10-11 18:27:02 — refactor: extract reusable header parser method
 2026-10-11 18:40:13 — docs: clarify rate-limit error responses in documentation
+2026-10-11 18:44:03 — refactor(core): streamline internal request pipeline
