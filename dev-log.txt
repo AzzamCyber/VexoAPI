@@ -5339,3 +5339,4 @@
 2026-10-11 21:49:45 — docs: clarify rate-limit error responses in documentation
 2026-10-11 22:13:35 — perf: reduce redundant object allocations in loop
 2026-10-11 22:35:11 — style: align formatting with project linter standards
+2026-10-11 22:48:31 — refactor(utils): optimize string sanitizer helpers
