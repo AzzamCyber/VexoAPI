@@ -5408,3 +5408,4 @@
 2026-10-11 17:55:17 — chore: synchronize project version constants
 2026-10-11 18:27:29 — 📚 Pembaruan panduan integrasi pada README
 2026-10-11 19:03:43 — fix(cors): normalize default allowed origin headers
+2026-10-11 19:34:50 — docs: update API telemetry and endpoint references
