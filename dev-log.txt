@@ -5474,3 +5474,4 @@
 2026-10-11 17:32:48 — docs(readme): polish quick-start guide and examples
 2026-10-11 17:39:56 — refactor: organize constant definitions and status codes
 2026-10-11 17:52:32 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-11 18:01:25 — docs: add request payload examples for webhook receiver
