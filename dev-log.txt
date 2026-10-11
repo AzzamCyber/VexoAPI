@@ -5323,3 +5323,4 @@
 2026-10-11 16:59:54 — style: reorganize import statements alphabetically
 2026-10-11 17:15:22 — style: format JSON schemas and configuration comments
 2026-10-11 17:34:45 — fix: sanitize incoming query string parameters
+2026-10-11 17:52:51 — style: normalize trailing whitespace across modules
