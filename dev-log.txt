@@ -5545,3 +5545,4 @@
 2026-10-12 14:11:10 — docs(readme): polish quick-start guide and examples
 2026-10-12 14:24:53 — style: standardize indentation in response templates
 2026-10-12 14:36:16 — fix(cors): normalize default allowed origin headers
+2026-10-12 14:48:31 — refactor(handlers): modularize request dispatcher
