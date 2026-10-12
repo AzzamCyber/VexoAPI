@@ -5574,3 +5574,4 @@
 2026-10-12 18:47:10 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-12 18:55:33 — docs: clarify rate-limit error responses in documentation
 2026-10-12 19:08:51 — refactor(handlers): modularize request dispatcher
+2026-10-12 19:19:13 — chore: synchronize project version constants
