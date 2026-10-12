@@ -5547,3 +5547,4 @@
 2026-10-12 14:36:16 — fix(cors): normalize default allowed origin headers
 2026-10-12 14:48:31 — refactor(handlers): modularize request dispatcher
 2026-10-12 14:55:06 — docs: fix typo in authentication header instructions
+2026-10-12 15:05:58 — ⚙️ Penyesuaian konfigurasi default environment
