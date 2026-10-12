@@ -5596,3 +5596,4 @@
 2026-10-12 22:19:43 — fix: sanitize incoming query string parameters
 2026-10-12 22:29:26 — fix: guard against undefined property access in mapper
 2026-10-12 22:39:51 — fix: correct status code return on missing authorization
+2026-10-12 22:51:25 — docs: add changelog notes for recent updates
