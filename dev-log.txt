@@ -5585,3 +5585,4 @@
 2026-10-12 20:39:34 — docs(readme): polish quick-start guide and examples
 2026-10-12 20:47:41 — chore: verify environment configuration defaults
 2026-10-12 20:57:15 — chore(deps): audit dependencies and check for updates
+2026-10-12 21:08:59 — refactor: clean up deprecated utility arguments
