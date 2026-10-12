@@ -5531,3 +5531,4 @@
 2026-10-12 11:41:57 — perf: fine-tune buffer size for streaming responses
 2026-10-12 11:57:06 — docs: clarify rate-limit error responses in documentation
 2026-10-12 12:03:52 — style: normalize trailing whitespace across modules
+2026-10-12 12:09:04 — refactor(core): streamline internal request pipeline
