@@ -5614,3 +5614,4 @@
 2026-10-13 01:27:33 — refactor(utils): optimize string sanitizer helpers
 2026-10-13 01:32:15 — perf: optimize memory footprint on payload parser
 2026-10-13 01:36:00 — fix(types): update type annotations for payload handler
+2026-10-13 01:48:49 — refactor: reduce nesting in error propagation flow
