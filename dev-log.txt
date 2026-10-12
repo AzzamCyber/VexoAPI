@@ -5543,3 +5543,4 @@
 2026-10-12 13:51:12 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-12 14:01:46 — perf: reduce redundant object allocations in loop
 2026-10-12 14:11:10 — docs(readme): polish quick-start guide and examples
+2026-10-12 14:24:53 — style: standardize indentation in response templates
