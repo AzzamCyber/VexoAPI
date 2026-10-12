@@ -5527,3 +5527,4 @@
 2026-10-12 11:05:15 — style: align formatting with project linter standards
 2026-10-12 11:14:47 — chore: synchronize project version constants
 2026-10-12 11:24:36 — fix(types): update type annotations for payload handler
+2026-10-12 11:29:07 — refactor(routes): simplify validation logic in controller
