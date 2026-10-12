@@ -5587,3 +5587,4 @@
 2026-10-12 20:57:15 — chore(deps): audit dependencies and check for updates
 2026-10-12 21:08:59 — refactor: clean up deprecated utility arguments
 2026-10-12 21:20:46 — style: normalize trailing whitespace across modules
+2026-10-12 21:26:20 — style: align formatting with project linter standards
