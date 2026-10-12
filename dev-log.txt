@@ -5608,3 +5608,4 @@
 2026-10-13 00:15:06 — refactor(core): streamline internal request pipeline
 2026-10-13 00:26:18 — fix(cors): normalize default allowed origin headers
 2026-10-13 00:40:57 — style: format JSON schemas and configuration comments
+2026-10-13 00:48:50 — perf: reduce redundant object allocations in loop
