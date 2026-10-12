@@ -5542,3 +5542,4 @@
 2026-10-12 13:42:57 — docs: add request payload examples for webhook receiver
 2026-10-12 13:51:12 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-12 14:01:46 — perf: reduce redundant object allocations in loop
+2026-10-12 14:11:10 — docs(readme): polish quick-start guide and examples
