@@ -5591,3 +5591,4 @@
 2026-10-12 21:36:45 — chore(ci): adjust workflow step timeout tolerance
 2026-10-12 21:41:06 — docs: fix typo in authentication header instructions
 2026-10-12 21:49:43 — refactor: organize constant definitions and status codes
+2026-10-12 21:57:37 — 📝 Update dokumentasi endpoint dan response schema
