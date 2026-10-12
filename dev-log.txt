@@ -5589,3 +5589,4 @@
 2026-10-12 21:20:46 — style: normalize trailing whitespace across modules
 2026-10-12 21:26:20 — style: align formatting with project linter standards
 2026-10-12 21:36:45 — chore(ci): adjust workflow step timeout tolerance
+2026-10-12 21:41:06 — docs: fix typo in authentication header instructions
