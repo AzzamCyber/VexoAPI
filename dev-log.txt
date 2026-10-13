@@ -5663,3 +5663,4 @@
 2026-10-13 15:50:05 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-13 15:56:17 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-13 16:08:52 — chore(deps): audit dependencies and check for updates
+2026-10-13 16:16:28 — fix: sanitize incoming query string parameters
