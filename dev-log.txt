@@ -5698,3 +5698,4 @@
 2026-10-13 21:09:00 — fix(cors): normalize default allowed origin headers
 2026-10-13 21:23:54 — ✨ Optimasi logic handler dan routing internal
 2026-10-13 21:38:27 — docs: add changelog notes for recent updates
+2026-10-13 21:44:33 — 🧹 Clean up kode komentar lama dan format styling
