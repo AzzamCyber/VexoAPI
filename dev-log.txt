@@ -5694,3 +5694,4 @@
 2026-10-13 20:29:08 — refactor: reduce nesting in error propagation flow
 2026-10-13 20:39:37 — chore(deps): audit dependencies and check for updates
 2026-10-13 20:52:47 — style: standardize indentation in response templates
+2026-10-13 21:00:23 — style: format JSON schemas and configuration comments
