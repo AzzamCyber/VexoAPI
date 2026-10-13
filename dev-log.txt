@@ -5702,3 +5702,4 @@
 2026-10-13 21:53:40 — chore: update internal build metadata and telemetry
 2026-10-13 21:59:53 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-13 22:03:40 — docs: update API telemetry and endpoint references
+2026-10-13 22:18:59 — docs: update parameter types and response schema
