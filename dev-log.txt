@@ -5677,3 +5677,4 @@
 2026-10-13 17:51:57 — chore: verify environment configuration defaults
 2026-10-13 17:58:13 — 🚀 Peningkatan efisiensi memory caching
 2026-10-13 18:03:42 — perf: fine-tune buffer size for streaming responses
+2026-10-13 18:18:52 — docs: add request payload examples for webhook receiver
