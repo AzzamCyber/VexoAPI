@@ -5647,3 +5647,4 @@
 2026-10-13 13:31:51 — fix(cors): normalize default allowed origin headers
 2026-10-13 13:36:06 — docs: add request payload examples for webhook receiver
 2026-10-13 13:39:27 — style: align formatting with project linter standards
+2026-10-13 13:45:07 — 📚 Pembaruan panduan integrasi pada README
