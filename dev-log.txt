@@ -5646,3 +5646,4 @@
 2026-10-13 13:27:34 — docs: update API telemetry and endpoint references
 2026-10-13 13:31:51 — fix(cors): normalize default allowed origin headers
 2026-10-13 13:36:06 — docs: add request payload examples for webhook receiver
+2026-10-13 13:39:27 — style: align formatting with project linter standards
