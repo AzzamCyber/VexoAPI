@@ -5680,3 +5680,4 @@
 2026-10-13 18:18:52 — docs: add request payload examples for webhook receiver
 2026-10-13 18:24:26 — 📚 Pembaruan panduan integrasi pada README
 2026-10-13 18:30:40 — fix(types): update type annotations for payload handler
+2026-10-13 18:40:47 — 📝 Update dokumentasi endpoint dan response schema
