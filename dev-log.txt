@@ -5683,3 +5683,4 @@
 2026-10-13 18:40:47 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-13 18:55:08 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-13 18:59:42 — perf: optimize memory footprint on payload parser
+2026-10-13 19:04:59 — docs: clarify rate-limit error responses in documentation
