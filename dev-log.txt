@@ -5670,3 +5670,4 @@
 2026-10-13 16:51:29 — fix: guard against undefined property access in mapper
 2026-10-13 17:00:50 — docs(readme): polish quick-start guide and examples
 2026-10-13 17:10:56 — fix: correct status code return on missing authorization
+2026-10-13 17:25:01 — refactor: organize constant definitions and status codes
