@@ -5706,3 +5706,4 @@
 2026-10-13 22:22:51 — refactor: extract reusable header parser method
 2026-10-13 22:33:11 — style: reorganize import statements alphabetically
 2026-10-13 22:39:33 — refactor(routes): simplify validation logic in controller
+2026-10-13 22:44:26 — style: normalize trailing whitespace across modules
