@@ -5711,3 +5711,4 @@
 2026-10-13 23:13:44 — fix: sanitize incoming query string parameters
 2026-10-13 23:29:25 — perf: improve response latency for cached lookups
 2026-10-13 23:43:51 — refactor(handlers): modularize request dispatcher
+2026-10-13 23:53:32 — fix(telemetry): suppress transient network warning in dev mode
