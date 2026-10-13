@@ -5701,3 +5701,4 @@
 2026-10-13 21:44:33 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-13 21:53:40 — chore: update internal build metadata and telemetry
 2026-10-13 21:59:53 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-13 22:03:40 — docs: update API telemetry and endpoint references
