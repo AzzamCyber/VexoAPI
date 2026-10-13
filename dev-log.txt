@@ -5629,3 +5629,4 @@
 2026-10-13 11:01:33 — fix: guard against undefined property access in mapper
 2026-10-13 11:14:28 — perf: improve response latency for cached lookups
 2026-10-13 11:28:01 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-13 11:32:29 — fix: correct status code return on missing authorization
