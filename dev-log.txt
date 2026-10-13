@@ -5668,3 +5668,4 @@
 2026-10-13 16:31:59 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-13 16:44:43 — refactor(utils): optimize string sanitizer helpers
 2026-10-13 16:51:29 — fix: guard against undefined property access in mapper
+2026-10-13 17:00:50 — docs(readme): polish quick-start guide and examples
