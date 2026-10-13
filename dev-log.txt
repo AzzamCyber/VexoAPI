@@ -5660,3 +5660,4 @@
 2026-10-13 15:14:56 — perf: reduce redundant object allocations in loop
 2026-10-13 15:28:06 — docs: add changelog notes for recent updates
 2026-10-13 15:43:15 — docs(readme): polish quick-start guide and examples
+2026-10-13 15:50:05 — 📝 Update dokumentasi endpoint dan response schema
