@@ -5708,3 +5708,4 @@
 2026-10-13 22:39:33 — refactor(routes): simplify validation logic in controller
 2026-10-13 22:44:26 — style: normalize trailing whitespace across modules
 2026-10-13 22:57:55 — chore: synchronize project version constants
+2026-10-13 23:13:44 — fix: sanitize incoming query string parameters
