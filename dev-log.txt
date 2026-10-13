@@ -5710,3 +5710,4 @@
 2026-10-13 22:57:55 — chore: synchronize project version constants
 2026-10-13 23:13:44 — fix: sanitize incoming query string parameters
 2026-10-13 23:29:25 — perf: improve response latency for cached lookups
+2026-10-13 23:43:51 — refactor(handlers): modularize request dispatcher
