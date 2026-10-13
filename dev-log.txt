@@ -5643,3 +5643,4 @@
 2026-10-13 12:57:30 — chore: verify environment configuration defaults
 2026-10-13 13:06:20 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-13 13:13:48 — perf: fine-tune buffer size for streaming responses
+2026-10-13 13:27:34 — docs: update API telemetry and endpoint references
