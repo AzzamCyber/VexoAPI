@@ -5743,3 +5743,4 @@
 2026-10-15 12:31:16 — fix(types): update type annotations for payload handler
 2026-10-15 12:43:55 — style: reorganize import statements alphabetically
 2026-10-15 12:51:34 — docs: add changelog notes for recent updates
+2026-10-15 12:57:55 — style: align formatting with project linter standards
