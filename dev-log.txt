@@ -5837,3 +5837,4 @@
 2026-10-15 12:21:10 — docs: document internal helper functions and return values
 2026-10-15 12:34:41 — refactor: extract reusable header parser method
 2026-10-15 12:38:58 — perf: fine-tune buffer size for streaming responses
+2026-10-15 12:53:08 — 📚 Pembaruan panduan integrasi pada README
