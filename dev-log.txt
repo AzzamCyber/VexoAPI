@@ -5796,3 +5796,4 @@
 2026-10-15 20:21:14 — fix(cors): normalize default allowed origin headers
 2026-10-15 20:32:08 — refactor(core): streamline internal request pipeline
 2026-10-15 20:45:44 — docs: update API telemetry and endpoint references
+2026-10-15 20:56:19 — docs: document internal helper functions and return values
