@@ -5821,3 +5821,4 @@
 2026-10-15 10:00:25 — fix: sanitize incoming query string parameters
 2026-10-15 10:05:42 — style: align formatting with project linter standards
 2026-10-15 10:12:57 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-15 10:21:24 — refactor(core): streamline internal request pipeline
