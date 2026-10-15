@@ -5843,3 +5843,4 @@
 2026-10-15 13:24:38 — style: format JSON schemas and configuration comments
 2026-10-15 13:30:11 — perf: improve response latency for cached lookups
 2026-10-15 13:40:06 — style: standardize indentation in response templates
+2026-10-15 13:55:24 — refactor(handlers): modularize request dispatcher
