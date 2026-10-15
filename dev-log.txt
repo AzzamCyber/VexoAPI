@@ -5845,3 +5845,4 @@
 2026-10-15 13:40:06 — style: standardize indentation in response templates
 2026-10-15 13:55:24 — refactor(handlers): modularize request dispatcher
 2026-10-15 14:00:13 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-15 14:03:55 — docs: update API telemetry and endpoint references
