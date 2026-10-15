@@ -5792,3 +5792,4 @@
 2026-10-15 19:46:07 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-15 20:00:15 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-15 20:11:30 — refactor(routes): simplify validation logic in controller
+2026-10-15 20:15:09 — style: format JSON schemas and configuration comments
