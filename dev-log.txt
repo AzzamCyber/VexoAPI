@@ -5724,3 +5724,4 @@
 2026-10-15 09:25:14 — refactor: reduce nesting in error propagation flow
 2026-10-15 09:31:35 — refactor: clean up deprecated utility arguments
 2026-10-15 09:39:40 — refactor(utils): optimize string sanitizer helpers
+2026-10-15 09:48:26 — fix: sanitize incoming query string parameters
