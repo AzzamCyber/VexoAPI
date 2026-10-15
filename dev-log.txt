@@ -5744,3 +5744,4 @@
 2026-10-15 12:43:55 — style: reorganize import statements alphabetically
 2026-10-15 12:51:34 — docs: add changelog notes for recent updates
 2026-10-15 12:57:55 — style: align formatting with project linter standards
+2026-10-15 13:09:24 — refactor(routes): simplify validation logic in controller
