@@ -5892,3 +5892,4 @@
 2026-10-15 20:34:37 — chore(deps): audit dependencies and check for updates
 2026-10-15 20:44:19 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-15 20:47:46 — refactor: extract reusable header parser method
+2026-10-15 21:02:22 — refactor: clean up deprecated utility arguments
