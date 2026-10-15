@@ -5818,3 +5818,4 @@
 2026-10-16 00:01:10 — refactor(routes): simplify validation logic in controller
 2026-10-15 09:41:50 — perf: reduce redundant object allocations in loop
 2026-10-15 09:50:37 — refactor(routes): simplify validation logic in controller
+2026-10-15 10:00:25 — fix: sanitize incoming query string parameters
