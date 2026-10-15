@@ -5823,3 +5823,4 @@
 2026-10-15 10:12:57 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-15 10:21:24 — refactor(core): streamline internal request pipeline
 2026-10-15 10:27:47 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-15 10:41:55 — fix(validation): handle edge-case null values in params
