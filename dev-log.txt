@@ -5876,3 +5876,4 @@
 2026-10-15 17:48:06 — ✨ Optimasi logic handler dan routing internal
 2026-10-15 17:53:34 — docs: add changelog notes for recent updates
 2026-10-15 18:02:19 — style: normalize trailing whitespace across modules
+2026-10-15 18:08:29 — docs: update API telemetry and endpoint references
