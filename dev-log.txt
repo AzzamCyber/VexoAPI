@@ -5739,3 +5739,4 @@
 2026-10-15 11:50:20 — refactor: organize constant definitions and status codes
 2026-10-15 11:57:33 — fix: guard against undefined property access in mapper
 2026-10-15 12:06:42 — ✨ Optimasi logic handler dan routing internal
+2026-10-15 12:20:56 — fix: correct status code return on missing authorization
