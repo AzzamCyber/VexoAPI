@@ -5804,3 +5804,4 @@
 2026-10-15 21:41:08 — chore(deps): audit dependencies and check for updates
 2026-10-15 21:47:54 — perf: optimize lookup table execution speed
 2026-10-15 22:00:33 — docs(readme): polish quick-start guide and examples
+2026-10-15 22:11:22 — fix: guard against undefined property access in mapper
