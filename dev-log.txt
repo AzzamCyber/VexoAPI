@@ -5806,3 +5806,4 @@
 2026-10-15 22:00:33 — docs(readme): polish quick-start guide and examples
 2026-10-15 22:11:22 — fix: guard against undefined property access in mapper
 2026-10-15 22:19:27 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-15 22:23:39 — 🐛 Perbaikan minor pengecekan response status code
