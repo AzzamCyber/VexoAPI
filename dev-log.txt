@@ -5861,3 +5861,4 @@
 2026-10-15 15:52:45 — style: normalize trailing whitespace across modules
 2026-10-15 15:56:14 — fix(cors): normalize default allowed origin headers
 2026-10-15 16:00:34 — refactor: organize constant definitions and status codes
+2026-10-15 16:15:46 — docs: add request payload examples for webhook receiver
