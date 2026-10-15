@@ -5882,3 +5882,4 @@
 2026-10-15 18:44:54 — 📚 Pembaruan panduan integrasi pada README
 2026-10-15 18:58:24 — fix(validation): handle edge-case null values in params
 2026-10-15 19:08:46 — chore: update internal build metadata and telemetry
+2026-10-15 19:22:29 — fix: sanitize incoming query string parameters
