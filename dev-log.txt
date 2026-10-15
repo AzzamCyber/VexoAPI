@@ -5870,3 +5870,4 @@
 2026-10-15 16:58:01 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-15 17:06:41 — docs: update parameter types and response schema
 2026-10-15 17:13:29 — chore(ci): adjust workflow step timeout tolerance
+2026-10-15 17:17:08 — fix: guard against undefined property access in mapper
