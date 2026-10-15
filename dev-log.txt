@@ -5797,3 +5797,4 @@
 2026-10-15 20:32:08 — refactor(core): streamline internal request pipeline
 2026-10-15 20:45:44 — docs: update API telemetry and endpoint references
 2026-10-15 20:56:19 — docs: document internal helper functions and return values
+2026-10-15 21:02:39 — refactor(handlers): modularize request dispatcher
