@@ -5904,3 +5904,4 @@
 2026-10-15 22:16:32 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-15 22:24:22 — docs(readme): polish quick-start guide and examples
 2026-10-15 22:39:54 — refactor(utils): optimize string sanitizer helpers
+2026-10-15 22:48:44 — refactor(handlers): modularize request dispatcher
