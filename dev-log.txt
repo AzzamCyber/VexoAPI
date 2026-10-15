@@ -5864,3 +5864,4 @@
 2026-10-15 16:15:46 — docs: add request payload examples for webhook receiver
 2026-10-15 16:23:00 — perf: optimize lookup table execution speed
 2026-10-15 16:32:45 — chore: update internal build metadata and telemetry
+2026-10-15 16:42:15 — docs: fix typo in authentication header instructions
