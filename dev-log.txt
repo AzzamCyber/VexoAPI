@@ -5733,3 +5733,4 @@
 2026-10-15 10:53:11 — docs: clarify rate-limit error responses in documentation
 2026-10-15 10:59:05 — chore: update internal build metadata and telemetry
 2026-10-15 11:10:30 — docs: document internal helper functions and return values
+2026-10-15 11:19:09 — refactor(core): streamline internal request pipeline
