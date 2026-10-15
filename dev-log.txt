@@ -5777,3 +5777,4 @@
 2026-10-15 17:34:48 — perf: fine-tune buffer size for streaming responses
 2026-10-15 17:43:03 — docs: add request payload examples for webhook receiver
 2026-10-15 17:55:09 — style: reorganize import statements alphabetically
+2026-10-15 17:59:43 — 📚 Pembaruan panduan integrasi pada README
