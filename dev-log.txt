@@ -5755,3 +5755,4 @@
 2026-10-15 14:10:49 — refactor: extract reusable header parser method
 2026-10-15 14:22:38 — perf: reduce redundant object allocations in loop
 2026-10-15 14:27:02 — perf: improve response latency for cached lookups
+2026-10-15 14:35:12 — docs: add request payload examples for webhook receiver
