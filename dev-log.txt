@@ -5879,3 +5879,4 @@
 2026-10-15 18:08:29 — docs: update API telemetry and endpoint references
 2026-10-15 18:22:00 — docs: document internal helper functions and return values
 2026-10-15 18:36:37 — fix(types): update type annotations for payload handler
+2026-10-15 18:44:54 — 📚 Pembaruan panduan integrasi pada README
