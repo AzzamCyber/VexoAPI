@@ -5803,3 +5803,4 @@
 2026-10-15 21:37:41 — fix: correct status code return on missing authorization
 2026-10-15 21:41:08 — chore(deps): audit dependencies and check for updates
 2026-10-15 21:47:54 — perf: optimize lookup table execution speed
+2026-10-15 22:00:33 — docs(readme): polish quick-start guide and examples
