@@ -5763,3 +5763,4 @@
 2026-10-15 15:08:24 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-15 15:24:14 — refactor(handlers): modularize request dispatcher
 2026-10-15 15:39:52 — style: format JSON schemas and configuration comments
+2026-10-15 15:45:07 — docs: update API telemetry and endpoint references
