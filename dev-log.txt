@@ -5887,3 +5887,4 @@
 2026-10-15 19:45:59 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-15 19:52:46 — perf: fine-tune buffer size for streaming responses
 2026-10-15 19:58:52 — style: align formatting with project linter standards
+2026-10-15 20:09:21 — refactor(routes): simplify validation logic in controller
