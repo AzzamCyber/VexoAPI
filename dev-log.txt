@@ -5778,3 +5778,4 @@
 2026-10-15 17:43:03 — docs: add request payload examples for webhook receiver
 2026-10-15 17:55:09 — style: reorganize import statements alphabetically
 2026-10-15 17:59:43 — 📚 Pembaruan panduan integrasi pada README
+2026-10-15 18:06:25 — refactor: clean up deprecated utility arguments
