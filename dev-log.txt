@@ -5914,3 +5914,4 @@
 2026-10-16 00:13:33 — style: standardize indentation in response templates
 2026-10-16 00:19:04 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-16 00:33:56 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-16 00:39:32 — refactor(utils): optimize string sanitizer helpers
