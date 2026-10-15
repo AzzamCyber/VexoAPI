@@ -5740,3 +5740,4 @@
 2026-10-15 11:57:33 — fix: guard against undefined property access in mapper
 2026-10-15 12:06:42 — ✨ Optimasi logic handler dan routing internal
 2026-10-15 12:20:56 — fix: correct status code return on missing authorization
+2026-10-15 12:31:16 — fix(types): update type annotations for payload handler
