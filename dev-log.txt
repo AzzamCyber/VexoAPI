@@ -5994,3 +5994,4 @@
 2026-10-16 20:18:26 — style: normalize trailing whitespace across modules
 2026-10-16 20:27:20 — refactor: extract reusable header parser method
 2026-10-16 20:31:26 — ⚡ Optimasi struktur data untuk pemrosesan payload
+2026-10-16 20:36:07 — docs: update API telemetry and endpoint references
