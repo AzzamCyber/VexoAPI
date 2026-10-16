@@ -6004,3 +6004,4 @@
 2026-10-16 21:21:43 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-16 21:28:33 — style: align formatting with project linter standards
 2026-10-16 21:42:26 — perf: reduce redundant object allocations in loop
+2026-10-16 21:52:55 — docs: update parameter types and response schema
