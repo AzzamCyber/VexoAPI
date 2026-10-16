@@ -5932,3 +5932,4 @@
 2026-10-16 10:13:37 — perf: fine-tune buffer size for streaming responses
 2026-10-16 10:22:29 — perf: improve response latency for cached lookups
 2026-10-16 10:37:11 — style: reorganize import statements alphabetically
+2026-10-16 10:45:00 — refactor(core): streamline internal request pipeline
