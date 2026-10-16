@@ -5921,3 +5921,4 @@
 2026-10-16 08:36:42 — fix(cors): normalize default allowed origin headers
 2026-10-16 08:40:32 — chore: update internal build metadata and telemetry
 2026-10-16 08:45:46 — refactor(utils): optimize string sanitizer helpers
+2026-10-16 08:52:32 — style: normalize trailing whitespace across modules
