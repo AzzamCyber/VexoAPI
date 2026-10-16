@@ -6008,3 +6008,4 @@
 2026-10-16 21:59:49 — fix(cors): normalize default allowed origin headers
 2026-10-16 22:03:57 — refactor(utils): optimize string sanitizer helpers
 2026-10-16 22:09:11 — chore(ci): adjust workflow step timeout tolerance
+2026-10-16 22:21:39 — docs: document internal helper functions and return values
