@@ -5959,3 +5959,4 @@
 2026-10-16 14:34:44 — perf: reduce redundant object allocations in loop
 2026-10-16 14:45:50 — docs(readme): polish quick-start guide and examples
 2026-10-16 14:52:43 — docs: update parameter types and response schema
+2026-10-16 15:03:36 — docs: add request payload examples for webhook receiver
