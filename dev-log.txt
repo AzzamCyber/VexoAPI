@@ -5948,3 +5948,4 @@
 2026-10-16 12:46:19 — style: align formatting with project linter standards
 2026-10-16 12:50:11 — docs: update API telemetry and endpoint references
 2026-10-16 13:00:41 — docs: clarify rate-limit error responses in documentation
+2026-10-16 13:11:08 — docs: document internal helper functions and return values
