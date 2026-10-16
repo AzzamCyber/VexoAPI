@@ -5971,3 +5971,4 @@
 2026-10-16 16:30:13 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-16 16:33:31 — perf: optimize lookup table execution speed
 2026-10-16 16:38:05 — fix(validation): handle edge-case null values in params
+2026-10-16 16:50:20 — docs: clarify rate-limit error responses in documentation
