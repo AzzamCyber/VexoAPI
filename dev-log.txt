@@ -5946,3 +5946,4 @@
 2026-10-16 12:37:57 — fix: guard against undefined property access in mapper
 2026-10-16 12:41:13 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-16 12:46:19 — style: align formatting with project linter standards
+2026-10-16 12:50:11 — docs: update API telemetry and endpoint references
