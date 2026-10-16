@@ -6006,3 +6006,4 @@
 2026-10-16 21:42:26 — perf: reduce redundant object allocations in loop
 2026-10-16 21:52:55 — docs: update parameter types and response schema
 2026-10-16 21:59:49 — fix(cors): normalize default allowed origin headers
+2026-10-16 22:03:57 — refactor(utils): optimize string sanitizer helpers
