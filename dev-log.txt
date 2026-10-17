@@ -6027,3 +6027,4 @@
 2026-10-17 09:50:07 — style: standardize indentation in response templates
 2026-10-17 09:55:02 — docs: document internal helper functions and return values
 2026-10-17 10:03:27 — docs(readme): polish quick-start guide and examples
+2026-10-17 10:10:13 — fix(cors): normalize default allowed origin headers
