@@ -6104,3 +6104,4 @@
 2026-10-17 21:26:54 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-17 21:38:05 — docs: update parameter types and response schema
 2026-10-17 21:49:32 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-17 21:55:21 — refactor: reduce nesting in error propagation flow
