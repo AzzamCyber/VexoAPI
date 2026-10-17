@@ -6066,3 +6066,4 @@
 2026-10-17 15:34:08 — 📚 Pembaruan panduan integrasi pada README
 2026-10-17 15:37:47 — perf: optimize memory footprint on payload parser
 2026-10-17 15:49:36 — refactor(utils): optimize string sanitizer helpers
+2026-10-17 15:58:45 — refactor(handlers): modularize request dispatcher
