@@ -6068,3 +6068,4 @@
 2026-10-17 15:49:36 — refactor(utils): optimize string sanitizer helpers
 2026-10-17 15:58:45 — refactor(handlers): modularize request dispatcher
 2026-10-17 16:11:27 — refactor(routes): simplify validation logic in controller
+2026-10-17 16:27:02 — refactor: extract reusable header parser method
