@@ -6032,3 +6032,4 @@
 2026-10-17 10:26:17 — fix(validation): handle edge-case null values in params
 2026-10-17 10:29:44 — docs: clarify rate-limit error responses in documentation
 2026-10-17 10:41:03 — fix(types): update type annotations for payload handler
+2026-10-17 10:44:40 — docs: fix typo in authentication header instructions
