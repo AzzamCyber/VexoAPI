@@ -6103,3 +6103,4 @@
 2026-10-17 21:14:10 — docs: add request payload examples for webhook receiver
 2026-10-17 21:26:54 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-17 21:38:05 — docs: update parameter types and response schema
+2026-10-17 21:49:32 — 🔧 Refactor fungsi helper pada utilitas umum
