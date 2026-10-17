@@ -6030,3 +6030,4 @@
 2026-10-17 10:10:13 — fix(cors): normalize default allowed origin headers
 2026-10-17 10:19:23 — style: format JSON schemas and configuration comments
 2026-10-17 10:26:17 — fix(validation): handle edge-case null values in params
+2026-10-17 10:29:44 — docs: clarify rate-limit error responses in documentation
