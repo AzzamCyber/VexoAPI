@@ -6037,3 +6037,4 @@
 2026-10-17 10:58:34 — refactor(utils): optimize string sanitizer helpers
 2026-10-17 11:09:28 — ✨ Optimasi logic handler dan routing internal
 2026-10-17 11:14:17 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-17 11:28:39 — fix: guard against undefined property access in mapper
