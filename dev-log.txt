@@ -6091,3 +6091,4 @@
 2026-10-17 19:09:53 — chore: update internal build metadata and telemetry
 2026-10-17 19:16:15 — 📚 Pembaruan panduan integrasi pada README
 2026-10-17 19:28:02 — fix: correct status code return on missing authorization
+2026-10-17 19:35:25 — docs: fix typo in authentication header instructions
