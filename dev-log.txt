@@ -6097,3 +6097,4 @@
 2026-10-17 20:04:48 — chore: synchronize project version constants
 2026-10-17 20:08:29 — docs: add changelog notes for recent updates
 2026-10-17 20:19:38 — ✨ Optimasi logic handler dan routing internal
+2026-10-17 20:34:57 — docs: update API telemetry and endpoint references
