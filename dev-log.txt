@@ -6061,3 +6061,4 @@
 2026-10-17 14:39:35 — docs: update API telemetry and endpoint references
 2026-10-17 14:52:06 — perf: optimize memory footprint on payload parser
 2026-10-17 14:55:49 — refactor(handlers): modularize request dispatcher
+2026-10-17 15:07:22 — chore: synchronize project version constants
