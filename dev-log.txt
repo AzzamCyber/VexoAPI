@@ -6085,3 +6085,4 @@
 2026-10-17 18:05:53 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-17 18:14:25 — fix: sanitize incoming query string parameters
 2026-10-17 18:28:38 — fix: guard against undefined property access in mapper
+2026-10-17 18:39:51 — docs: clarify rate-limit error responses in documentation
