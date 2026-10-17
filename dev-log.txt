@@ -6074,3 +6074,4 @@
 2026-10-17 16:43:39 — 🚀 Peningkatan efisiensi memory caching
 2026-10-17 16:51:52 — style: standardize indentation in response templates
 2026-10-17 17:00:19 — perf: improve response latency for cached lookups
+2026-10-17 17:05:53 — docs(readme): polish quick-start guide and examples
