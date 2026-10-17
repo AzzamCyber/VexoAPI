@@ -6076,3 +6076,4 @@
 2026-10-17 17:00:19 — perf: improve response latency for cached lookups
 2026-10-17 17:05:53 — docs(readme): polish quick-start guide and examples
 2026-10-17 17:11:21 — style: normalize trailing whitespace across modules
+2026-10-17 17:16:43 — fix(telemetry): suppress transient network warning in dev mode
