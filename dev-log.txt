@@ -6102,3 +6102,4 @@
 2026-10-17 21:03:21 — refactor: organize constant definitions and status codes
 2026-10-17 21:14:10 — docs: add request payload examples for webhook receiver
 2026-10-17 21:26:54 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-17 21:38:05 — docs: update parameter types and response schema
