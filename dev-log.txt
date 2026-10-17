@@ -6083,3 +6083,4 @@
 2026-10-17 17:50:53 — docs: document internal helper functions and return values
 2026-10-17 17:56:43 — style: align formatting with project linter standards
 2026-10-17 18:05:53 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-17 18:14:25 — fix: sanitize incoming query string parameters
