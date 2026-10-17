@@ -6044,3 +6044,4 @@
 2026-10-17 12:11:59 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-10-17 12:22:15 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-17 12:37:03 — refactor: reduce nesting in error propagation flow
+2026-10-17 12:40:39 — docs: update parameter types and response schema
