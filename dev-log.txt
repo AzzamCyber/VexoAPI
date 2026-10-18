@@ -6213,3 +6213,4 @@
 2026-10-18 23:55:40 — fix(validation): handle edge-case null values in params
 2026-10-19 00:05:10 — style: normalize trailing whitespace across modules
 2026-10-19 00:10:47 — docs: add request payload examples for webhook receiver
+2026-10-19 00:22:19 — refactor(handlers): modularize request dispatcher
