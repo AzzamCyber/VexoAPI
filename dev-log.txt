@@ -6190,3 +6190,4 @@
 2026-10-18 20:31:32 — fix(cors): normalize default allowed origin headers
 2026-10-18 20:41:01 — 📚 Pembaruan panduan integrasi pada README
 2026-10-18 20:44:10 — refactor: organize constant definitions and status codes
+2026-10-18 20:47:26 — docs(readme): polish quick-start guide and examples
