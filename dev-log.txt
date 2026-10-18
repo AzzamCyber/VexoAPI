@@ -6138,3 +6138,4 @@
 2026-10-18 12:20:05 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-18 12:28:36 — chore(deps): audit dependencies and check for updates
 2026-10-18 12:31:44 — fix(types): update type annotations for payload handler
+2026-10-18 12:45:39 — docs: document internal helper functions and return values
