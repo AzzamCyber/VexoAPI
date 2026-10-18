@@ -6162,3 +6162,4 @@
 2026-10-18 16:20:14 — docs: clarify rate-limit error responses in documentation
 2026-10-18 16:26:21 — docs: add changelog notes for recent updates
 2026-10-18 16:36:54 — 📚 Pembaruan panduan integrasi pada README
+2026-10-18 16:46:13 — refactor(core): streamline internal request pipeline
