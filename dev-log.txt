@@ -6149,3 +6149,4 @@
 2026-10-18 14:02:40 — fix(validation): handle edge-case null values in params
 2026-10-18 14:12:26 — style: align formatting with project linter standards
 2026-10-18 14:20:05 — fix: correct status code return on missing authorization
+2026-10-18 14:28:40 — docs: fix typo in authentication header instructions
