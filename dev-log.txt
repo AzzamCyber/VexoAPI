@@ -6146,3 +6146,4 @@
 2026-10-18 13:31:46 — refactor(utils): optimize string sanitizer helpers
 2026-10-18 13:44:54 — perf: optimize memory footprint on payload parser
 2026-10-18 13:50:31 — refactor: extract reusable header parser method
+2026-10-18 14:02:40 — fix(validation): handle edge-case null values in params
