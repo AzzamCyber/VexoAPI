@@ -6143,3 +6143,4 @@
 2026-10-18 12:58:51 — refactor(handlers): modularize request dispatcher
 2026-10-18 13:12:57 — refactor: clean up deprecated utility arguments
 2026-10-18 13:17:51 — docs: update parameter types and response schema
+2026-10-18 13:31:46 — refactor(utils): optimize string sanitizer helpers
