@@ -6128,3 +6128,4 @@
 2026-10-18 10:57:01 — fix(cors): normalize default allowed origin headers
 2026-10-18 11:04:08 — perf: optimize lookup table execution speed
 2026-10-18 11:07:35 — refactor: reduce nesting in error propagation flow
+2026-10-18 11:14:53 — docs: update API telemetry and endpoint references
