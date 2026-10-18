@@ -6208,3 +6208,4 @@
 2026-10-18 23:19:13 — docs: document internal helper functions and return values
 2026-10-18 23:26:36 — docs: update API telemetry and endpoint references
 2026-10-18 23:31:31 — chore: update internal build metadata and telemetry
+2026-10-18 23:36:26 — refactor(core): streamline internal request pipeline
