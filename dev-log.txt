@@ -6202,3 +6202,4 @@
 2026-10-18 22:18:41 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-18 22:31:11 — style: reorganize import statements alphabetically
 2026-10-18 22:40:47 — docs: clarify rate-limit error responses in documentation
+2026-10-18 22:54:36 — fix: correct status code return on missing authorization
