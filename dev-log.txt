@@ -6160,3 +6160,4 @@
 2026-10-18 16:01:49 — style: standardize indentation in response templates
 2026-10-18 16:13:34 — docs: add request payload examples for webhook receiver
 2026-10-18 16:20:14 — docs: clarify rate-limit error responses in documentation
+2026-10-18 16:26:21 — docs: add changelog notes for recent updates
