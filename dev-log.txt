@@ -6192,3 +6192,4 @@
 2026-10-18 20:44:10 — refactor: organize constant definitions and status codes
 2026-10-18 20:47:26 — docs(readme): polish quick-start guide and examples
 2026-10-18 20:52:46 — docs: update parameter types and response schema
+2026-10-18 21:03:12 — refactor(utils): optimize string sanitizer helpers
