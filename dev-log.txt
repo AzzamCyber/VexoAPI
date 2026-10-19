@@ -6308,3 +6308,4 @@
 2026-10-19 22:56:03 — ✨ Optimasi logic handler dan routing internal
 2026-10-19 23:03:53 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-19 23:13:16 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-19 23:24:27 — docs: update API telemetry and endpoint references
