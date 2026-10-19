@@ -6278,3 +6278,4 @@
 2026-10-19 17:52:42 — docs: add request payload examples for webhook receiver
 2026-10-19 17:58:07 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-19 18:11:31 — docs: update parameter types and response schema
+2026-10-19 18:17:10 — fix: guard against undefined property access in mapper
