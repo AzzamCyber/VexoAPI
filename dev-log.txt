@@ -6247,3 +6247,4 @@
 2026-10-19 12:43:13 — chore(deps): audit dependencies and check for updates
 2026-10-19 12:50:48 — docs: update parameter types and response schema
 2026-10-19 13:01:06 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-19 13:11:19 — docs: document internal helper functions and return values
