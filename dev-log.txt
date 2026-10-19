@@ -6255,3 +6255,4 @@
 2026-10-19 14:01:42 — docs: fix typo in authentication header instructions
 2026-10-19 14:14:07 — style: align formatting with project linter standards
 2026-10-19 14:24:36 — chore: verify environment configuration defaults
+2026-10-19 14:37:53 — refactor: clean up deprecated utility arguments
