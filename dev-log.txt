@@ -6238,3 +6238,4 @@
 2026-10-19 11:27:50 — refactor(routes): simplify validation logic in controller
 2026-10-19 11:40:43 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-19 11:44:49 — docs(readme): polish quick-start guide and examples
+2026-10-19 11:56:19 — fix(telemetry): suppress transient network warning in dev mode
