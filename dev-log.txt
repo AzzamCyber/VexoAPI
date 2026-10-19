@@ -6226,3 +6226,4 @@
 2026-10-19 09:41:17 — refactor(core): streamline internal request pipeline
 2026-10-19 09:52:25 — docs: add request payload examples for webhook receiver
 2026-10-19 09:56:12 — perf: reduce redundant object allocations in loop
+2026-10-19 10:03:01 — fix(validation): handle edge-case null values in params
