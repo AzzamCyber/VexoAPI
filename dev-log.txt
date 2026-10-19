@@ -6292,3 +6292,4 @@
 2026-10-19 20:03:44 — docs: clarify rate-limit error responses in documentation
 2026-10-19 20:12:54 — docs(readme): polish quick-start guide and examples
 2026-10-19 20:28:26 — refactor(handlers): modularize request dispatcher
+2026-10-19 20:39:09 — chore: verify environment configuration defaults
