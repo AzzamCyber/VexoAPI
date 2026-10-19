@@ -6252,3 +6252,4 @@
 2026-10-19 13:28:27 — chore(ci): adjust workflow step timeout tolerance
 2026-10-19 13:34:57 — refactor(handlers): modularize request dispatcher
 2026-10-19 13:49:06 — style: format JSON schemas and configuration comments
+2026-10-19 14:01:42 — docs: fix typo in authentication header instructions
