@@ -6220,3 +6220,4 @@
 2026-10-19 08:44:47 — style: standardize indentation in response templates
 2026-10-19 08:56:00 — docs: update API telemetry and endpoint references
 2026-10-19 09:02:14 — perf: improve response latency for cached lookups
+2026-10-19 09:15:55 — fix: sanitize incoming query string parameters
