@@ -6290,3 +6290,4 @@
 2026-10-19 19:53:40 — docs: add changelog notes for recent updates
 2026-10-19 19:58:13 — refactor: organize constant definitions and status codes
 2026-10-19 20:03:44 — docs: clarify rate-limit error responses in documentation
+2026-10-19 20:12:54 — docs(readme): polish quick-start guide and examples
