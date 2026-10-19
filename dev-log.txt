@@ -6224,3 +6224,4 @@
 2026-10-19 09:21:41 — 📚 Pembaruan panduan integrasi pada README
 2026-10-19 09:35:32 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-19 09:41:17 — refactor(core): streamline internal request pipeline
+2026-10-19 09:52:25 — docs: add request payload examples for webhook receiver
