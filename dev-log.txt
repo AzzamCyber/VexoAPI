@@ -6332,3 +6332,4 @@
 2026-10-20 10:15:59 — style: standardize indentation in response templates
 2026-10-20 10:22:45 — chore: update internal build metadata and telemetry
 2026-10-20 10:29:05 — fix(cors): normalize default allowed origin headers
+2026-10-20 10:41:35 — fix: guard against undefined property access in mapper
