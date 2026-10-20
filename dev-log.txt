@@ -6413,3 +6413,4 @@
 2026-10-21 00:46:10 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-21 00:52:38 — refactor(routes): simplify validation logic in controller
 2026-10-21 01:04:19 — fix(validation): handle edge-case null values in params
+2026-10-21 01:10:48 — fix(types): update type annotations for payload handler
