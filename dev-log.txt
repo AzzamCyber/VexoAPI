@@ -6342,3 +6342,4 @@
 2026-10-20 11:56:47 — docs: document internal helper functions and return values
 2026-10-20 12:06:59 — fix: correct status code return on missing authorization
 2026-10-20 12:18:53 — chore: synchronize project version constants
+2026-10-20 12:34:23 — docs: update parameter types and response schema
