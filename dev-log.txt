@@ -6394,3 +6394,4 @@
 2026-10-20 21:01:08 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-20 21:12:57 — 📚 Pembaruan panduan integrasi pada README
 2026-10-20 21:28:34 — perf: optimize lookup table execution speed
+2026-10-20 21:40:07 — refactor: clean up deprecated utility arguments
