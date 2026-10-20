@@ -6404,3 +6404,4 @@
 2026-10-20 22:58:09 — refactor: reduce nesting in error propagation flow
 2026-10-20 23:13:14 — docs: clarify rate-limit error responses in documentation
 2026-10-20 23:28:58 — fix: correct status code return on missing authorization
+2026-10-20 23:39:11 — refactor(utils): optimize string sanitizer helpers
