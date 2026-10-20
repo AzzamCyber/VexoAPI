@@ -6371,3 +6371,4 @@
 2026-10-20 17:14:10 — style: reorganize import statements alphabetically
 2026-10-20 17:23:57 — docs: fix typo in authentication header instructions
 2026-10-20 17:33:11 — perf: fine-tune buffer size for streaming responses
+2026-10-20 17:48:40 — refactor(core): streamline internal request pipeline
