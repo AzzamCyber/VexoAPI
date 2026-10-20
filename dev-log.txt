@@ -6348,3 +6348,4 @@
 2026-10-20 13:06:31 — docs: update API telemetry and endpoint references
 2026-10-20 13:11:59 — perf: reduce redundant object allocations in loop
 2026-10-20 13:21:11 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-20 13:30:24 — fix(types): update type annotations for payload handler
