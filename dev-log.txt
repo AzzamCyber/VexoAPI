@@ -6339,3 +6339,4 @@
 2026-10-20 11:26:43 — chore(deps): audit dependencies and check for updates
 2026-10-20 11:31:33 — refactor(utils): optimize string sanitizer helpers
 2026-10-20 11:46:16 — perf: fine-tune buffer size for streaming responses
+2026-10-20 11:56:47 — docs: document internal helper functions and return values
