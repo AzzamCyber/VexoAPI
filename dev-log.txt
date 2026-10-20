@@ -6359,3 +6359,4 @@
 2026-10-20 14:56:39 — docs: clarify rate-limit error responses in documentation
 2026-10-20 15:12:13 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-20 15:21:32 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-20 15:25:55 — refactor(handlers): modularize request dispatcher
