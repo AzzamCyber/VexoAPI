@@ -6386,3 +6386,4 @@
 2026-10-20 19:35:27 — docs: add request payload examples for webhook receiver
 2026-10-20 19:46:36 — fix(validation): handle edge-case null values in params
 2026-10-20 19:53:17 — refactor: extract reusable header parser method
+2026-10-20 19:56:36 — style: format JSON schemas and configuration comments
