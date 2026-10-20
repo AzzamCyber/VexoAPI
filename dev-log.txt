@@ -6383,3 +6383,4 @@
 2026-10-20 19:11:03 — docs: document internal helper functions and return values
 2026-10-20 19:18:58 — docs: update parameter types and response schema
 2026-10-20 19:26:18 — docs: add changelog notes for recent updates
+2026-10-20 19:35:27 — docs: add request payload examples for webhook receiver
