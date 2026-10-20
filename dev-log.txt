@@ -6344,3 +6344,4 @@
 2026-10-20 12:18:53 — chore: synchronize project version constants
 2026-10-20 12:34:23 — docs: update parameter types and response schema
 2026-10-20 12:47:56 — docs: fix typo in authentication header instructions
+2026-10-20 13:00:23 — docs: add request payload examples for webhook receiver
