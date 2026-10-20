@@ -6381,3 +6381,4 @@
 2026-10-20 18:50:40 — 🚀 Peningkatan efisiensi memory caching
 2026-10-20 18:57:56 — fix(cors): normalize default allowed origin headers
 2026-10-20 19:11:03 — docs: document internal helper functions and return values
+2026-10-20 19:18:58 — docs: update parameter types and response schema
