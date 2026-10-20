@@ -6367,3 +6367,4 @@
 2026-10-20 16:26:30 — chore(ci): adjust workflow step timeout tolerance
 2026-10-20 16:35:47 — fix: guard against undefined property access in mapper
 2026-10-20 16:50:41 — docs(readme): polish quick-start guide and examples
+2026-10-20 17:03:58 — fix(types): update type annotations for payload handler
