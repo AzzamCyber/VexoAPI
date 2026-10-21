@@ -6484,3 +6484,4 @@
 2026-10-21 18:29:05 — refactor(handlers): modularize request dispatcher
 2026-10-21 18:37:44 — fix(validation): handle edge-case null values in params
 2026-10-21 18:47:18 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-21 18:59:52 — fix: sanitize incoming query string parameters
