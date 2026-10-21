@@ -6450,3 +6450,4 @@
 2026-10-21 13:23:49 — style: normalize trailing whitespace across modules
 2026-10-21 13:33:58 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-21 13:37:45 — fix(cors): normalize default allowed origin headers
+2026-10-21 13:47:25 — refactor(utils): optimize string sanitizer helpers
