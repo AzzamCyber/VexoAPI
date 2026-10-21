@@ -6456,3 +6456,4 @@
 2026-10-21 14:09:42 — docs: update API telemetry and endpoint references
 2026-10-21 14:19:21 — 🚀 Peningkatan efisiensi memory caching
 2026-10-21 14:25:46 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-21 14:36:39 — docs: clarify rate-limit error responses in documentation
