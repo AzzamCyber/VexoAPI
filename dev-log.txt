@@ -6477,3 +6477,4 @@
 2026-10-21 17:07:38 — fix: correct status code return on missing authorization
 2026-10-21 17:18:57 — docs: clarify rate-limit error responses in documentation
 2026-10-21 17:33:21 — refactor(core): streamline internal request pipeline
+2026-10-21 17:48:39 — fix: guard against undefined property access in mapper
