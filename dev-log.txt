@@ -6500,3 +6500,4 @@
 2026-10-21 20:42:47 — docs: document internal helper functions and return values
 2026-10-21 20:49:28 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-21 21:00:17 — refactor: clean up deprecated utility arguments
+2026-10-21 21:16:07 — perf: fine-tune buffer size for streaming responses
