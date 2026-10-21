@@ -6479,3 +6479,4 @@
 2026-10-21 17:33:21 — refactor(core): streamline internal request pipeline
 2026-10-21 17:48:39 — fix: guard against undefined property access in mapper
 2026-10-21 18:04:08 — refactor(routes): simplify validation logic in controller
+2026-10-21 18:11:51 — fix(types): update type annotations for payload handler
