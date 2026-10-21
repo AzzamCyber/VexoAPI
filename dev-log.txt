@@ -6476,3 +6476,4 @@
 2026-10-21 17:02:31 — chore(ci): adjust workflow step timeout tolerance
 2026-10-21 17:07:38 — fix: correct status code return on missing authorization
 2026-10-21 17:18:57 — docs: clarify rate-limit error responses in documentation
+2026-10-21 17:33:21 — refactor(core): streamline internal request pipeline
