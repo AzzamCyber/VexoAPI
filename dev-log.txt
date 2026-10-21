@@ -6514,3 +6514,4 @@
 2026-10-21 23:05:04 — fix(cors): normalize default allowed origin headers
 2026-10-21 23:13:42 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-21 23:18:16 — chore: synchronize project version constants
+2026-10-21 23:26:45 — docs: clarify rate-limit error responses in documentation
