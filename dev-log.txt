@@ -6458,3 +6458,4 @@
 2026-10-21 14:25:46 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-21 14:36:39 — docs: clarify rate-limit error responses in documentation
 2026-10-21 14:50:31 — style: reorganize import statements alphabetically
+2026-10-21 14:55:02 — docs: add request payload examples for webhook receiver
