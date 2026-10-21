@@ -6478,3 +6478,4 @@
 2026-10-21 17:18:57 — docs: clarify rate-limit error responses in documentation
 2026-10-21 17:33:21 — refactor(core): streamline internal request pipeline
 2026-10-21 17:48:39 — fix: guard against undefined property access in mapper
+2026-10-21 18:04:08 — refactor(routes): simplify validation logic in controller
