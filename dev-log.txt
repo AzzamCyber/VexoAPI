@@ -6511,3 +6511,4 @@
 2026-10-21 22:40:43 — style: format JSON schemas and configuration comments
 2026-10-21 22:55:52 — style: align formatting with project linter standards
 2026-10-21 23:01:29 — ✨ Optimasi logic handler dan routing internal
+2026-10-21 23:05:04 — fix(cors): normalize default allowed origin headers
