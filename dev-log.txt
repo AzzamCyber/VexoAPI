@@ -6444,3 +6444,4 @@
 2026-10-21 12:30:49 — refactor(routes): simplify validation logic in controller
 2026-10-21 12:43:34 — refactor: organize constant definitions and status codes
 2026-10-21 12:56:55 — refactor(core): streamline internal request pipeline
+2026-10-21 13:03:25 — docs: update parameter types and response schema
