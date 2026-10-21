@@ -6423,3 +6423,4 @@
 2026-10-21 09:44:15 — fix: correct status code return on missing authorization
 2026-10-21 09:48:24 — ✨ Optimasi logic handler dan routing internal
 2026-10-21 09:51:51 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-21 10:03:13 — refactor: clean up deprecated utility arguments
