@@ -6462,3 +6462,4 @@
 2026-10-21 14:59:24 — 📚 Pembaruan panduan integrasi pada README
 2026-10-21 15:04:55 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-10-21 15:13:25 — fix(types): update type annotations for payload handler
+2026-10-21 15:21:57 — fix(validation): handle edge-case null values in params
