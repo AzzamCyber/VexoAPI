@@ -6556,3 +6556,4 @@
 2026-10-22 14:45:25 — refactor(routes): simplify validation logic in controller
 2026-10-22 14:49:33 — refactor(handlers): modularize request dispatcher
 2026-10-22 15:02:53 — docs: update API telemetry and endpoint references
+2026-10-22 15:18:33 — refactor: extract reusable header parser method
