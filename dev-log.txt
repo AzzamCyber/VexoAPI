@@ -6579,3 +6579,4 @@
 2026-10-22 18:08:43 — refactor(handlers): modularize request dispatcher
 2026-10-22 18:18:50 — chore: verify environment configuration defaults
 2026-10-22 18:31:29 — chore(deps): audit dependencies and check for updates
+2026-10-22 18:36:57 — docs: update API telemetry and endpoint references
