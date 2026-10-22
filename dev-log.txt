@@ -6552,3 +6552,4 @@
 2026-10-22 14:01:54 — docs: document internal helper functions and return values
 2026-10-22 14:11:45 — perf: reduce redundant object allocations in loop
 2026-10-22 14:22:00 — docs: fix typo in authentication header instructions
+2026-10-22 14:34:34 — refactor: clean up deprecated utility arguments
