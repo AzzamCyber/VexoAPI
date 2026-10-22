@@ -6547,3 +6547,4 @@
 2026-10-22 13:19:35 — fix: guard against undefined property access in mapper
 2026-10-22 13:25:15 — chore: verify environment configuration defaults
 2026-10-22 13:28:26 — style: format JSON schemas and configuration comments
+2026-10-22 13:42:42 — refactor(utils): optimize string sanitizer helpers
