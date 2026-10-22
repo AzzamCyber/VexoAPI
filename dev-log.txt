@@ -6592,3 +6592,4 @@
 2026-10-22 20:14:37 — docs(readme): polish quick-start guide and examples
 2026-10-22 20:18:54 — refactor(utils): optimize string sanitizer helpers
 2026-10-22 20:28:59 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-22 20:44:32 — docs: add changelog notes for recent updates
