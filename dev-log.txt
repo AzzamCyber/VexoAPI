@@ -6581,3 +6581,4 @@
 2026-10-22 18:31:29 — chore(deps): audit dependencies and check for updates
 2026-10-22 18:36:57 — docs: update API telemetry and endpoint references
 2026-10-22 18:44:27 — refactor: extract reusable header parser method
+2026-10-22 18:59:39 — docs: document internal helper functions and return values
