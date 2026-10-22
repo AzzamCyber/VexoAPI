@@ -6574,3 +6574,4 @@
 2026-10-22 17:16:53 — perf: improve response latency for cached lookups
 2026-10-22 17:30:11 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-22 17:35:22 — chore: update internal build metadata and telemetry
+2026-10-22 17:49:55 — docs: update parameter types and response schema
