@@ -6527,3 +6527,4 @@
 2026-10-22 09:58:20 — fix(types): update type annotations for payload handler
 2026-10-22 10:07:14 — docs: clarify rate-limit error responses in documentation
 2026-10-22 10:22:23 — chore: synchronize project version constants
+2026-10-22 10:35:28 — docs(readme): polish quick-start guide and examples
