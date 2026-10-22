@@ -6544,3 +6544,4 @@
 2026-10-22 12:36:47 — docs: add request payload examples for webhook receiver
 2026-10-22 12:50:34 — chore(ci): adjust workflow step timeout tolerance
 2026-10-22 13:06:14 — fix: correct status code return on missing authorization
+2026-10-22 13:19:35 — fix: guard against undefined property access in mapper
