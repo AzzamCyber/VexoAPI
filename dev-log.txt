@@ -6530,3 +6530,4 @@
 2026-10-22 10:35:28 — docs(readme): polish quick-start guide and examples
 2026-10-22 10:46:43 — refactor: organize constant definitions and status codes
 2026-10-22 10:55:37 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-22 11:00:56 — 🔧 Refactor fungsi helper pada utilitas umum
