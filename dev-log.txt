@@ -6610,3 +6610,4 @@
 2026-10-22 23:19:57 — chore(ci): adjust workflow step timeout tolerance
 2026-10-22 23:33:19 — style: normalize trailing whitespace across modules
 2026-10-22 23:36:38 — style: format JSON schemas and configuration comments
+2026-10-22 23:51:11 — fix: sanitize incoming query string parameters
