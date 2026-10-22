@@ -6534,3 +6534,4 @@
 2026-10-22 11:07:05 — refactor(core): streamline internal request pipeline
 2026-10-22 11:15:33 — style: standardize indentation in response templates
 2026-10-22 11:27:46 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-22 11:39:22 — docs: update parameter types and response schema
