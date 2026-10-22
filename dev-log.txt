@@ -6586,3 +6586,4 @@
 2026-10-22 19:13:26 — ✨ Optimasi logic handler dan routing internal
 2026-10-22 19:25:48 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-22 19:29:24 — perf: fine-tune buffer size for streaming responses
+2026-10-22 19:43:01 — fix(validation): handle edge-case null values in params
