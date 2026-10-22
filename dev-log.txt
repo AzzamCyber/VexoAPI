@@ -6537,3 +6537,4 @@
 2026-10-22 11:39:22 — docs: update parameter types and response schema
 2026-10-22 11:52:08 — perf: optimize memory footprint on payload parser
 2026-10-22 11:56:38 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-22 12:02:05 — docs: add changelog notes for recent updates
