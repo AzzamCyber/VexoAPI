@@ -6598,3 +6598,4 @@
 2026-10-22 21:09:24 — docs: clarify rate-limit error responses in documentation
 2026-10-22 21:19:00 — fix(types): update type annotations for payload handler
 2026-10-22 21:34:51 — perf: reduce redundant object allocations in loop
+2026-10-22 21:38:11 — refactor: clean up deprecated utility arguments
