@@ -6618,3 +6618,4 @@
 2026-10-23 00:19:28 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-23 09:43:04 — perf: optimize memory footprint on payload parser
 2026-10-23 09:47:28 — style: normalize trailing whitespace across modules
+2026-10-23 09:56:15 — docs: add request payload examples for webhook receiver
