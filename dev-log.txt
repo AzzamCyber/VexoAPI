@@ -6634,3 +6634,4 @@
 2026-10-23 11:44:55 — style: align formatting with project linter standards
 2026-10-23 11:49:32 — docs(readme): polish quick-start guide and examples
 2026-10-23 12:02:12 — fix: guard against undefined property access in mapper
+2026-10-23 12:15:39 — style: reorganize import statements alphabetically
