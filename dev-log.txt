@@ -6690,3 +6690,4 @@
 2026-10-23 20:01:08 — perf: improve response latency for cached lookups
 2026-10-23 20:08:00 — fix(types): update type annotations for payload handler
 2026-10-23 20:16:12 — style: reorganize import statements alphabetically
+2026-10-23 20:27:46 — docs: update API telemetry and endpoint references
