@@ -6682,3 +6682,4 @@
 2026-10-23 18:29:03 — 📚 Pembaruan panduan integrasi pada README
 2026-10-23 18:39:23 — fix(cors): normalize default allowed origin headers
 2026-10-23 18:42:53 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-23 18:55:18 — refactor(core): streamline internal request pipeline
