@@ -6625,3 +6625,4 @@
 2026-10-23 10:30:35 — refactor(utils): optimize string sanitizer helpers
 2026-10-23 10:36:24 — docs: add changelog notes for recent updates
 2026-10-23 10:45:45 — docs: document internal helper functions and return values
+2026-10-23 10:58:00 — fix(cors): normalize default allowed origin headers
