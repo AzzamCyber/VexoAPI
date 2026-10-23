@@ -6653,3 +6653,4 @@
 2026-10-23 14:27:51 — fix(types): update type annotations for payload handler
 2026-10-23 14:36:26 — style: format JSON schemas and configuration comments
 2026-10-23 14:46:32 — refactor: clean up deprecated utility arguments
+2026-10-23 14:49:58 — 📚 Pembaruan panduan integrasi pada README
