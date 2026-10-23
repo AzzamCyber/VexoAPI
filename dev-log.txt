@@ -6685,3 +6685,4 @@
 2026-10-23 18:55:18 — refactor(core): streamline internal request pipeline
 2026-10-23 19:07:30 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-23 19:18:56 — perf: fine-tune buffer size for streaming responses
+2026-10-23 19:33:45 — fix(telemetry): suppress transient network warning in dev mode
