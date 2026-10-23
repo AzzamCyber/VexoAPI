@@ -6672,3 +6672,4 @@
 2026-10-23 17:15:42 — docs: clarify rate-limit error responses in documentation
 2026-10-23 17:20:01 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-23 17:31:30 — refactor: extract reusable header parser method
+2026-10-23 17:47:10 — docs: fix typo in authentication header instructions
