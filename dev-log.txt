@@ -6728,3 +6728,4 @@
 2026-10-24 11:13:44 — fix(validation): handle edge-case null values in params
 2026-10-24 11:28:22 — perf: optimize lookup table execution speed
 2026-10-24 11:35:01 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-24 11:47:25 — style: normalize trailing whitespace across modules
