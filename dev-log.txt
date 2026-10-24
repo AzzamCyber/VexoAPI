@@ -6773,3 +6773,4 @@
 2026-10-24 19:03:58 — chore: verify environment configuration defaults
 2026-10-24 19:11:20 — fix(validation): handle edge-case null values in params
 2026-10-24 19:18:31 — docs: fix typo in authentication header instructions
+2026-10-24 19:28:41 — docs: update parameter types and response schema
