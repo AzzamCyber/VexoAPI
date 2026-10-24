@@ -6750,3 +6750,4 @@
 2026-10-24 15:01:30 — refactor: clean up deprecated utility arguments
 2026-10-24 15:06:23 — fix: guard against undefined property access in mapper
 2026-10-24 15:17:05 — docs: document internal helper functions and return values
+2026-10-24 15:28:24 — docs(readme): polish quick-start guide and examples
