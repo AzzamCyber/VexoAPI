@@ -6753,3 +6753,4 @@
 2026-10-24 15:28:24 — docs(readme): polish quick-start guide and examples
 2026-10-24 15:40:42 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-24 15:46:31 — docs: add request payload examples for webhook receiver
+2026-10-24 15:53:07 — refactor: reduce nesting in error propagation flow
