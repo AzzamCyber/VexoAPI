@@ -6787,3 +6787,4 @@
 2026-10-24 21:01:47 — chore: update internal build metadata and telemetry
 2026-10-24 21:07:38 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-24 21:23:20 — fix: guard against undefined property access in mapper
+2026-10-24 21:33:47 — docs: add request payload examples for webhook receiver
