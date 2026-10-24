@@ -6747,3 +6747,4 @@
 2026-10-24 14:27:20 — chore: synchronize project version constants
 2026-10-24 14:42:27 — refactor(routes): simplify validation logic in controller
 2026-10-24 14:51:03 — docs: add changelog notes for recent updates
+2026-10-24 15:01:30 — refactor: clean up deprecated utility arguments
