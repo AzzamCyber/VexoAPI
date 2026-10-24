@@ -6794,3 +6794,4 @@
 2026-10-24 22:17:39 — refactor(handlers): modularize request dispatcher
 2026-10-24 22:30:11 — style: align formatting with project linter standards
 2026-10-24 22:44:37 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-24 22:57:23 — 📚 Pembaruan panduan integrasi pada README
