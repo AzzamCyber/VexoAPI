@@ -6799,3 +6799,4 @@
 2026-10-24 23:16:36 — style: normalize trailing whitespace across modules
 2026-10-24 23:22:44 — docs: update API telemetry and endpoint references
 2026-10-24 23:29:31 — fix(types): update type annotations for payload handler
+2026-10-24 23:35:13 — refactor(core): streamline internal request pipeline
