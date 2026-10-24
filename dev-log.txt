@@ -6752,3 +6752,4 @@
 2026-10-24 15:17:05 — docs: document internal helper functions and return values
 2026-10-24 15:28:24 — docs(readme): polish quick-start guide and examples
 2026-10-24 15:40:42 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-24 15:46:31 — docs: add request payload examples for webhook receiver
