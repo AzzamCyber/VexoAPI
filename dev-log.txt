@@ -6745,3 +6745,4 @@
 2026-10-24 14:19:02 — style: reorganize import statements alphabetically
 2026-10-24 14:22:56 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-24 14:27:20 — chore: synchronize project version constants
+2026-10-24 14:42:27 — refactor(routes): simplify validation logic in controller
