@@ -6802,3 +6802,4 @@
 2026-10-24 23:35:13 — refactor(core): streamline internal request pipeline
 2026-10-24 23:50:54 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-25 00:02:20 — docs(readme): polish quick-start guide and examples
+2026-10-25 00:06:03 — refactor(routes): simplify validation logic in controller
