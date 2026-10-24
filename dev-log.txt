@@ -6740,3 +6740,4 @@
 2026-10-24 13:22:16 — perf: reduce redundant object allocations in loop
 2026-10-24 13:35:59 — docs: clarify rate-limit error responses in documentation
 2026-10-24 13:51:27 — 📝 Update dokumentasi endpoint dan response schema
+2026-10-24 14:03:11 — fix: sanitize incoming query string parameters
