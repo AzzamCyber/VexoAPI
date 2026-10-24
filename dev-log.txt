@@ -6797,3 +6797,4 @@
 2026-10-24 22:57:23 — 📚 Pembaruan panduan integrasi pada README
 2026-10-24 23:08:50 — chore(deps): audit dependencies and check for updates
 2026-10-24 23:16:36 — style: normalize trailing whitespace across modules
+2026-10-24 23:22:44 — docs: update API telemetry and endpoint references
