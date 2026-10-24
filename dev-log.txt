@@ -6780,3 +6780,4 @@
 2026-10-24 20:00:59 — fix(cors): normalize default allowed origin headers
 2026-10-24 20:13:05 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-24 20:21:23 — docs: clarify rate-limit error responses in documentation
+2026-10-24 20:24:42 — style: format JSON schemas and configuration comments
