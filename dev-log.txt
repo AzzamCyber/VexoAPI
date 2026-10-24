@@ -6805,3 +6805,4 @@
 2026-10-25 00:06:03 — refactor(routes): simplify validation logic in controller
 2026-10-25 00:16:22 — refactor(utils): optimize string sanitizer helpers
 2026-10-25 00:22:58 — docs: document internal helper functions and return values
+2026-10-25 00:26:39 — fix: sanitize incoming query string parameters
