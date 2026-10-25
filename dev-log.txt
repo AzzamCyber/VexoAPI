@@ -6871,3 +6871,4 @@
 2026-10-25 16:54:44 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-25 16:58:23 — refactor(core): streamline internal request pipeline
 2026-10-25 17:06:16 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-25 17:12:35 — 📚 Pembaruan panduan integrasi pada README
