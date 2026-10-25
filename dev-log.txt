@@ -6858,3 +6858,4 @@
 2026-10-25 14:55:54 — style: format JSON schemas and configuration comments
 2026-10-25 15:00:39 — docs(readme): polish quick-start guide and examples
 2026-10-25 15:11:06 — style: standardize indentation in response templates
+2026-10-25 15:21:47 — fix(cors): normalize default allowed origin headers
