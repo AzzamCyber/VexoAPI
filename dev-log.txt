@@ -6833,3 +6833,4 @@
 2026-10-25 10:48:31 — chore: synchronize project version constants
 2026-10-25 10:57:41 — docs: document internal helper functions and return values
 2026-10-25 11:00:56 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-25 11:12:06 — fix: correct status code return on missing authorization
