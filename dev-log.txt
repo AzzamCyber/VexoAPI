@@ -6819,3 +6819,4 @@
 2026-10-25 08:33:19 — ✨ Optimasi logic handler dan routing internal
 2026-10-25 08:40:26 — docs: update API telemetry and endpoint references
 2026-10-25 08:50:55 — refactor(routes): simplify validation logic in controller
+2026-10-25 08:56:41 — fix(types): update type annotations for payload handler
