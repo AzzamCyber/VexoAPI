@@ -6883,3 +6883,4 @@
 2026-10-25 18:54:07 — refactor: organize constant definitions and status codes
 2026-10-25 19:08:59 — fix: guard against undefined property access in mapper
 2026-10-25 19:14:35 — refactor(utils): optimize string sanitizer helpers
+2026-10-25 19:19:48 — docs: add request payload examples for webhook receiver
