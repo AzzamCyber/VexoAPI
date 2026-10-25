@@ -6855,3 +6855,4 @@
 2026-10-25 14:28:25 — docs: update parameter types and response schema
 2026-10-25 14:34:02 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-25 14:40:10 — docs: add changelog notes for recent updates
+2026-10-25 14:55:54 — style: format JSON schemas and configuration comments
