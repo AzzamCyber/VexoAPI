@@ -6826,3 +6826,4 @@
 2026-10-25 09:24:48 — perf: reduce redundant object allocations in loop
 2026-10-25 09:34:19 — style: align formatting with project linter standards
 2026-10-25 09:49:40 — perf: fine-tune buffer size for streaming responses
+2026-10-25 09:58:58 — refactor: clean up deprecated utility arguments
