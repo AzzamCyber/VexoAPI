@@ -6847,3 +6847,4 @@
 2026-10-25 13:04:55 — docs: clarify rate-limit error responses in documentation
 2026-10-25 13:14:17 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-25 13:26:31 — style: reorganize import statements alphabetically
+2026-10-25 13:41:07 — fix(validation): handle edge-case null values in params
