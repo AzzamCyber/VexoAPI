@@ -6894,3 +6894,4 @@
 2026-10-25 20:59:41 — perf: reduce redundant object allocations in loop
 2026-10-25 21:03:51 — docs: update parameter types and response schema
 2026-10-25 21:09:24 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-25 21:24:43 — 📝 Update dokumentasi endpoint dan response schema
