@@ -6877,3 +6877,4 @@
 2026-10-25 17:44:59 — style: reorganize import statements alphabetically
 2026-10-25 17:53:42 — chore: synchronize project version constants
 2026-10-25 18:07:48 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-25 18:23:34 — docs(readme): polish quick-start guide and examples
