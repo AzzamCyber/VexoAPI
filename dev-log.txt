@@ -6821,3 +6821,4 @@
 2026-10-25 08:50:55 — refactor(routes): simplify validation logic in controller
 2026-10-25 08:56:41 — fix(types): update type annotations for payload handler
 2026-10-25 09:01:08 — refactor(handlers): modularize request dispatcher
+2026-10-25 09:16:29 — 📚 Pembaruan panduan integrasi pada README
