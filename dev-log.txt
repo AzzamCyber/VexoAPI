@@ -6892,3 +6892,4 @@
 2026-10-25 20:34:55 — style: align formatting with project linter standards
 2026-10-25 20:45:02 — docs: document internal helper functions and return values
 2026-10-25 20:59:41 — perf: reduce redundant object allocations in loop
+2026-10-25 21:03:51 — docs: update parameter types and response schema
