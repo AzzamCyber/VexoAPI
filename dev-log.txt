@@ -6908,3 +6908,4 @@
 2026-10-25 23:06:38 — chore: update internal build metadata and telemetry
 2026-10-25 23:10:53 — docs: update API telemetry and endpoint references
 2026-10-25 23:24:37 — chore(deps): audit dependencies and check for updates
+2026-10-25 23:30:15 — fix: correct status code return on missing authorization
