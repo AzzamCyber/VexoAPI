@@ -6941,3 +6941,4 @@
 2026-10-26 12:02:41 — fix: correct status code return on missing authorization
 2026-10-26 12:05:54 — fix(validation): handle edge-case null values in params
 2026-10-26 12:19:32 — refactor: clean up deprecated utility arguments
+2026-10-26 12:23:08 — fix(telemetry): suppress transient network warning in dev mode
