@@ -6920,3 +6920,4 @@
 2026-10-26 08:42:18 — style: normalize trailing whitespace across modules
 2026-10-26 08:53:39 — fix(cors): normalize default allowed origin headers
 2026-10-26 09:06:53 — docs: add request payload examples for webhook receiver
+2026-10-26 09:19:04 — 📝 Update dokumentasi endpoint dan response schema
