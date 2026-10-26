@@ -7004,3 +7004,4 @@
 2026-10-26 21:38:00 — refactor(utils): optimize string sanitizer helpers
 2026-10-26 21:43:51 — fix(types): update type annotations for payload handler
 2026-10-26 21:58:24 — refactor(core): streamline internal request pipeline
+2026-10-26 22:06:58 — refactor: extract reusable header parser method
