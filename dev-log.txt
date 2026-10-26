@@ -6968,3 +6968,4 @@
 2026-10-26 16:21:32 — docs(readme): polish quick-start guide and examples
 2026-10-26 16:33:05 — perf: reduce redundant object allocations in loop
 2026-10-26 16:36:25 — style: reorganize import statements alphabetically
+2026-10-26 16:48:08 — style: align formatting with project linter standards
