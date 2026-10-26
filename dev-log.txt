@@ -6973,3 +6973,4 @@
 2026-10-26 17:05:34 — fix(validation): handle edge-case null values in params
 2026-10-26 17:19:52 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-26 17:26:01 — style: normalize trailing whitespace across modules
+2026-10-26 17:32:42 — docs: update parameter types and response schema
