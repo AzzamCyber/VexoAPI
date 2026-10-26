@@ -7002,3 +7002,4 @@
 2026-10-26 21:17:06 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-26 21:31:14 — docs: add changelog notes for recent updates
 2026-10-26 21:38:00 — refactor(utils): optimize string sanitizer helpers
+2026-10-26 21:43:51 — fix(types): update type annotations for payload handler
