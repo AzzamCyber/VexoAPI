@@ -6922,3 +6922,4 @@
 2026-10-26 09:06:53 — docs: add request payload examples for webhook receiver
 2026-10-26 09:19:04 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-26 09:22:56 — refactor(core): streamline internal request pipeline
+2026-10-26 09:32:13 — refactor: reduce nesting in error propagation flow
