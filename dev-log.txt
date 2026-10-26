@@ -6918,3 +6918,4 @@
 2026-10-26 00:46:45 — docs: add changelog notes for recent updates
 2026-10-26 08:36:31 — docs: clarify rate-limit error responses in documentation
 2026-10-26 08:42:18 — style: normalize trailing whitespace across modules
+2026-10-26 08:53:39 — fix(cors): normalize default allowed origin headers
