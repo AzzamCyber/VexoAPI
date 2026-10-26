@@ -6962,3 +6962,4 @@
 2026-10-26 15:06:40 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-26 15:22:10 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-26 15:32:44 — docs(readme): polish quick-start guide and examples
+2026-10-26 15:41:28 — docs: document internal helper functions and return values
