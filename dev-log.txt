@@ -6978,3 +6978,4 @@
 2026-10-26 17:51:22 — style: standardize indentation in response templates
 2026-10-26 17:56:32 — refactor(routes): simplify validation logic in controller
 2026-10-26 18:12:10 — chore: update internal build metadata and telemetry
+2026-10-26 18:22:31 — docs: fix typo in authentication header instructions
