@@ -6939,3 +6939,4 @@
 2026-10-26 11:42:06 — ✨ Optimasi logic handler dan routing internal
 2026-10-26 11:47:52 — refactor(utils): optimize string sanitizer helpers
 2026-10-26 12:02:41 — fix: correct status code return on missing authorization
+2026-10-26 12:05:54 — fix(validation): handle edge-case null values in params
