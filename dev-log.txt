@@ -6916,3 +6916,4 @@
 2026-10-26 00:17:12 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-26 00:30:54 — style: format JSON schemas and configuration comments
 2026-10-26 00:46:45 — docs: add changelog notes for recent updates
+2026-10-26 08:36:31 — docs: clarify rate-limit error responses in documentation
