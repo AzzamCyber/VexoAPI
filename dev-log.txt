@@ -7060,3 +7060,4 @@
 2026-10-27 15:50:55 — style: align formatting with project linter standards
 2026-10-27 16:05:13 — docs: add request payload examples for webhook receiver
 2026-10-27 16:10:41 — 🚀 Peningkatan efisiensi memory caching
+2026-10-27 16:14:58 — docs(readme): polish quick-start guide and examples
