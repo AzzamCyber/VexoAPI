@@ -7097,3 +7097,4 @@
 2026-10-27 22:11:47 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-27 22:20:56 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-10-27 22:24:18 — perf: optimize memory footprint on payload parser
+2026-10-27 22:27:52 — fix(cors): normalize default allowed origin headers
