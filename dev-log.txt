@@ -7115,3 +7115,4 @@
 2026-10-28 00:49:28 — style: reorganize import statements alphabetically
 2026-10-28 01:03:23 — docs: update parameter types and response schema
 2026-10-28 01:15:16 — fix(cors): normalize default allowed origin headers
+2026-10-28 01:28:53 — docs: document internal helper functions and return values
