@@ -7079,3 +7079,4 @@
 2026-10-27 18:44:34 — chore: synchronize project version constants
 2026-10-27 18:58:09 — docs: add changelog notes for recent updates
 2026-10-27 19:07:33 — fix: sanitize incoming query string parameters
+2026-10-27 19:14:44 — fix: correct status code return on missing authorization
