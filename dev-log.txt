@@ -7100,3 +7100,4 @@
 2026-10-27 22:27:52 — fix(cors): normalize default allowed origin headers
 2026-10-27 22:40:02 — fix(types): update type annotations for payload handler
 2026-10-27 22:47:32 — refactor(core): streamline internal request pipeline
+2026-10-27 23:02:22 — docs: clarify rate-limit error responses in documentation
