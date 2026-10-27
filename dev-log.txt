@@ -7091,3 +7091,4 @@
 2026-10-27 20:56:54 — docs: add request payload examples for webhook receiver
 2026-10-27 21:10:39 — docs: document internal helper functions and return values
 2026-10-27 21:21:27 — perf: reduce redundant object allocations in loop
+2026-10-27 21:37:03 — refactor: reduce nesting in error propagation flow
