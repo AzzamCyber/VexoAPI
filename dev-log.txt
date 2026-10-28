@@ -7195,3 +7195,4 @@
 2026-10-28 20:41:44 — docs(readme): polish quick-start guide and examples
 2026-10-28 20:53:49 — docs: fix typo in authentication header instructions
 2026-10-28 20:59:14 — refactor(core): streamline internal request pipeline
+2026-10-28 21:10:59 — refactor(utils): optimize string sanitizer helpers
