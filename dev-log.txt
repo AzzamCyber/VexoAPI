@@ -7174,3 +7174,4 @@
 2026-10-28 17:23:19 — fix: guard against undefined property access in mapper
 2026-10-28 17:28:08 — fix: sanitize incoming query string parameters
 2026-10-28 17:43:45 — docs: update parameter types and response schema
+2026-10-28 17:52:33 — style: format JSON schemas and configuration comments
