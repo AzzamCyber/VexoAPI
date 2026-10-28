@@ -7211,3 +7211,4 @@
 2026-10-28 23:35:57 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-28 23:42:36 — perf: reduce redundant object allocations in loop
 2026-10-28 23:58:15 — 🔍 Pengecekan sanitasi input dan validasi request
+2026-10-29 00:04:01 — fix(validation): handle edge-case null values in params
