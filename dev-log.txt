@@ -7175,3 +7175,4 @@
 2026-10-28 17:28:08 — fix: sanitize incoming query string parameters
 2026-10-28 17:43:45 — docs: update parameter types and response schema
 2026-10-28 17:52:33 — style: format JSON schemas and configuration comments
+2026-10-28 18:01:49 — perf: fine-tune buffer size for streaming responses
