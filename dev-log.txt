@@ -7151,3 +7151,4 @@
 2026-10-28 13:53:52 — fix(cors): normalize default allowed origin headers
 2026-10-28 14:02:15 — chore: update internal build metadata and telemetry
 2026-10-28 14:09:28 — style: normalize trailing whitespace across modules
+2026-10-28 14:14:23 — docs: document internal helper functions and return values
