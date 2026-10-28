@@ -7122,3 +7122,4 @@
 2026-10-28 09:06:21 — style: reorganize import statements alphabetically
 2026-10-28 09:16:43 — refactor: organize constant definitions and status codes
 2026-10-28 09:32:36 — perf: optimize memory footprint on payload parser
+2026-10-28 09:41:51 — docs: update API telemetry and endpoint references
