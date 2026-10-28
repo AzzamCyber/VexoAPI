@@ -7156,3 +7156,4 @@
 2026-10-28 14:22:49 — docs: update parameter types and response schema
 2026-10-28 14:30:07 — style: format JSON schemas and configuration comments
 2026-10-28 14:45:43 — refactor: extract reusable header parser method
+2026-10-28 14:50:14 — style: standardize indentation in response templates
