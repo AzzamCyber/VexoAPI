@@ -7189,3 +7189,4 @@
 2026-10-28 19:39:28 — docs: clarify rate-limit error responses in documentation
 2026-10-28 19:51:52 — chore: verify environment configuration defaults
 2026-10-28 19:58:24 — fix(cors): normalize default allowed origin headers
+2026-10-28 20:09:13 — refactor: clean up deprecated utility arguments
