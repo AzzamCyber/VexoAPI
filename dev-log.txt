@@ -7141,3 +7141,4 @@
 2026-10-28 11:57:41 — refactor: reduce nesting in error propagation flow
 2026-10-28 12:11:21 — refactor(utils): optimize string sanitizer helpers
 2026-10-28 12:19:49 — perf: improve response latency for cached lookups
+2026-10-28 12:28:05 — fix: guard against undefined property access in mapper
