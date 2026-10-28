@@ -7155,3 +7155,4 @@
 2026-10-28 14:17:29 — fix: sanitize incoming query string parameters
 2026-10-28 14:22:49 — docs: update parameter types and response schema
 2026-10-28 14:30:07 — style: format JSON schemas and configuration comments
+2026-10-28 14:45:43 — refactor: extract reusable header parser method
