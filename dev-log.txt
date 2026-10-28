@@ -7183,3 +7183,4 @@
 2026-10-28 18:47:42 — style: reorganize import statements alphabetically
 2026-10-28 18:57:32 — chore: update internal build metadata and telemetry
 2026-10-28 19:03:12 — docs: add request payload examples for webhook receiver
+2026-10-28 19:17:51 — docs: update API telemetry and endpoint references
