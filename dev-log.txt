@@ -7313,3 +7313,4 @@
 2026-10-29 23:20:52 — perf: fine-tune buffer size for streaming responses
 2026-10-29 23:27:29 — refactor(core): streamline internal request pipeline
 2026-10-29 23:34:19 — docs(readme): polish quick-start guide and examples
+2026-10-29 23:41:28 — chore(deps): audit dependencies and check for updates
