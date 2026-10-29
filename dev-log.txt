@@ -7240,3 +7240,4 @@
 2026-10-29 11:42:07 — refactor: reduce nesting in error propagation flow
 2026-10-29 11:51:44 — chore(deps): audit dependencies and check for updates
 2026-10-29 12:06:36 — style: format JSON schemas and configuration comments
+2026-10-29 12:20:01 — docs: update API telemetry and endpoint references
