@@ -7294,3 +7294,4 @@
 2026-10-29 20:24:09 — refactor(utils): optimize string sanitizer helpers
 2026-10-29 20:34:26 — chore: synchronize project version constants
 2026-10-29 20:45:13 — style: normalize trailing whitespace across modules
+2026-10-29 20:48:31 — docs: update parameter types and response schema
