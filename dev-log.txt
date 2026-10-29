@@ -7285,3 +7285,4 @@
 2026-10-29 18:57:52 — chore: update internal build metadata and telemetry
 2026-10-29 19:03:19 — chore: verify environment configuration defaults
 2026-10-29 19:12:37 — chore(deps): audit dependencies and check for updates
+2026-10-29 19:18:52 — fix: guard against undefined property access in mapper
