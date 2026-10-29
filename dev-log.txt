@@ -7221,3 +7221,4 @@
 2026-10-29 08:53:00 — refactor(handlers): modularize request dispatcher
 2026-10-29 09:07:31 — docs: add changelog notes for recent updates
 2026-10-29 09:20:43 — perf: fine-tune buffer size for streaming responses
+2026-10-29 09:26:23 — style: align formatting with project linter standards
