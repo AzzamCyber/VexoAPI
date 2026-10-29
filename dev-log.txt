@@ -7268,3 +7268,4 @@
 2026-10-29 16:27:45 — fix: correct status code return on missing authorization
 2026-10-29 16:41:30 — refactor(routes): simplify validation logic in controller
 2026-10-29 16:47:52 — refactor: clean up deprecated utility arguments
+2026-10-29 16:58:02 — 🧹 Clean up kode komentar lama dan format styling
