@@ -7249,3 +7249,4 @@
 2026-10-29 13:12:59 — fix(cors): normalize default allowed origin headers
 2026-10-29 13:17:35 — perf: improve response latency for cached lookups
 2026-10-29 13:26:58 — refactor(core): streamline internal request pipeline
+2026-10-29 13:36:43 — docs: add request payload examples for webhook receiver
