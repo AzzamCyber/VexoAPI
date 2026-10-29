@@ -7276,3 +7276,4 @@
 2026-10-29 17:43:00 — docs: add changelog notes for recent updates
 2026-10-29 17:47:49 — style: align formatting with project linter standards
 2026-10-29 18:03:35 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-29 18:11:09 — fix(cors): normalize default allowed origin headers
