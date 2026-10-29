@@ -7266,3 +7266,4 @@
 2026-10-29 16:05:38 — refactor(utils): optimize string sanitizer helpers
 2026-10-29 16:12:17 — docs: update API telemetry and endpoint references
 2026-10-29 16:27:45 — fix: correct status code return on missing authorization
+2026-10-29 16:41:30 — refactor(routes): simplify validation logic in controller
