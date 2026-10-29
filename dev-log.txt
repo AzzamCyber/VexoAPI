@@ -7254,3 +7254,4 @@
 2026-10-29 13:57:19 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-10-29 14:08:07 — style: normalize trailing whitespace across modules
 2026-10-29 14:21:42 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-10-29 14:31:20 — fix(validation): handle edge-case null values in params
