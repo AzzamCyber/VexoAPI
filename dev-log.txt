@@ -7302,3 +7302,4 @@
 2026-10-29 21:25:49 — docs(readme): polish quick-start guide and examples
 2026-10-29 21:36:20 — perf: optimize lookup table execution speed
 2026-10-29 21:45:29 — ✨ Optimasi logic handler dan routing internal
+2026-10-29 21:57:17 — fix(types): update type annotations for payload handler
