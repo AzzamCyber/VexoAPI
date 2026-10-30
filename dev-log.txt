@@ -7333,3 +7333,4 @@
 2026-10-30 10:30:55 — refactor(routes): simplify validation logic in controller
 2026-10-30 10:46:16 — fix(validation): handle edge-case null values in params
 2026-10-30 11:01:42 — style: standardize indentation in response templates
+2026-10-30 11:06:09 — style: format JSON schemas and configuration comments
