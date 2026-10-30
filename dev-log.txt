@@ -7352,3 +7352,4 @@
 2026-10-30 13:43:14 — docs: update parameter types and response schema
 2026-10-30 13:59:01 — refactor(utils): optimize string sanitizer helpers
 2026-10-30 14:03:36 — style: align formatting with project linter standards
+2026-10-30 14:12:04 — fix: sanitize incoming query string parameters
