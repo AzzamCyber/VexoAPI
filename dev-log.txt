@@ -7410,3 +7410,4 @@
 2026-10-30 23:29:04 — docs: update API telemetry and endpoint references
 2026-10-30 23:41:29 — refactor: extract reusable header parser method
 2026-10-30 23:48:24 — fix(validation): handle edge-case null values in params
+2026-10-31 00:01:00 — refactor(routes): simplify validation logic in controller
