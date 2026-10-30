@@ -7407,3 +7407,4 @@
 2026-10-30 23:06:34 — docs: add changelog notes for recent updates
 2026-10-30 23:12:18 — style: align formatting with project linter standards
 2026-10-30 23:22:24 — fix(cors): normalize default allowed origin headers
+2026-10-30 23:29:04 — docs: update API telemetry and endpoint references
