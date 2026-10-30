@@ -7330,3 +7330,4 @@
 2026-10-30 10:03:49 — perf: improve response latency for cached lookups
 2026-10-30 10:12:33 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-30 10:22:06 — 🐛 Perbaikan minor pengecekan response status code
+2026-10-30 10:30:55 — refactor(routes): simplify validation logic in controller
