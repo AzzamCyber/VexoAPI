@@ -7332,3 +7332,4 @@
 2026-10-30 10:22:06 — 🐛 Perbaikan minor pengecekan response status code
 2026-10-30 10:30:55 — refactor(routes): simplify validation logic in controller
 2026-10-30 10:46:16 — fix(validation): handle edge-case null values in params
+2026-10-30 11:01:42 — style: standardize indentation in response templates
