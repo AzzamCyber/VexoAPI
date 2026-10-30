@@ -7406,3 +7406,4 @@
 2026-10-30 23:02:46 — style: format JSON schemas and configuration comments
 2026-10-30 23:06:34 — docs: add changelog notes for recent updates
 2026-10-30 23:12:18 — style: align formatting with project linter standards
+2026-10-30 23:22:24 — fix(cors): normalize default allowed origin headers
