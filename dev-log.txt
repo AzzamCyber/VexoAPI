@@ -7375,3 +7375,4 @@
 2026-10-30 17:57:49 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-30 18:12:13 — chore: synchronize project version constants
 2026-10-30 18:22:50 — fix: guard against undefined property access in mapper
+2026-10-30 18:33:32 — style: normalize trailing whitespace across modules
