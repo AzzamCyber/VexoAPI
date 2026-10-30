@@ -7392,3 +7392,4 @@
 2026-10-30 20:53:15 — docs: fix typo in authentication header instructions
 2026-10-30 21:01:46 — chore(ci): adjust workflow step timeout tolerance
 2026-10-30 21:13:52 — fix: correct status code return on missing authorization
+2026-10-30 21:29:33 — refactor(core): streamline internal request pipeline
