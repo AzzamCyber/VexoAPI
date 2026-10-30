@@ -7328,3 +7328,4 @@
 2026-10-30 09:49:40 — docs: document internal helper functions and return values
 2026-10-30 09:58:18 — style: reorganize import statements alphabetically
 2026-10-30 10:03:49 — perf: improve response latency for cached lookups
+2026-10-30 10:12:33 — 📝 Update dokumentasi endpoint dan response schema
