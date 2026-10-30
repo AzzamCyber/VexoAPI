@@ -7399,3 +7399,4 @@
 2026-10-30 21:58:10 — fix: sanitize incoming query string parameters
 2026-10-30 22:13:02 — docs: update parameter types and response schema
 2026-10-30 22:17:27 — refactor: clean up deprecated utility arguments
+2026-10-30 22:21:34 — docs(readme): polish quick-start guide and examples
