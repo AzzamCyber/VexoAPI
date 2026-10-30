@@ -7319,3 +7319,4 @@
 2026-10-30 08:20:56 — docs: fix typo in authentication header instructions
 2026-10-30 08:26:42 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-30 08:37:36 — chore(ci): adjust workflow step timeout tolerance
+2026-10-30 08:52:48 — fix(cors): normalize default allowed origin headers
