@@ -7501,3 +7501,4 @@
 2026-10-31 22:35:02 — refactor: reduce nesting in error propagation flow
 2026-10-31 22:50:19 — chore: update internal build metadata and telemetry
 2026-10-31 22:57:48 — fix: correct status code return on missing authorization
+2026-10-31 23:13:02 — refactor(core): streamline internal request pipeline
