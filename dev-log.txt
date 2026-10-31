@@ -7474,3 +7474,4 @@
 2026-10-31 18:12:34 — 🧹 Clean up kode komentar lama dan format styling
 2026-10-31 18:24:45 — style: normalize trailing whitespace across modules
 2026-10-31 18:40:30 — fix(cors): normalize default allowed origin headers
+2026-10-31 18:53:54 — refactor: extract reusable header parser method
