@@ -7439,3 +7439,4 @@
 2026-10-31 12:39:45 — fix(cors): normalize default allowed origin headers
 2026-10-31 12:52:25 — docs: add request payload examples for webhook receiver
 2026-10-31 12:57:39 — chore: synchronize project version constants
+2026-10-31 13:02:57 — refactor(routes): simplify validation logic in controller
