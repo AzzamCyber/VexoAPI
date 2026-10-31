@@ -7509,3 +7509,4 @@
 2026-10-31 23:58:25 — docs(readme): polish quick-start guide and examples
 2026-11-01 00:13:18 — refactor(handlers): modularize request dispatcher
 2026-11-01 00:21:24 — perf: improve response latency for cached lookups
+2026-11-01 00:36:52 — docs: document internal helper functions and return values
