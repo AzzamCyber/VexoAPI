@@ -7453,3 +7453,4 @@
 2026-10-31 14:59:53 — style: standardize indentation in response templates
 2026-10-31 15:07:15 — docs: update parameter types and response schema
 2026-10-31 15:10:37 — fix(types): update type annotations for payload handler
+2026-10-31 15:14:00 — refactor(core): streamline internal request pipeline
