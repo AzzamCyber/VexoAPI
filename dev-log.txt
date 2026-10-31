@@ -7490,3 +7490,4 @@
 2026-10-31 21:02:43 — docs: add changelog notes for recent updates
 2026-10-31 21:07:37 — fix(validation): handle edge-case null values in params
 2026-10-31 21:19:55 — perf: reduce redundant object allocations in loop
+2026-10-31 21:31:07 — chore: synchronize project version constants
