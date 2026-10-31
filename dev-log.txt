@@ -7419,3 +7419,4 @@
 2026-10-31 09:41:24 — ⚙️ Penyesuaian konfigurasi default environment
 2026-10-31 09:46:04 — refactor: extract reusable header parser method
 2026-10-31 09:51:18 — refactor(utils): optimize string sanitizer helpers
+2026-10-31 09:54:32 — fix(validation): handle edge-case null values in params
