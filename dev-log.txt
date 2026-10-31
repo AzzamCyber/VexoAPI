@@ -7492,3 +7492,4 @@
 2026-10-31 21:19:55 — perf: reduce redundant object allocations in loop
 2026-10-31 21:31:07 — chore: synchronize project version constants
 2026-10-31 21:40:14 — ⚙️ Penyesuaian konfigurasi default environment
+2026-10-31 21:52:54 — refactor: clean up deprecated utility arguments
