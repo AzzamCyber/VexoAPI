@@ -7436,3 +7436,4 @@
 2026-10-31 12:09:21 — docs: document internal helper functions and return values
 2026-10-31 12:14:43 — chore: verify environment configuration defaults
 2026-10-31 12:28:18 — refactor(handlers): modularize request dispatcher
+2026-10-31 12:39:45 — fix(cors): normalize default allowed origin headers
