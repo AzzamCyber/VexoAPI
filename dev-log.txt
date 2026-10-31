@@ -7507,3 +7507,4 @@
 2026-10-31 23:48:20 — 📝 Update dokumentasi endpoint dan response schema
 2026-10-31 23:51:35 — docs: add request payload examples for webhook receiver
 2026-10-31 23:58:25 — docs(readme): polish quick-start guide and examples
+2026-11-01 00:13:18 — refactor(handlers): modularize request dispatcher
