@@ -7447,3 +7447,4 @@
 2026-10-31 13:55:44 — style: align formatting with project linter standards
 2026-10-31 14:06:15 — fix: correct status code return on missing authorization
 2026-10-31 14:19:01 — fix: guard against undefined property access in mapper
+2026-10-31 14:31:27 — docs(readme): polish quick-start guide and examples
