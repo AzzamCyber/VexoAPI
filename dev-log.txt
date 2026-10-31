@@ -7476,3 +7476,4 @@
 2026-10-31 18:40:30 — fix(cors): normalize default allowed origin headers
 2026-10-31 18:53:54 — refactor: extract reusable header parser method
 2026-10-31 18:58:38 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-31 19:14:19 — perf: fine-tune buffer size for streaming responses
