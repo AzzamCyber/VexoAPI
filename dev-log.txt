@@ -7472,3 +7472,4 @@
 2026-10-31 17:46:50 — style: reorganize import statements alphabetically
 2026-10-31 17:57:44 — fix: guard against undefined property access in mapper
 2026-10-31 18:12:34 — 🧹 Clean up kode komentar lama dan format styling
+2026-10-31 18:24:45 — style: normalize trailing whitespace across modules
