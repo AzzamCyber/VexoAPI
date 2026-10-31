@@ -7478,3 +7478,4 @@
 2026-10-31 18:58:38 — fix(telemetry): suppress transient network warning in dev mode
 2026-10-31 19:14:19 — perf: fine-tune buffer size for streaming responses
 2026-10-31 19:21:08 — 📚 Pembaruan panduan integrasi pada README
+2026-10-31 19:24:17 — docs: clarify rate-limit error responses in documentation
