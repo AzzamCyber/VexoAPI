@@ -7441,3 +7441,4 @@
 2026-10-31 12:57:39 — chore: synchronize project version constants
 2026-10-31 13:02:57 — refactor(routes): simplify validation logic in controller
 2026-10-31 13:13:52 — fix(telemetry): suppress transient network warning in dev mode
+2026-10-31 13:25:15 — fix: sanitize incoming query string parameters
