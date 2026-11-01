@@ -7610,3 +7610,4 @@
 2026-11-01 22:48:47 — refactor(handlers): modularize request dispatcher
 2026-11-01 22:58:06 — docs(readme): polish quick-start guide and examples
 2026-11-01 23:07:36 — fix(telemetry): suppress transient network warning in dev mode
+2026-11-01 23:14:55 — 📚 Pembaruan panduan integrasi pada README
