@@ -7524,3 +7524,4 @@
 2026-11-01 09:10:05 — chore(deps): audit dependencies and check for updates
 2026-11-01 09:25:41 — docs: add request payload examples for webhook receiver
 2026-11-01 09:35:07 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-11-01 09:44:51 — fix(cors): normalize default allowed origin headers
