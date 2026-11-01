@@ -7563,3 +7563,4 @@
 2026-11-01 16:01:14 — perf: fine-tune buffer size for streaming responses
 2026-11-01 16:13:33 — refactor(routes): simplify validation logic in controller
 2026-11-01 16:18:24 — 📝 Update dokumentasi endpoint dan response schema
+2026-11-01 16:33:02 — refactor: organize constant definitions and status codes
