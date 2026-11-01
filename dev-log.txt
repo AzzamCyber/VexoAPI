@@ -7561,3 +7561,4 @@
 2026-11-01 15:35:03 — docs: clarify rate-limit error responses in documentation
 2026-11-01 15:50:31 — style: normalize trailing whitespace across modules
 2026-11-01 16:01:14 — perf: fine-tune buffer size for streaming responses
+2026-11-01 16:13:33 — refactor(routes): simplify validation logic in controller
