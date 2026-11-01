@@ -7533,3 +7533,4 @@
 2026-11-01 10:38:42 — chore: update internal build metadata and telemetry
 2026-11-01 10:44:23 — fix: correct status code return on missing authorization
 2026-11-01 10:47:57 — refactor: extract reusable header parser method
+2026-11-01 11:00:20 — fix: sanitize incoming query string parameters
