@@ -7554,3 +7554,4 @@
 2026-11-01 14:30:57 — docs(readme): polish quick-start guide and examples
 2026-11-01 14:45:22 — ✨ Optimasi logic handler dan routing internal
 2026-11-01 14:52:10 — docs: update parameter types and response schema
+2026-11-01 15:04:46 — refactor(core): streamline internal request pipeline
