@@ -7579,3 +7579,4 @@
 2026-11-01 18:22:25 — docs: document internal helper functions and return values
 2026-11-01 18:37:42 — refactor(core): streamline internal request pipeline
 2026-11-01 18:44:03 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-11-01 18:52:55 — refactor(routes): simplify validation logic in controller
