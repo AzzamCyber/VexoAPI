@@ -7525,3 +7525,4 @@
 2026-11-01 09:25:41 — docs: add request payload examples for webhook receiver
 2026-11-01 09:35:07 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-11-01 09:44:51 — fix(cors): normalize default allowed origin headers
+2026-11-01 09:53:12 — fix(validation): handle edge-case null values in params
