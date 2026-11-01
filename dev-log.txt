@@ -7556,3 +7556,4 @@
 2026-11-01 14:52:10 — docs: update parameter types and response schema
 2026-11-01 15:04:46 — refactor(core): streamline internal request pipeline
 2026-11-01 15:14:13 — perf: improve response latency for cached lookups
+2026-11-01 15:17:55 — docs: fix typo in authentication header instructions
