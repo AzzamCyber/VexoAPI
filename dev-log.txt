@@ -7697,3 +7697,4 @@
 2026-11-02 22:11:23 — docs: update API telemetry and endpoint references
 2026-11-02 22:16:03 — chore: synchronize project version constants
 2026-11-02 22:31:58 — ⚡ Optimasi struktur data untuk pemrosesan payload
+2026-11-02 22:47:22 — fix(cors): normalize default allowed origin headers
