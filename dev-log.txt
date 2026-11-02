@@ -7656,3 +7656,4 @@
 2026-11-02 15:03:30 — chore: update internal build metadata and telemetry
 2026-11-02 15:19:13 — fix(cors): normalize default allowed origin headers
 2026-11-02 15:26:47 — docs: update API telemetry and endpoint references
+2026-11-02 15:32:52 — refactor(handlers): modularize request dispatcher
