@@ -7714,3 +7714,4 @@
 2026-11-03 01:22:03 — ✨ Optimasi logic handler dan routing internal
 2026-11-03 01:34:55 — docs: clarify rate-limit error responses in documentation
 2026-11-03 01:50:41 — docs: add changelog notes for recent updates
+2026-11-03 01:58:07 — fix: sanitize incoming query string parameters
