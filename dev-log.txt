@@ -7703,3 +7703,4 @@
 2026-11-02 23:20:15 — docs: add changelog notes for recent updates
 2026-11-02 23:35:56 — 📝 Update dokumentasi endpoint dan response schema
 2026-11-02 23:46:01 — 🧹 Clean up kode komentar lama dan format styling
+2026-11-03 00:01:32 — perf: fine-tune buffer size for streaming responses
