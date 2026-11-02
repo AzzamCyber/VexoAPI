@@ -7632,3 +7632,4 @@
 2026-11-02 11:52:44 — perf: optimize lookup table execution speed
 2026-11-02 12:03:08 — perf: optimize memory footprint on payload parser
 2026-11-02 12:09:36 — style: align formatting with project linter standards
+2026-11-02 12:20:05 — docs: clarify rate-limit error responses in documentation
