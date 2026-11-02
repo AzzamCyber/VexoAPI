@@ -7637,3 +7637,4 @@
 2026-11-02 12:28:33 — chore(deps): audit dependencies and check for updates
 2026-11-02 12:36:19 — chore: verify environment configuration defaults
 2026-11-02 12:44:48 — ⚙️ Penyesuaian konfigurasi default environment
+2026-11-02 12:50:06 — fix: correct status code return on missing authorization
