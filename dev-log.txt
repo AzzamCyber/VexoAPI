@@ -7692,3 +7692,4 @@
 2026-11-02 21:23:52 — style: format JSON schemas and configuration comments
 2026-11-02 21:36:20 — refactor(routes): simplify validation logic in controller
 2026-11-02 21:48:25 — refactor(handlers): modularize request dispatcher
+2026-11-02 22:02:11 — fix: correct status code return on missing authorization
