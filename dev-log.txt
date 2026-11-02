@@ -7659,3 +7659,4 @@
 2026-11-02 15:32:52 — refactor(handlers): modularize request dispatcher
 2026-11-02 15:44:11 — refactor(routes): simplify validation logic in controller
 2026-11-02 15:54:40 — fix(validation): handle edge-case null values in params
+2026-11-02 16:02:27 — docs(readme): polish quick-start guide and examples
