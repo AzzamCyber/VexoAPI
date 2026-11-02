@@ -7680,3 +7680,4 @@
 2026-11-02 19:13:26 — fix: guard against undefined property access in mapper
 2026-11-02 19:26:09 — chore(deps): audit dependencies and check for updates
 2026-11-02 19:39:56 — docs(readme): polish quick-start guide and examples
+2026-11-02 19:53:01 — fix(telemetry): suppress transient network warning in dev mode
