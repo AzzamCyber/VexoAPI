@@ -7657,3 +7657,4 @@
 2026-11-02 15:19:13 — fix(cors): normalize default allowed origin headers
 2026-11-02 15:26:47 — docs: update API telemetry and endpoint references
 2026-11-02 15:32:52 — refactor(handlers): modularize request dispatcher
+2026-11-02 15:44:11 — refactor(routes): simplify validation logic in controller
