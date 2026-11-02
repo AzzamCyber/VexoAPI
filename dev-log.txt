@@ -7661,3 +7661,4 @@
 2026-11-02 15:54:40 — fix(validation): handle edge-case null values in params
 2026-11-02 16:02:27 — docs(readme): polish quick-start guide and examples
 2026-11-02 16:16:47 — docs: add request payload examples for webhook receiver
+2026-11-02 16:25:00 — fix(telemetry): suppress transient network warning in dev mode
