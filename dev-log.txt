@@ -7616,3 +7616,4 @@
 2026-11-01 23:39:11 — fix: correct status code return on missing authorization
 2026-11-01 23:53:21 — perf: fine-tune buffer size for streaming responses
 2026-11-02 00:07:53 — fix(validation): handle edge-case null values in params
+2026-11-02 09:30:58 — perf: reduce redundant object allocations in loop
