@@ -7681,3 +7681,4 @@
 2026-11-02 19:26:09 — chore(deps): audit dependencies and check for updates
 2026-11-02 19:39:56 — docs(readme): polish quick-start guide and examples
 2026-11-02 19:53:01 — fix(telemetry): suppress transient network warning in dev mode
+2026-11-02 19:56:23 — chore(ci): adjust workflow step timeout tolerance
