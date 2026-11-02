@@ -7628,3 +7628,4 @@
 2026-11-02 11:03:50 — docs: document internal helper functions and return values
 2026-11-02 11:19:41 — style: reorganize import statements alphabetically
 2026-11-02 11:28:32 — docs: fix typo in authentication header instructions
+2026-11-02 11:37:24 — refactor: extract reusable header parser method
