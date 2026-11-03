@@ -7805,3 +7805,4 @@
 2026-11-03 22:11:53 — fix: correct status code return on missing authorization
 2026-11-03 22:23:37 — refactor(core): streamline internal request pipeline
 2026-11-03 22:38:14 — docs: add request payload examples for webhook receiver
+2026-11-03 22:43:36 — chore(deps): audit dependencies and check for updates
