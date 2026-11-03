@@ -7758,3 +7758,4 @@
 2026-11-03 14:57:16 — docs: update API telemetry and endpoint references
 2026-11-03 15:00:23 — docs(readme): polish quick-start guide and examples
 2026-11-03 15:14:53 — refactor: extract reusable header parser method
+2026-11-03 15:22:33 — refactor(core): streamline internal request pipeline
