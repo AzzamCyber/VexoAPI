@@ -7735,3 +7735,4 @@
 2026-11-03 10:57:10 — perf: optimize lookup table execution speed
 2026-11-03 11:11:44 — docs: update parameter types and response schema
 2026-11-03 11:24:21 — style: format JSON schemas and configuration comments
+2026-11-03 11:37:52 — docs: clarify rate-limit error responses in documentation
