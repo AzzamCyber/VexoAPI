@@ -7802,3 +7802,4 @@
 2026-11-03 21:43:51 — perf: reduce redundant object allocations in loop
 2026-11-03 21:59:24 — refactor: organize constant definitions and status codes
 2026-11-03 22:05:00 — style: normalize trailing whitespace across modules
+2026-11-03 22:11:53 — fix: correct status code return on missing authorization
