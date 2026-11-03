@@ -7726,3 +7726,4 @@
 2026-11-03 09:31:05 — fix(cors): normalize default allowed origin headers
 2026-11-03 09:36:43 — refactor(routes): simplify validation logic in controller
 2026-11-03 09:44:28 — perf: improve response latency for cached lookups
+2026-11-03 09:54:21 — docs: fix typo in authentication header instructions
