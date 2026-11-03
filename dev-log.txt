@@ -7724,3 +7724,4 @@
 2026-11-03 09:16:02 — 🐛 Perbaikan minor pengecekan response status code
 2026-11-03 09:22:35 — chore: update internal build metadata and telemetry
 2026-11-03 09:31:05 — fix(cors): normalize default allowed origin headers
+2026-11-03 09:36:43 — refactor(routes): simplify validation logic in controller
