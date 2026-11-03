@@ -7756,3 +7756,4 @@
 2026-11-03 14:36:54 — fix(telemetry): suppress transient network warning in dev mode
 2026-11-03 14:51:59 — refactor: clean up deprecated utility arguments
 2026-11-03 14:57:16 — docs: update API telemetry and endpoint references
+2026-11-03 15:00:23 — docs(readme): polish quick-start guide and examples
