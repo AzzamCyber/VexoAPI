@@ -7742,3 +7742,4 @@
 2026-11-03 12:24:20 — perf: fine-tune buffer size for streaming responses
 2026-11-03 12:31:08 — style: align formatting with project linter standards
 2026-11-03 12:34:28 — fix(types): update type annotations for payload handler
+2026-11-03 12:50:14 — 📚 Pembaruan panduan integrasi pada README
