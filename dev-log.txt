@@ -7791,3 +7791,4 @@
 2026-11-03 19:55:43 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-11-03 20:00:53 — fix(cors): normalize default allowed origin headers
 2026-11-03 20:04:10 — chore(ci): adjust workflow step timeout tolerance
+2026-11-03 20:19:55 — fix(validation): handle edge-case null values in params
