@@ -7754,3 +7754,4 @@
 2026-11-03 14:23:57 — 📝 Update dokumentasi endpoint dan response schema
 2026-11-03 14:27:22 — chore(deps): audit dependencies and check for updates
 2026-11-03 14:36:54 — fix(telemetry): suppress transient network warning in dev mode
+2026-11-03 14:51:59 — refactor: clean up deprecated utility arguments
