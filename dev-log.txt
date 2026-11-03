@@ -7755,3 +7755,4 @@
 2026-11-03 14:27:22 — chore(deps): audit dependencies and check for updates
 2026-11-03 14:36:54 — fix(telemetry): suppress transient network warning in dev mode
 2026-11-03 14:51:59 — refactor: clean up deprecated utility arguments
+2026-11-03 14:57:16 — docs: update API telemetry and endpoint references
