@@ -7789,3 +7789,4 @@
 2026-11-03 19:35:13 — 🐛 Perbaikan minor pengecekan response status code
 2026-11-03 19:41:37 — refactor: clean up deprecated utility arguments
 2026-11-03 19:55:43 — 🔧 Refactor fungsi helper pada utilitas umum
+2026-11-03 20:00:53 — fix(cors): normalize default allowed origin headers
