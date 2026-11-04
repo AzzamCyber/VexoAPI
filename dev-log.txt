@@ -7869,3 +7869,4 @@
 2026-11-04 16:13:52 — refactor(utils): optimize string sanitizer helpers
 2026-11-04 16:20:25 — style: standardize indentation in response templates
 2026-11-04 16:23:56 — style: align formatting with project linter standards
+2026-11-04 16:37:01 — refactor(routes): simplify validation logic in controller
