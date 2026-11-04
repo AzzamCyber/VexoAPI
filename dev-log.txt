@@ -7823,3 +7823,4 @@
 2026-11-04 09:07:41 — refactor(routes): simplify validation logic in controller
 2026-11-04 09:18:24 — refactor(handlers): modularize request dispatcher
 2026-11-04 09:30:50 — perf: fine-tune buffer size for streaming responses
+2026-11-04 09:44:31 — fix(types): update type annotations for payload handler
