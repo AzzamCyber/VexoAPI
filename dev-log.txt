@@ -7895,3 +7895,4 @@
 2026-11-04 20:07:27 — refactor(core): streamline internal request pipeline
 2026-11-04 20:18:50 — perf: optimize memory footprint on payload parser
 2026-11-04 20:32:37 — style: format JSON schemas and configuration comments
+2026-11-04 20:35:51 — docs: update API telemetry and endpoint references
