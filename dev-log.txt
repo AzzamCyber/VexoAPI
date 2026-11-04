@@ -7850,3 +7850,4 @@
 2026-11-04 13:24:53 — 🐛 Perbaikan minor pengecekan response status code
 2026-11-04 13:28:27 — docs: add request payload examples for webhook receiver
 2026-11-04 13:39:00 — refactor(core): streamline internal request pipeline
+2026-11-04 13:42:31 — docs(readme): polish quick-start guide and examples
