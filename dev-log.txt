@@ -7886,3 +7886,4 @@
 2026-11-04 18:50:34 — 📝 Update dokumentasi endpoint dan response schema
 2026-11-04 18:57:05 — perf: improve response latency for cached lookups
 2026-11-04 19:09:40 — chore: synchronize project version constants
+2026-11-04 19:14:13 — docs(readme): polish quick-start guide and examples
