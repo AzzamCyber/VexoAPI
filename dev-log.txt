@@ -7843,3 +7843,4 @@
 2026-11-04 12:24:41 — ✨ Optimasi logic handler dan routing internal
 2026-11-04 12:35:53 — fix: guard against undefined property access in mapper
 2026-11-04 12:44:39 — fix: correct status code return on missing authorization
+2026-11-04 13:00:29 — refactor: reduce nesting in error propagation flow
