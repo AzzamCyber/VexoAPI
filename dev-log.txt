@@ -7860,3 +7860,4 @@
 2026-11-04 14:40:57 — docs: fix typo in authentication header instructions
 2026-11-04 14:56:22 — fix(validation): handle edge-case null values in params
 2026-11-04 15:07:40 — 🚀 Peningkatan efisiensi memory caching
+2026-11-04 15:11:00 — fix(cors): normalize default allowed origin headers
