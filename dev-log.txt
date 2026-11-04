@@ -7873,3 +7873,4 @@
 2026-11-04 16:44:42 — perf: optimize lookup table execution speed
 2026-11-04 16:53:51 — refactor: clean up deprecated utility arguments
 2026-11-04 17:01:05 — ⚙️ Penyesuaian konfigurasi default environment
+2026-11-04 17:10:12 — fix(validation): handle edge-case null values in params
