@@ -7826,3 +7826,4 @@
 2026-11-04 09:44:31 — fix(types): update type annotations for payload handler
 2026-11-04 09:57:02 — refactor: extract reusable header parser method
 2026-11-04 10:11:33 — perf: optimize lookup table execution speed
+2026-11-04 10:21:03 — docs: update API telemetry and endpoint references
