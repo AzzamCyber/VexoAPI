@@ -7889,3 +7889,4 @@
 2026-11-04 19:14:13 — docs(readme): polish quick-start guide and examples
 2026-11-04 19:24:21 — chore: update internal build metadata and telemetry
 2026-11-04 19:30:34 — fix(cors): normalize default allowed origin headers
+2026-11-04 19:38:46 — perf: fine-tune buffer size for streaming responses
