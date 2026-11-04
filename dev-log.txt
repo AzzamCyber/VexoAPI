@@ -7891,3 +7891,4 @@
 2026-11-04 19:30:34 — fix(cors): normalize default allowed origin headers
 2026-11-04 19:38:46 — perf: fine-tune buffer size for streaming responses
 2026-11-04 19:49:31 — fix: sanitize incoming query string parameters
+2026-11-04 20:01:16 — docs: add request payload examples for webhook receiver
