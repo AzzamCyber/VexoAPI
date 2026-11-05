@@ -7918,3 +7918,4 @@
 2026-11-04 23:37:06 — docs(readme): polish quick-start guide and examples
 2026-11-05 09:55:22 — ⚡ Optimasi struktur data untuk pemrosesan payload
 2026-11-05 09:59:36 — perf: improve response latency for cached lookups
+2026-11-05 10:03:22 — docs: update API telemetry and endpoint references
