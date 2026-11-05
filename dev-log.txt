@@ -7932,3 +7932,4 @@
 2026-11-05 11:48:15 — fix: guard against undefined property access in mapper
 2026-11-05 11:55:43 — refactor: organize constant definitions and status codes
 2026-11-05 11:58:54 — style: reorganize import statements alphabetically
+2026-11-05 12:13:05 — docs: fix typo in authentication header instructions
