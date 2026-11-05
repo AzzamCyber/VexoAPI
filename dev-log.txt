@@ -7960,3 +7960,4 @@
 2026-11-05 16:00:36 — refactor(routes): simplify validation logic in controller
 2026-11-05 16:13:17 — refactor(core): streamline internal request pipeline
 2026-11-05 16:21:06 — docs: update parameter types and response schema
+2026-11-05 16:35:19 — perf: fine-tune buffer size for streaming responses
