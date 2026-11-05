@@ -7959,3 +7959,4 @@
 2026-11-05 15:52:42 — perf: optimize memory footprint on payload parser
 2026-11-05 16:00:36 — refactor(routes): simplify validation logic in controller
 2026-11-05 16:13:17 — refactor(core): streamline internal request pipeline
+2026-11-05 16:21:06 — docs: update parameter types and response schema
