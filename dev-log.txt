@@ -7940,3 +7940,4 @@
 2026-11-05 13:01:33 — ⚙️ Penyesuaian konfigurasi default environment
 2026-11-05 13:08:01 — style: normalize trailing whitespace across modules
 2026-11-05 13:17:34 — fix(cors): normalize default allowed origin headers
+2026-11-05 13:21:03 — refactor(handlers): modularize request dispatcher
