@@ -7966,3 +7966,4 @@
 2026-11-05 16:56:27 — refactor(utils): optimize string sanitizer helpers
 2026-11-05 17:04:34 — fix(validation): handle edge-case null values in params
 2026-11-05 17:11:52 — fix: correct status code return on missing authorization
+2026-11-05 17:17:15 — chore(ci): adjust workflow step timeout tolerance
