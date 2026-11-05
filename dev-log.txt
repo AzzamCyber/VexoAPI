@@ -7991,3 +7991,4 @@
 2026-11-05 20:28:49 — fix(cors): normalize default allowed origin headers
 2026-11-05 20:37:34 — refactor(routes): simplify validation logic in controller
 2026-11-05 20:48:09 — style: normalize trailing whitespace across modules
+2026-11-05 21:03:02 — ⚙️ Penyesuaian konfigurasi default environment
