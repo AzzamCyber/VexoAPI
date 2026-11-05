@@ -7990,3 +7990,4 @@
 2026-11-05 20:21:14 — refactor: reduce nesting in error propagation flow
 2026-11-05 20:28:49 — fix(cors): normalize default allowed origin headers
 2026-11-05 20:37:34 — refactor(routes): simplify validation logic in controller
+2026-11-05 20:48:09 — style: normalize trailing whitespace across modules
