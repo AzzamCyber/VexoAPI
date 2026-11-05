@@ -7964,3 +7964,4 @@
 2026-11-05 16:42:42 — 📚 Pembaruan panduan integrasi pada README
 2026-11-05 16:48:18 — 🐛 Perbaikan minor pengecekan response status code
 2026-11-05 16:56:27 — refactor(utils): optimize string sanitizer helpers
+2026-11-05 17:04:34 — fix(validation): handle edge-case null values in params
