@@ -7973,3 +7973,4 @@
 2026-11-05 17:44:55 — docs: update API telemetry and endpoint references
 2026-11-05 17:56:33 — docs(readme): polish quick-start guide and examples
 2026-11-05 18:04:02 — fix(telemetry): suppress transient network warning in dev mode
+2026-11-05 18:10:27 — fix(types): update type annotations for payload handler
