@@ -7962,3 +7962,4 @@
 2026-11-05 16:21:06 — docs: update parameter types and response schema
 2026-11-05 16:35:19 — perf: fine-tune buffer size for streaming responses
 2026-11-05 16:42:42 — 📚 Pembaruan panduan integrasi pada README
+2026-11-05 16:48:18 — 🐛 Perbaikan minor pengecekan response status code
