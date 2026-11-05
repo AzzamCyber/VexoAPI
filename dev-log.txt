@@ -7972,3 +7972,4 @@
 2026-11-05 17:34:38 — fix: sanitize incoming query string parameters
 2026-11-05 17:44:55 — docs: update API telemetry and endpoint references
 2026-11-05 17:56:33 — docs(readme): polish quick-start guide and examples
+2026-11-05 18:04:02 — fix(telemetry): suppress transient network warning in dev mode
