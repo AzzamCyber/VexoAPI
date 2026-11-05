@@ -7975,3 +7975,4 @@
 2026-11-05 18:04:02 — fix(telemetry): suppress transient network warning in dev mode
 2026-11-05 18:10:27 — fix(types): update type annotations for payload handler
 2026-11-05 18:21:59 — chore(deps): audit dependencies and check for updates
+2026-11-05 18:27:43 — style: standardize indentation in response templates
