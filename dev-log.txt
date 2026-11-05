@@ -7957,3 +7957,4 @@
 2026-11-05 15:34:45 — fix(validation): handle edge-case null values in params
 2026-11-05 15:39:01 — docs: add request payload examples for webhook receiver
 2026-11-05 15:52:42 — perf: optimize memory footprint on payload parser
+2026-11-05 16:00:36 — refactor(routes): simplify validation logic in controller
