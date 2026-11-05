@@ -7985,3 +7985,4 @@
 2026-11-05 19:33:40 — fix: guard against undefined property access in mapper
 2026-11-05 19:46:24 — ✨ Optimasi logic handler dan routing internal
 2026-11-05 20:00:01 — refactor: organize constant definitions and status codes
+2026-11-05 20:10:40 — docs: add request payload examples for webhook receiver
