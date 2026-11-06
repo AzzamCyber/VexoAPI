@@ -8029,3 +8029,4 @@
 2026-11-06 11:21:19 — docs: add request payload examples for webhook receiver
 2026-11-06 11:35:27 — ✨ Optimasi logic handler dan routing internal
 2026-11-06 11:47:17 — refactor(core): streamline internal request pipeline
+2026-11-06 11:57:07 — docs: update API telemetry and endpoint references
