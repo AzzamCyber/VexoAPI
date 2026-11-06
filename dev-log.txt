@@ -8112,3 +8112,4 @@
 2026-11-07 01:02:34 — docs(readme): polish quick-start guide and examples
 2026-11-07 01:17:58 — fix: sanitize incoming query string parameters
 2026-11-07 01:24:42 — 🧹 Clean up kode komentar lama dan format styling
+2026-11-07 01:35:48 — docs: clarify rate-limit error responses in documentation
