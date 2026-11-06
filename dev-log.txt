@@ -8017,3 +8017,4 @@
 2026-11-06 01:08:44 — refactor(utils): optimize string sanitizer helpers
 2026-11-06 01:12:59 — docs: update API telemetry and endpoint references
 2026-11-06 09:34:46 — refactor(routes): simplify validation logic in controller
+2026-11-06 09:41:11 — refactor: extract reusable header parser method
