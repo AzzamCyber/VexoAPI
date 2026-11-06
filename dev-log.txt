@@ -8083,3 +8083,4 @@
 2026-11-06 20:14:12 — docs: update parameter types and response schema
 2026-11-06 20:29:37 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-11-06 20:44:42 — chore: synchronize project version constants
+2026-11-06 20:53:12 — style: format JSON schemas and configuration comments
