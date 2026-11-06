@@ -8094,3 +8094,4 @@
 2026-11-06 22:03:49 — refactor(core): streamline internal request pipeline
 2026-11-06 22:08:26 — chore: verify environment configuration defaults
 2026-11-06 22:18:06 — ⚙️ Penyesuaian konfigurasi default environment
+2026-11-06 22:25:29 — docs: clarify rate-limit error responses in documentation
