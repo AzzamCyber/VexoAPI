@@ -8080,3 +8080,4 @@
 2026-11-06 19:52:04 — fix(validation): handle edge-case null values in params
 2026-11-06 19:58:51 — refactor(routes): simplify validation logic in controller
 2026-11-06 20:02:03 — style: align formatting with project linter standards
+2026-11-06 20:14:12 — docs: update parameter types and response schema
