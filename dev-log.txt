@@ -8063,3 +8063,4 @@
 2026-11-06 17:11:27 — docs(readme): polish quick-start guide and examples
 2026-11-06 17:19:15 — fix: correct status code return on missing authorization
 2026-11-06 17:31:32 — perf: improve response latency for cached lookups
+2026-11-06 17:39:02 — 📚 Pembaruan panduan integrasi pada README
