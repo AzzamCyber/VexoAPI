@@ -8101,3 +8101,4 @@
 2026-11-06 23:14:41 — refactor(utils): optimize string sanitizer helpers
 2026-11-06 23:29:18 — perf: optimize memory footprint on payload parser
 2026-11-06 23:44:26 — fix(telemetry): suppress transient network warning in dev mode
+2026-11-06 23:49:31 — docs: document internal helper functions and return values
