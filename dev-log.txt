@@ -8091,3 +8091,4 @@
 2026-11-06 21:41:19 — style: normalize trailing whitespace across modules
 2026-11-06 21:48:00 — docs: update API telemetry and endpoint references
 2026-11-06 21:54:44 — fix(types): update type annotations for payload handler
+2026-11-06 22:03:49 — refactor(core): streamline internal request pipeline
