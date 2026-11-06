@@ -8026,3 +8026,4 @@
 2026-11-06 10:41:36 — refactor: clean up deprecated utility arguments
 2026-11-06 10:54:51 — docs: clarify rate-limit error responses in documentation
 2026-11-06 11:08:58 — fix(telemetry): suppress transient network warning in dev mode
+2026-11-06 11:21:19 — docs: add request payload examples for webhook receiver
