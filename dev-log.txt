@@ -8114,3 +8114,4 @@
 2026-11-07 01:24:42 — 🧹 Clean up kode komentar lama dan format styling
 2026-11-07 01:35:48 — docs: clarify rate-limit error responses in documentation
 2026-11-07 01:44:15 — fix: sanitize incoming query string parameters
+2026-11-07 01:52:21 — fix(types): update type annotations for payload handler
