@@ -8060,3 +8060,4 @@
 2026-11-06 16:44:30 — docs: update parameter types and response schema
 2026-11-06 16:52:15 — 🧹 Clean up kode komentar lama dan format styling
 2026-11-06 17:05:10 — style: standardize indentation in response templates
+2026-11-06 17:11:27 — docs(readme): polish quick-start guide and examples
