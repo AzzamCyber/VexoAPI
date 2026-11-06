@@ -8079,3 +8079,4 @@
 2026-11-06 19:45:56 — fix: guard against undefined property access in mapper
 2026-11-06 19:52:04 — fix(validation): handle edge-case null values in params
 2026-11-06 19:58:51 — refactor(routes): simplify validation logic in controller
+2026-11-06 20:02:03 — style: align formatting with project linter standards
