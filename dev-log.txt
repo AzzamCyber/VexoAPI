@@ -8089,3 +8089,4 @@
 2026-11-06 21:14:55 — fix(cors): normalize default allowed origin headers
 2026-11-06 21:29:44 — 🔍 Pengecekan sanitasi input dan validasi request
 2026-11-06 21:41:19 — style: normalize trailing whitespace across modules
+2026-11-06 21:48:00 — docs: update API telemetry and endpoint references
