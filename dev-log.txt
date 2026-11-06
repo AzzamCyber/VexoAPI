@@ -8035,3 +8035,4 @@
 2026-11-06 12:34:03 — style: format JSON schemas and configuration comments
 2026-11-06 12:42:52 — 🔧 Refactor fungsi helper pada utilitas umum
 2026-11-06 12:47:28 — fix(validation): handle edge-case null values in params
+2026-11-06 12:55:48 — fix(cors): normalize default allowed origin headers
